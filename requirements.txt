@@ -1,7 +1,7 @@
 setuptools
 wheel
 flask==2.2.5
-flask-cors==3.0.10   ✅ NEW
+flask-cors==3.0.10
 gunicorn==21.2.0
 numpy==1.23.5
 pandas==1.5.3
