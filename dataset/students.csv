@@ -1,0 +1,2001 @@
+Name,Roll_No,Branch,CGPA,DSA_Score,WebDev_Score,ML_Score,Aptitude_Score,Communication_Score,Internships,Projects,Hackathons,Placement_Status,Salary_LPA,Company
+Arjun Rastogi,2200IT000,IT,6.07,55,51,46,34,37,1,5,1,Placed,3.4,Genpact
+Mayank Patel,2100EC001,ECE,7.03,42,47,24,55,39,2,3,1,Not Placed,0.0,Not Placed
+Saanvi Verma,2100EC002,ECE,7.55,26,24,49,64,54,0,1,1,Placed,3.71,Genpact
+Ravi Dhawan,2100CS003,CSE,6.85,41,54,50,61,65,0,4,0,Placed,3.62,Cyient
+Neeraj Bhatt,2400IT004,IT,8.38,94,60,63,66,42,3,5,0,Placed,6.86,HCL
+Nikita Rastogi,2100EC005,ECE,6.94,46,51,65,42,35,3,8,1,Placed,4.64,Concentrix
+Sakshi Rastogi,2200CE006,CE,7.11,47,20,31,46,35,3,7,0,Placed,3.1,Genpact
+Pari Mishra,2400CS007,CSE,10.0,87,78,64,58,80,2,7,1,Placed,31.5,Microsoft
+Meghna Dhawan,2300EC008,ECE,7.31,47,58,25,60,34,1,3,2,Placed,8.66,Zoho
+Sachin Iyer,2100EC009,ECE,7.93,54,47,26,74,76,3,5,1,Placed,3.2,Amdocs
+Manish Bansal,2300EC010,ECE,9.54,82,40,72,57,72,2,7,2,Placed,38.23,Qualcomm
+Neeraj Kumar,2100EC011,ECE,8.29,58,100,62,48,35,4,8,2,Placed,5.77,Mphasis
+Aman Bansal,2100EC012,ECE,7.51,60,32,48,55,31,3,8,4,Placed,4.16,Genpact
+Mohit Rastogi,2400CS013,CSE,7.22,96,20,55,29,42,1,4,0,Placed,8.49,Mphasis
+Navya Arora,2300EC014,ECE,8.94,81,58,64,80,45,2,2,4,Placed,8.62,HCL
+Khushi Kumar,2200ME015,ME,6.42,25,57,67,59,20,1,1,0,Not Placed,0.0,Not Placed
+Shaurya Iyer,2400CS016,CSE,7.22,90,54,29,33,48,2,4,3,Placed,4.17,iGate
+Kartik Malhotra,2100EE017,EE,7.22,23,69,29,81,63,1,3,0,Placed,3.04,Genpact
+Rohan Reddy,2300CS018,CSE,6.92,62,68,34,40,43,2,8,2,Placed,10.16,Infosys
+Ankit Malhotra,2200CS019,CSE,6.97,59,69,33,63,45,0,5,2,Placed,6.96,Mphasis
+Swati Iyer,2200EC020,ECE,8.22,72,40,51,30,85,4,5,0,Placed,10.66,Cognizant
+Aryan Khanna,2300ME021,ME,7.44,71,39,30,72,14,3,2,1,Placed,5.39,Hexaware
+Nikita Reddy,2300CS022,CSE,9.03,91,75,59,46,41,4,4,3,Placed,29.26,Adobe
+Ravi Rawat,2100EC023,ECE,7.37,47,80,64,78,49,3,5,4,Placed,10.6,Zoho
+Ayaan Yadav,2200ME024,ME,8.09,83,64,43,58,48,3,8,0,Placed,12.0,Zoho
+Radhika Kumar,2400EE025,EE,7.51,77,54,36,31,27,3,7,3,Placed,5.51,Capgemini
+Mansi Mehta,2100CS026,CSE,8.27,93,44,63,75,22,2,8,2,Placed,8.19,Mphasis
+Kartik Bhatt,2300IT027,IT,7.36,44,67,46,39,41,3,4,0,Not Placed,0.0,Not Placed
+Anika Bansal,2400CS028,CSE,7.37,48,45,26,80,51,0,5,1,Not Placed,0.0,Not Placed
+Deepak Sharma,2300CS029,CSE,8.2,67,19,27,79,83,0,5,1,Placed,6.32,Mindtree
+Ravi Patel,2300CS030,CSE,7.28,62,35,34,41,44,3,6,2,Not Placed,0.0,Not Placed
+Ishaan Arora,2200EC031,ECE,5.64,7,52,32,40,38,0,1,0,Not Placed,0.0,Not Placed
+Abhishek Malhotra,2400CS032,CSE,7.56,53,61,45,51,35,4,8,1,Placed,4.02,Mu Sigma
+Rahul Goel,2200CS033,CSE,5.33,47,25,40,12,43,2,2,0,Not Placed,0.0,Not Placed
+Aryan Chopra,2100EE034,EE,8.36,54,69,29,68,80,2,8,0,Placed,10.81,Infosys
+Aadhya Bhatt,2200CS035,CSE,9.4,75,79,55,65,67,2,7,2,Placed,41.69,Amazon
+Aishwarya Chauhan,2300IT036,IT,8.47,76,46,53,64,65,2,6,1,Placed,40.93,Oracle
+Sneha Bhatt,2200IT037,IT,7.88,88,50,37,49,70,3,7,2,Placed,8.9,Hexaware
+Swati Arora,2400EC038,ECE,7.06,51,77,52,53,58,1,7,2,Placed,7.49,Byju's
+Anika Saxena,2200CS039,CSE,8.13,87,50,64,26,49,2,5,3,Placed,8.85,Infosys
+Diya Sethi,2200EC040,ECE,6.98,33,91,43,50,49,2,3,2,Placed,4.05,Sasken
+Aarav Kumar,2100IT041,IT,9.2,100,30,48,63,31,3,2,2,Placed,6.16,HCL
+Vivaan Kapoor,2100CS042,CSE,7.62,64,66,30,50,47,2,8,0,Placed,7.66,Mindtree
+Kabir Rawat,2200CE043,CE,5.6,28,54,15,18,17,2,6,3,Not Placed,0.0,Not Placed
+Sachin Chopra,2400IT044,IT,9.99,99,61,53,56,61,2,2,2,Placed,18.81,Adobe
+Pallavi Tiwari,2100CS045,CSE,8.07,74,77,77,73,20,2,3,2,Placed,3.58,NIIT
+Meghna Mukherjee,2400IT046,IT,6.23,68,30,73,50,50,2,2,1,Placed,7.01,Tech Mahindra
+Kartik Patel,2100ME047,ME,7.08,50,77,28,76,63,2,4,1,Placed,4.9,Amdocs
+Pari Saxena,2200IT048,IT,7.61,46,63,51,62,71,3,6,2,Placed,4.75,HCL
+Myra Mukherjee,2200ME049,ME,7.36,60,43,58,51,42,3,3,0,Placed,9.72,Cognizant
+Neha Kumar,2400IT050,IT,7.09,62,61,7,41,69,2,3,1,Placed,4.88,Cyient
+Aditya Bhatt,2100ME051,ME,8.48,57,80,85,57,46,2,4,1,Placed,13.39,Microsoft
+Shaurya Das,2400CS052,CSE,7.46,68,83,29,67,47,4,8,0,Placed,10.35,Tech Mahindra
+Nikhil Singh,2200IT053,IT,6.73,78,40,22,54,39,1,5,0,Placed,4.78,Amdocs
+Mohit Mehta,2400EE054,EE,7.49,59,60,73,51,37,2,4,1,Placed,8.1,Cognizant
+Khushi Khanna,2400EC055,ECE,8.73,59,75,66,90,66,3,8,1,Placed,7.01,Wipro
+Ritvik Dubey,2100ME056,ME,7.64,50,49,62,58,52,3,6,3,Placed,3.6,Sasken
+Mayank Malhotra,2100ME057,ME,7.43,56,35,59,32,41,2,1,1,Placed,4.54,Mu Sigma
+Bhavna Rajput,2200ME058,ME,5.16,25,10,20,43,61,0,1,1,Not Placed,0.0,Not Placed
+Ravi Mishra,2200IT059,IT,7.28,44,84,53,49,38,0,7,4,Placed,3.07,NIIT
+Kartik Saxena,2400EE060,EE,8.65,73,37,49,68,41,2,3,2,Placed,5.04,Infosys
+Saurabh Dhawan,2100IT061,IT,7.37,100,46,56,37,57,0,4,3,Placed,4.57,L&T Infotech
+Ankur Sethi,2300IT062,IT,6.35,54,43,31,42,34,0,4,0,Placed,3.06,iGate
+Yash Malhotra,2200EE063,EE,8.26,63,41,58,66,70,2,7,1,Placed,4.95,Cognizant
+Myra Goel,2400CS064,CSE,6.26,44,59,55,85,45,2,6,0,Placed,4.74,Sapient
+Aarav Iyer,2100ME065,ME,5.2,24,61,4,14,48,0,5,2,Not Placed,0.0,Not Placed
+Akash Dubey,2300EC066,ECE,8.95,81,65,46,70,51,2,6,2,Placed,10.3,Wipro
+Aadhya Saxena,2300CS067,CSE,8.89,78,74,57,47,74,2,4,0,Placed,10.02,Cognizant
+Varun Bhatt,2300EC068,ECE,8.76,66,63,76,60,62,1,4,0,Placed,6.87,L&T Infotech
+Yash Khanna,2300EC069,ECE,7.2,65,52,59,11,88,1,2,1,Placed,4.94,NIIT
+Dhruv Agarwal,2100CS070,CSE,6.75,86,47,44,60,58,4,8,1,Placed,15.52,Oracle
+Kabir Bansal,2200EC071,ECE,5.92,38,43,39,46,75,3,8,1,Placed,3.65,Sapient
+Kartik Mehta,2400IT072,IT,9.31,70,50,20,60,33,2,5,2,Placed,4.16,iGate
+Sai Mukherjee,2300EC073,ECE,5.33,54,44,39,48,58,1,4,1,Not Placed,0.0,Not Placed
+Aarav Kapoor,2200CS074,CSE,8.67,67,29,61,85,69,2,4,2,Placed,4.93,iGate
+Mayank Chatterjee,2400IT075,IT,7.93,72,83,46,51,55,3,8,3,Placed,9.51,Mindtree
+Ayaan Kumar,2200CS076,CSE,6.5,87,28,43,54,55,1,1,3,Placed,8.23,Mindtree
+Rahul Sethi,2200EE077,EE,5.13,37,18,0,7,61,4,3,0,Not Placed,0.0,Not Placed
+Myra Gupta,2300CS078,CSE,6.8,42,39,21,48,35,0,5,1,Not Placed,0.0,Not Placed
+Saanvi Bhatia,2200ME079,ME,9.54,64,60,65,72,68,2,6,2,Placed,5.64,Mphasis
+Yash Patel,2300EE080,EE,7.24,64,47,58,41,54,3,4,1,Placed,4.87,Cyient
+Shivani Yadav,2200EC081,ECE,7.01,37,16,77,34,65,1,6,4,Placed,3.16,Concentrix
+Ankur Verma,2200IT082,IT,8.04,56,60,45,73,62,1,7,0,Placed,4.69,Hexaware
+Pallavi Saxena,2300CS083,CSE,7.28,63,64,43,59,52,2,5,0,Not Placed,0.0,Not Placed
+Dev Patel,2400ME084,ME,6.37,42,30,26,39,35,0,2,3,Not Placed,0.0,Not Placed
+Vishal Srivastava,2200IT085,IT,10.0,69,68,41,49,69,3,2,0,Placed,20.57,Samsung R&D
+Simran Srivastava,2200ME086,ME,7.33,36,29,39,25,88,3,2,1,Not Placed,0.0,Not Placed
+Yash Tiwari,2400IT087,IT,6.87,80,48,25,63,38,1,4,4,Placed,8.39,Accenture
+Aadhya Rastogi,2300CS088,CSE,7.61,91,52,48,58,43,1,1,3,Placed,9.46,Mphasis
+Vidhi Bhatt,2300CS089,CSE,6.71,74,64,56,36,23,2,5,4,Placed,8.87,TCS
+Dhruv Pandey,2300ME090,ME,7.85,74,44,30,42,17,1,4,2,Placed,4.69,Mu Sigma
+Abhishek Mukherjee,2300CE091,CE,7.42,66,33,60,51,67,3,5,0,Placed,9.94,Hexaware
+Komal Dhawan,2100ME092,ME,7.24,30,55,50,84,70,2,6,1,Placed,11.94,Capgemini
+Dhruv Gupta,2400CS093,CSE,6.39,73,41,42,25,60,1,3,1,Placed,10.09,TCS
+Rahul Mukherjee,2100CS094,CSE,7.35,69,39,38,63,44,4,8,1,Placed,9.32,Mphasis
+Shivani Malhotra,2100CS095,CSE,10.0,100,100,97,91,78,2,4,5,Placed,22.83,Goldman Sachs
+Trisha Das,2300IT096,IT,7.3,61,82,49,38,84,3,7,1,Placed,8.39,Capgemini
+Aishwarya Jain,2200CS097,CSE,8.43,89,59,47,67,51,2,4,2,Placed,32.14,Uber
+Vidhi Pandey,2300CS098,CSE,8.42,92,60,49,49,39,4,5,1,Placed,7.58,Capgemini
+Harsh Bansal,2200IT099,IT,6.04,54,48,41,43,44,1,6,2,Not Placed,0.0,Not Placed
+Nikita Dhawan,2300CS100,CSE,6.99,51,64,35,64,97,0,4,0,Not Placed,0.0,Not Placed
+Jyoti Chatterjee,2200CS101,CSE,4.0,23,69,48,10,27,2,4,1,Not Placed,0.0,Not Placed
+Garima Chauhan,2100IT102,IT,7.55,89,62,37,50,23,4,2,3,Placed,10.67,Cognizant
+Isha Saxena,2300IT103,IT,6.5,56,23,48,36,82,2,6,2,Placed,11.88,HCL
+Ishaan Verma,2100CS104,CSE,6.84,50,57,53,45,28,2,8,0,Placed,3.32,Genpact
+Shivani Kumar,2400CS105,CSE,8.68,94,100,64,68,59,1,8,1,Placed,9.84,Capgemini
+Neeraj Nair,2400CE106,CE,6.81,42,36,21,71,43,2,6,1,Not Placed,0.0,Not Placed
+Neha Yadav,2100CS107,CSE,7.74,61,67,39,67,77,2,2,1,Placed,11.54,Byju's
+Aman Mukherjee,2200CE108,CE,7.97,69,29,58,61,64,3,7,1,Placed,6.6,Wipro
+Ananya Khanna,2200CE109,CE,7.33,60,42,51,61,34,3,5,1,Placed,8.02,Byju's
+Deepak Jain,2400IT110,IT,5.47,56,61,12,43,61,2,3,1,Not Placed,0.0,Not Placed
+Preeti Chatterjee,2400CS111,CSE,8.89,84,86,60,74,68,2,8,1,Placed,24.69,Oracle
+Navya Joshi,2400IT112,IT,7.91,71,85,54,89,54,1,3,0,Placed,5.97,Cognizant
+Tushar Rastogi,2400EC113,ECE,4.82,14,18,22,31,62,1,4,1,Not Placed,0.0,Not Placed
+Kabir Chatterjee,2100IT114,IT,8.69,77,98,49,54,28,2,8,1,Placed,15.78,Goldman Sachs
+Kabir Kapoor,2300IT115,IT,8.48,42,49,45,48,52,0,6,4,Placed,3.24,Cyient
+Krishna Yadav,2200CE116,CE,7.17,40,15,28,88,41,0,2,3,Placed,6.57,Capgemini
+Neeraj Dubey,2100IT117,IT,6.51,51,75,42,52,15,2,6,0,Not Placed,0.0,Not Placed
+Pallavi Kapoor,2400CE118,CE,5.94,32,38,26,21,68,0,4,0,Not Placed,0.0,Not Placed
+Ananya Dubey,2400ME119,ME,7.54,54,27,41,47,49,0,1,0,Placed,3.05,Amdocs
+Himanshu Chopra,2400ME120,ME,5.04,25,30,26,37,59,2,5,1,Placed,4.52,Syntel
+Amit Goel,2400CE121,CE,9.78,50,53,45,64,56,2,5,2,Placed,11.95,Paytm
+Tanya Bhatt,2200CE122,CE,8.42,93,32,56,55,52,2,8,0,Placed,11.08,Tech Mahindra
+Kabir Mukherjee,2400EE123,EE,8.2,60,31,46,65,58,1,4,3,Placed,7.56,TCS
+Sakshi Reddy,2200CE124,CE,7.6,78,69,38,53,70,2,4,2,Placed,4.61,Syntel
+Rajat Bhatt,2100CS125,CSE,5.84,62,54,45,47,34,2,7,1,Placed,3.13,Amdocs
+Sai Mukherjee,2200IT126,IT,7.53,63,57,51,47,47,2,3,1,Placed,4.61,Syntel
+Aditya Mehta,2400EE127,EE,6.02,52,34,25,13,58,4,6,2,Not Placed,0.0,Not Placed
+Sneha Iyer,2300ME128,ME,8.17,47,61,54,74,100,1,4,1,Placed,4.5,Accenture
+Kavya Das,2300EC129,ECE,8.65,61,58,68,51,43,2,8,2,Placed,9.25,Paytm
+Vishal Verma,2100ME130,ME,8.36,82,55,50,52,48,3,5,1,Placed,3.1,Sapient
+Vikas Kumar,2100ME131,ME,5.5,53,29,19,44,38,3,4,2,Placed,9.34,Zoho
+Aryan Tiwari,2100IT132,IT,6.32,62,42,42,36,44,0,3,1,Not Placed,0.0,Not Placed
+Aryan Jain,2400IT133,IT,4.23,68,48,16,23,41,2,6,2,Not Placed,0.0,Not Placed
+Ankit Dubey,2400CS134,CSE,7.62,89,34,23,57,52,3,5,1,Placed,3.97,iGate
+Navya Dhawan,2100ME135,ME,6.24,31,39,40,44,43,1,2,2,Not Placed,0.0,Not Placed
+Harsh Patel,2100ME136,ME,5.64,60,14,40,47,41,1,4,0,Not Placed,0.0,Not Placed
+Kriti Nair,2400CS137,CSE,10.0,90,83,65,52,50,2,5,1,Placed,13.65,Adobe
+Saurabh Saxena,2100CE138,CE,6.58,54,13,41,74,24,0,8,0,Placed,6.36,Hexaware
+Vidhi Dhawan,2100EC139,ECE,7.07,36,53,66,55,44,0,4,2,Placed,3.19,Sasken
+Amit Bhatt,2400IT140,IT,7.38,56,41,45,42,23,3,5,3,Not Placed,0.0,Not Placed
+Aadhya Thakur,2300EC141,ECE,8.25,83,30,40,52,26,0,1,3,Placed,3.87,Mu Sigma
+Ritika Patel,2400EC142,ECE,9.24,73,43,38,66,74,3,5,1,Placed,7.57,Accenture
+Nupur Yadav,2400ME143,ME,8.05,53,69,61,69,36,4,4,1,Placed,7.62,Wipro
+Shivani Bhatt,2400EC144,ECE,6.42,28,22,26,62,62,2,5,1,Not Placed,0.0,Not Placed
+Komal Sethi,2300EC145,ECE,9.01,61,62,86,72,65,3,5,1,Placed,8.35,Accenture
+Sai Rastogi,2400EC146,ECE,8.03,57,61,64,54,85,4,8,4,Placed,10.01,HCL
+Kriti Bajaj,2400IT147,IT,6.76,56,59,48,33,52,4,6,1,Placed,10.99,Accenture
+Prateek Malhotra,2200CS148,CSE,6.16,36,54,49,33,61,2,3,1,Not Placed,0.0,Not Placed
+Sneha Bhatia,2300IT149,IT,7.89,87,31,63,45,40,3,4,3,Placed,9.24,Accenture
+Radhika Rastogi,2100CS150,CSE,9.32,75,63,51,62,27,4,4,3,Placed,6.48,Mindtree
+Sai Saxena,2400CS151,CSE,5.51,18,40,46,19,46,0,2,0,Not Placed,0.0,Not Placed
+Aishwarya Saxena,2400EC152,ECE,9.1,89,80,74,45,73,2,8,3,Placed,20.35,Samsung R&D
+Diya Mishra,2300IT153,IT,7.09,59,62,32,56,34,2,5,3,Placed,4.43,Genpact
+Khushi Saxena,2300CS154,CSE,7.85,64,44,37,44,37,0,4,5,Placed,10.03,Mphasis
+Aparna Khanna,2300EC155,ECE,8.12,58,41,53,70,22,2,8,2,Placed,10.69,Capgemini
+Meghna Iyer,2300CS156,CSE,7.04,59,53,12,50,37,3,4,0,Placed,4.76,iGate
+Pooja Agarwal,2200ME157,ME,5.95,29,43,13,25,48,1,4,2,Not Placed,0.0,Not Placed
+Anika Bhatt,2200IT158,IT,8.25,72,80,12,40,54,4,8,1,Placed,5.71,HCL
+Mayank Joshi,2300CS159,CSE,9.59,81,77,49,67,60,3,3,2,Placed,8.68,Hexaware
+Pari Tiwari,2300IT160,IT,9.01,45,85,69,66,33,2,5,1,Placed,7.44,HCL
+Riya Goel,2100CE161,CE,7.88,59,24,39,56,100,2,2,3,Placed,4.69,Cyient
+Kabir Gupta,2100IT162,IT,8.72,67,40,47,53,54,2,5,2,Placed,7.32,Mindtree
+Khushi Jain,2400ME163,ME,7.45,26,59,30,37,40,1,4,0,Not Placed,0.0,Not Placed
+Aarav Chopra,2300EC164,ECE,7.06,50,56,53,40,51,2,8,0,Placed,4.82,Syntel
+Jyoti Kapoor,2200ME165,ME,7.76,83,69,46,69,33,2,4,1,Placed,11.31,TCS
+Aparna Agarwal,2100EC166,ECE,6.21,64,48,53,34,62,2,5,1,Not Placed,0.0,Not Placed
+Ritika Kumar,2100EC167,ECE,8.04,68,63,39,66,58,2,2,0,Placed,11.09,Wipro
+Ankit Goel,2100CS168,CSE,6.85,59,29,60,58,44,4,5,3,Placed,3.04,Genpact
+Manish Das,2200IT169,IT,7.11,66,79,55,32,61,3,7,4,Placed,6.22,Zoho
+Jyoti Chatterjee,2300EC170,ECE,7.74,25,61,62,47,54,1,6,2,Placed,4.2,Sasken
+Simran Chopra,2100CS171,CSE,6.27,46,80,52,50,56,3,8,3,Placed,4.89,L&T Infotech
+Himanshu Dubey,2200CS172,CSE,6.53,53,66,43,50,62,1,7,5,Placed,4.95,iGate
+Shaurya Saxena,2200ME173,ME,6.96,46,31,34,27,41,1,5,1,Not Placed,0.0,Not Placed
+Shaurya Sharma,2400CS174,CSE,6.92,53,38,21,42,52,1,4,0,Not Placed,0.0,Not Placed
+Khushi Dhawan,2400EC175,ECE,7.12,45,51,46,88,56,1,3,1,Not Placed,0.0,Not Placed
+Saanvi Srivastava,2300IT176,IT,9.49,80,100,69,77,64,2,8,2,Placed,16.16,Goldman Sachs
+Aadhya Srivastava,2300CS177,CSE,7.17,90,83,79,49,55,2,5,2,Placed,4.85,Sasken
+Gaurav Agarwal,2200EE178,EE,5.82,41,59,20,30,41,2,5,1,Not Placed,0.0,Not Placed
+Kabir Yadav,2100EC179,ECE,7.75,47,58,14,48,51,3,2,0,Not Placed,0.0,Not Placed
+Shaurya Goel,2300CE180,CE,4.41,0,16,25,0,32,1,4,0,Not Placed,0.0,Not Placed
+Anika Iyer,2300EC181,ECE,5.97,51,42,42,96,9,3,1,1,Placed,4.87,Hexaware
+Kavya Thakur,2400ME182,ME,7.5,41,33,32,71,42,1,3,3,Placed,4.55,Syntel
+Abhishek Gupta,2400CS183,CSE,9.06,77,65,59,70,54,3,8,4,Placed,23.22,Flipkart
+Diya Mishra,2200CS184,CSE,5.53,39,61,24,46,41,0,1,1,Not Placed,0.0,Not Placed
+Himanshu Rastogi,2100EC185,ECE,7.88,55,21,68,68,61,3,3,0,Placed,9.48,Zoho
+Vishal Rajput,2400IT186,IT,8.52,71,83,31,51,44,1,5,1,Placed,7.75,Byju's
+Riya Sethi,2400CS187,CSE,5.55,47,25,27,47,60,3,6,2,Placed,4.15,Syntel
+Vishal Bhatia,2400IT188,IT,9.22,91,69,50,55,58,1,8,0,Placed,7.93,Accenture
+Trisha Patel,2200CS189,CSE,7.14,40,65,13,65,58,1,4,0,Placed,3.93,Sapient
+Khushi Rawat,2300IT190,IT,6.86,66,73,29,43,70,2,6,1,Placed,11.78,Mphasis
+Preeti Khanna,2100EC191,ECE,6.12,36,42,20,39,58,2,3,3,Not Placed,0.0,Not Placed
+Isha Malhotra,2300CS192,CSE,7.15,49,85,29,43,54,2,3,1,Placed,3.46,Sapient
+Aman Reddy,2100EC193,ECE,8.52,70,50,75,82,81,2,8,3,Placed,8.36,Mphasis
+Pallavi Singh,2200IT194,IT,5.22,53,39,30,23,67,2,6,3,Not Placed,0.0,Not Placed
+Shivani Rawat,2400IT195,IT,8.09,37,82,40,54,80,4,3,2,Placed,6.25,Zoho
+Pranav Rastogi,2200CS196,CSE,7.05,52,42,41,51,40,1,2,1,Placed,3.8,iGate
+Khushi Rawat,2100EE197,EE,6.55,19,48,17,59,44,2,3,0,Not Placed,0.0,Not Placed
+Tushar Dhawan,2200CS198,CSE,7.37,50,70,39,12,44,1,6,0,Not Placed,0.0,Not Placed
+Harsh Khanna,2100IT199,IT,5.79,42,47,26,34,28,2,5,0,Not Placed,0.0,Not Placed
+Isha Srivastava,2100EC200,ECE,7.92,73,44,68,64,40,2,4,5,Placed,25.57,Samsung R&D
+Vikas Yadav,2400IT201,IT,6.66,67,16,28,53,52,3,3,0,Placed,4.78,iGate
+Pallavi Joshi,2400EE202,EE,6.01,29,24,43,54,54,1,6,1,Not Placed,0.0,Not Placed
+Deepak Khanna,2200EC203,ECE,8.21,49,65,68,64,48,4,3,1,Placed,4.26,Amdocs
+Abhishek Thakur,2200IT204,IT,5.86,51,63,8,43,63,2,2,1,Not Placed,0.0,Not Placed
+Kabir Das,2300CS205,CSE,8.43,59,81,83,65,56,3,3,1,Placed,9.46,Byju's
+Aanya Bansal,2300EC206,ECE,7.01,50,28,61,59,84,1,1,3,Placed,10.35,Paytm
+Sara Chatterjee,2400CS207,CSE,6.71,37,37,40,43,59,0,4,0,Placed,6.86,Accenture
+Aishwarya Bhatt,2400CS208,CSE,9.2,44,90,64,51,37,2,5,5,Placed,5.9,Tech Mahindra
+Priya Saxena,2400CS209,CSE,9.23,75,36,75,73,52,4,4,0,Placed,5.29,HCL
+Saanvi Malhotra,2400EC210,ECE,5.44,38,54,38,36,34,2,7,2,Not Placed,0.0,Not Placed
+Anjali Yadav,2400IT211,IT,9.56,79,67,68,85,80,2,6,2,Placed,7.04,TCS
+Ravi Sethi,2300EC212,ECE,7.85,43,29,21,31,28,2,3,3,Placed,8.86,Paytm
+Varun Patel,2400IT213,IT,6.75,44,44,17,42,34,0,6,0,Not Placed,0.0,Not Placed
+Sachin Yadav,2400EC214,ECE,7.05,62,31,35,47,29,2,5,2,Not Placed,0.0,Not Placed
+Vihaan Joshi,2300EE215,EE,8.23,68,7,57,62,50,3,3,1,Placed,5.49,Accenture
+Megha Mishra,2300IT216,IT,5.88,71,47,19,37,60,1,4,2,Placed,4.57,Cyient
+Nidhi Rawat,2100EC217,ECE,8.62,74,54,91,75,65,3,5,1,Placed,7.81,L&T Infotech
+Aryan Bansal,2200CS218,CSE,6.88,50,42,39,53,4,1,4,0,Placed,11.09,Hexaware
+Gaurav Patel,2100EC219,ECE,9.58,78,38,55,73,50,1,2,1,Placed,11.92,Tech Mahindra
+Dev Goel,2100ME220,ME,8.37,32,74,69,57,7,2,2,0,Placed,4.46,Mu Sigma
+Ananya Bansal,2300IT221,IT,8.01,49,49,55,72,28,4,5,2,Placed,25.18,Flipkart
+Sara Saxena,2400IT222,IT,6.68,72,40,60,64,54,3,4,2,Placed,3.27,Sasken
+Shaurya Pandey,2100CS223,CSE,9.45,75,48,57,99,25,3,6,0,Placed,7.16,L&T Infotech
+Shivani Saxena,2400ME224,ME,5.25,39,44,52,44,59,2,3,2,Not Placed,0.0,Not Placed
+Advaith Iyer,2300CS225,CSE,7.23,71,56,42,33,54,3,4,5,Placed,4.5,Syntel
+Trisha Sharma,2400CE226,CE,5.58,40,20,16,26,26,1,3,0,Not Placed,0.0,Not Placed
+Vidhi Bhatt,2200CS227,CSE,5.95,38,17,56,57,44,2,7,0,Placed,4.79,NIIT
+Meghna Sethi,2300CS228,CSE,6.93,53,52,60,33,63,2,7,4,Placed,4.46,Amdocs
+Sonal Goel,2200EC229,ECE,6.31,43,14,26,19,70,0,2,2,Not Placed,0.0,Not Placed
+Aparna Patel,2200ME230,ME,5.39,16,33,13,32,36,0,6,3,Not Placed,0.0,Not Placed
+Kriti Bhatia,2300EC231,ECE,7.31,47,33,50,56,72,2,8,1,Not Placed,0.0,Not Placed
+Diya Reddy,2300CS232,CSE,7.26,89,48,61,56,44,2,8,3,Placed,5.34,TCS
+Abhishek Rawat,2300IT233,IT,8.13,72,63,23,70,71,2,1,2,Placed,3.71,Genpact
+Pooja Tiwari,2300IT234,IT,4.13,45,34,32,10,40,4,4,2,Not Placed,0.0,Not Placed
+Tushar Patel,2100IT235,IT,8.68,51,59,51,87,71,4,4,1,Placed,4.5,Cognizant
+Saanvi Sethi,2300CE236,CE,7.67,66,52,37,53,65,1,5,0,Placed,4.6,Concentrix
+Ritvik Malhotra,2400IT237,IT,6.86,87,41,54,49,45,4,8,0,Placed,7.53,Wipro
+Krishna Bhatt,2300CS238,CSE,6.87,74,32,28,52,25,1,6,1,Not Placed,0.0,Not Placed
+Navya Mehta,2400IT239,IT,6.13,58,37,36,30,50,0,5,5,Placed,3.4,iGate
+Anika Iyer,2100CS240,CSE,6.48,32,66,2,52,32,1,5,1,Not Placed,0.0,Not Placed
+Himanshu Srivastava,2400CS241,CSE,5.35,41,49,39,34,51,0,5,0,Not Placed,0.0,Not Placed
+Isha Reddy,2100EE242,EE,8.57,72,51,40,77,29,2,4,0,Placed,9.32,Cognizant
+Deepak Arora,2300EC243,ECE,6.07,25,64,27,49,72,1,4,1,Not Placed,0.0,Not Placed
+Aditi Arora,2100CS244,CSE,5.83,57,32,30,33,31,0,1,1,Not Placed,0.0,Not Placed
+Vishal Verma,2300CS245,CSE,7.24,67,84,46,65,25,1,8,1,Placed,6.2,Byju's
+Vikas Kumar,2400ME246,ME,7.03,62,50,36,42,0,1,8,4,Placed,4.35,iGate
+Anika Jain,2100IT247,IT,6.72,46,74,17,54,54,1,7,2,Placed,9.8,TCS
+Ritika Agarwal,2100CS248,CSE,6.26,50,61,17,46,69,1,8,1,Placed,4.19,Genpact
+Mohit Iyer,2300IT249,IT,6.74,74,49,49,42,50,3,6,1,Placed,3.64,Cyient
+Nikita Yadav,2400EC250,ECE,7.79,71,60,47,61,55,2,3,1,Placed,17.49,Microsoft
+Shivani Das,2300IT251,IT,8.95,84,67,57,68,65,1,7,1,Placed,14.8,Google
+Sneha Chatterjee,2400IT252,IT,6.49,83,57,6,53,44,3,4,2,Placed,8.14,HCL
+Pari Arora,2300CS253,CSE,7.93,69,67,27,66,4,1,3,2,Placed,4.15,Mu Sigma
+Kavya Tiwari,2100CS254,CSE,7.41,55,47,56,46,49,1,4,1,Placed,6.64,Paytm
+Isha Dubey,2100EC255,ECE,8.26,45,2,38,73,63,0,4,0,Placed,4.7,Mu Sigma
+Neha Jain,2200EC256,ECE,6.17,42,64,10,46,37,3,8,0,Not Placed,0.0,Not Placed
+Himanshu Khanna,2200CE257,CE,6.34,54,60,17,36,44,1,2,1,Placed,4.97,Sasken
+Advaith Kapoor,2200CS258,CSE,7.15,56,46,67,46,51,0,5,2,Placed,3.73,Sasken
+Kabir Yadav,2200EE259,EE,7.65,42,27,58,66,63,0,4,3,Placed,7.76,Mindtree
+Riya Agarwal,2100CE260,CE,6.29,26,29,54,28,85,2,2,1,Not Placed,0.0,Not Placed
+Aarav Bhatia,2200CS261,CSE,5.48,59,46,36,21,29,2,2,2,Placed,3.74,Sasken
+Diya Pandey,2300EE262,EE,7.23,11,51,46,70,57,3,5,2,Not Placed,0.0,Not Placed
+Krishna Das,2100CE263,CE,8.68,74,47,39,65,55,2,4,2,Placed,6.21,Hexaware
+Vishal Chatterjee,2300CS264,CSE,8.05,67,36,49,57,71,3,3,1,Placed,8.01,Mindtree
+Varun Thakur,2200EC265,ECE,7.73,51,48,54,59,75,1,8,1,Not Placed,0.0,Not Placed
+Sachin Rajput,2300EC266,ECE,6.12,26,41,25,49,0,1,2,2,Not Placed,0.0,Not Placed
+Megha Verma,2100CS267,CSE,7.68,67,67,77,48,58,2,7,4,Placed,4.54,Syntel
+Komal Patel,2400CS268,CSE,5.62,28,69,26,58,43,2,4,0,Not Placed,0.0,Not Placed
+Aadhya Mishra,2300EE269,EE,7.86,74,54,47,41,57,3,5,3,Placed,11.22,L&T Infotech
+Vihaan Jain,2300EE270,EE,4.88,19,65,25,45,26,0,1,1,Not Placed,0.0,Not Placed
+Anjali Dhawan,2300CS271,CSE,7.38,43,17,49,53,65,2,3,2,Not Placed,0.0,Not Placed
+Bhavna Dhawan,2400CE272,CE,5.32,30,55,0,21,46,0,2,1,Not Placed,0.0,Not Placed
+Dev Agarwal,2200EE273,EE,5.23,15,17,48,35,45,0,2,1,Not Placed,0.0,Not Placed
+Jyoti Srivastava,2400IT274,IT,8.86,62,51,68,57,72,2,8,1,Placed,11.17,Accenture
+Swati Das,2100EC275,ECE,5.14,36,73,0,33,44,1,2,3,Not Placed,0.0,Not Placed
+Komal Malhotra,2300ME276,ME,7.91,69,56,31,61,74,3,4,1,Placed,4.38,Sapient
+Kartik Joshi,2100ME277,ME,7.36,18,84,44,42,54,2,2,1,Placed,3.52,NIIT
+Sai Mukherjee,2100IT278,IT,7.58,74,66,54,59,42,2,6,5,Placed,9.36,Hexaware
+Myra Khanna,2100CS279,CSE,8.79,76,80,54,59,65,2,5,1,Placed,44.09,Qualcomm
+Trisha Agarwal,2400IT280,IT,4.77,32,58,41,17,59,1,2,3,Not Placed,0.0,Not Placed
+Trisha Mukherjee,2100EC281,ECE,7.21,43,58,62,47,44,3,5,2,Placed,8.6,Cognizant
+Meghna Patel,2200CS282,CSE,8.08,93,51,42,75,58,0,3,2,Placed,10.06,Wipro
+Pooja Patel,2300EC283,ECE,9.52,66,40,75,76,60,1,7,3,Placed,6.86,Paytm
+Anika Rastogi,2200EE284,EE,7.24,45,55,26,44,39,1,4,1,Not Placed,0.0,Not Placed
+Aishwarya Bajaj,2100CS285,CSE,8.31,85,91,39,75,15,4,7,0,Placed,9.42,L&T Infotech
+Diya Pandey,2300CE286,CE,7.89,57,29,61,49,36,0,1,2,Placed,3.39,iGate
+Meghna Sharma,2200CS287,CSE,6.42,46,68,46,74,69,2,2,4,Placed,9.69,Paytm
+Ankit Reddy,2100EC288,ECE,5.99,51,34,37,43,48,1,7,2,Not Placed,0.0,Not Placed
+Mayank Verma,2100CE289,CE,6.81,68,58,50,34,47,3,6,0,Placed,4.82,Cyient
+Mohit Das,2400CS290,CSE,6.68,44,54,41,47,64,2,4,0,Placed,3.76,Sapient
+Rahul Goel,2300CS291,CSE,6.8,40,84,31,59,53,3,8,1,Placed,4.99,Sasken
+Aditya Yadav,2200IT292,IT,7.07,80,61,58,47,67,3,4,2,Placed,4.01,Sasken
+Kartik Mishra,2300CS293,CSE,8.88,74,84,47,71,35,2,1,3,Placed,38.83,Samsung R&D
+Ritika Dhawan,2400EC294,ECE,6.5,34,61,45,24,38,3,7,3,Placed,8.9,Capgemini
+Sneha Thakur,2100IT295,IT,6.93,56,27,41,46,56,2,4,2,Placed,3.44,Sapient
+Anika Bansal,2400CS296,CSE,8.36,71,50,79,49,55,4,7,5,Placed,11.91,Mindtree
+Saanvi Srivastava,2400IT297,IT,6.45,67,69,22,35,36,1,3,1,Not Placed,0.0,Not Placed
+Aarav Dubey,2300ME298,ME,6.85,52,51,28,41,51,2,7,3,Not Placed,0.0,Not Placed
+Aman Jain,2300ME299,ME,7.91,52,64,46,41,86,0,2,0,Placed,8.75,Cognizant
+Anika Sharma,2400EE300,EE,8.36,71,54,42,60,0,1,6,2,Placed,5.05,Hexaware
+Riya Jain,2400EC301,ECE,7.97,71,40,0,59,43,2,5,0,Placed,6.47,Mindtree
+Ravi Khanna,2300CE302,CE,7.57,45,53,28,71,41,1,4,2,Not Placed,0.0,Not Placed
+Nikhil Gupta,2400ME303,ME,6.9,42,49,58,49,50,4,8,2,Placed,10.45,TCS
+Aadhya Malhotra,2400IT304,IT,6.52,50,33,25,19,41,0,4,2,Not Placed,0.0,Not Placed
+Nupur Das,2300ME305,ME,5.28,42,16,23,30,32,1,2,1,Not Placed,0.0,Not Placed
+Nikhil Verma,2300CE306,CE,8.68,53,67,45,61,52,2,5,1,Placed,11.92,Wipro
+Khushi Arora,2100CS307,CSE,9.04,74,69,58,87,42,2,4,0,Placed,7.58,Capgemini
+Aryan Mukherjee,2400EE308,EE,8.55,73,16,40,55,63,2,5,0,Placed,5.52,Mindtree
+Nikhil Goel,2300CE309,CE,8.24,55,38,35,41,52,1,2,0,Not Placed,0.0,Not Placed
+Kunal Chauhan,2100EC310,ECE,10.0,100,42,68,66,41,3,3,3,Placed,33.21,Oracle
+Suraj Thakur,2200ME311,ME,6.24,44,46,24,34,39,0,4,1,Not Placed,0.0,Not Placed
+Meghna Yadav,2200IT312,IT,6.72,55,31,35,24,28,2,4,2,Not Placed,0.0,Not Placed
+Ishaan Mehta,2200EC313,ECE,6.97,41,68,55,51,27,1,8,1,Placed,4.59,Concentrix
+Himanshu Kumar,2200ME314,ME,7.11,38,36,22,50,45,2,4,1,Placed,3.19,Syntel
+Preeti Chopra,2400IT315,IT,7.4,43,78,75,70,28,2,8,2,Placed,7.42,Mphasis
+Aditi Malhotra,2200EE316,EE,8.11,55,46,59,62,46,2,7,2,Placed,20.89,Samsung R&D
+Vishal Chatterjee,2300CS317,CSE,7.85,70,63,78,70,54,2,4,2,Placed,4.78,Zoho
+Nikita Singh,2300ME318,ME,8.05,100,66,31,52,45,2,6,2,Placed,8.77,Mindtree
+Harsh Iyer,2400EE319,EE,7.18,52,55,49,50,42,1,5,3,Placed,4.87,Mu Sigma
+Rahul Bansal,2100CE320,CE,7.98,67,64,83,88,40,3,8,2,Placed,11.12,Mphasis
+Rajat Dhawan,2400CS321,CSE,8.5,70,76,55,34,71,2,8,1,Placed,5.68,Tech Mahindra
+Varun Chopra,2200EE322,EE,6.22,55,68,42,65,48,2,3,1,Placed,11.77,Accenture
+Bhavna Yadav,2100IT323,IT,10.0,91,60,30,65,34,0,6,1,Placed,42.82,Samsung R&D
+Kunal Mishra,2200ME324,ME,8.43,71,59,49,67,58,2,4,1,Placed,11.63,TCS
+Neeraj Chatterjee,2400IT325,IT,5.71,72,33,2,50,20,4,2,0,Not Placed,0.0,Not Placed
+Rahul Arora,2300ME326,ME,6.87,48,46,38,55,64,0,8,0,Placed,3.37,Amdocs
+Sonam Kapoor,2100CS327,CSE,6.75,51,70,43,64,63,3,7,2,Placed,3.88,Sapient
+Kunal Patel,2400IT328,IT,10.0,99,57,82,61,50,3,7,0,Placed,20.93,Goldman Sachs
+Charu Dhawan,2200IT329,IT,7.67,81,60,46,46,37,0,4,2,Not Placed,0.0,Not Placed
+Isha Sethi,2200CS330,CSE,7.82,65,76,87,32,74,3,5,3,Placed,6.0,Byju's
+Simran Reddy,2200IT331,IT,6.79,84,51,32,35,100,3,6,3,Placed,4.81,Sasken
+Harsh Khanna,2400EC332,ECE,7.18,39,59,54,65,50,1,7,0,Placed,3.5,Sapient
+Yash Rajput,2100IT333,IT,5.62,40,30,1,66,67,2,4,0,Not Placed,0.0,Not Placed
+Bhavna Arora,2100ME334,ME,5.6,46,58,68,21,57,3,3,1,Placed,4.61,Sapient
+Riya Dubey,2300EC335,ECE,6.0,52,60,52,34,57,2,8,1,Not Placed,0.0,Not Placed
+Priya Srivastava,2200CE336,CE,6.79,64,41,22,37,31,2,4,1,Not Placed,0.0,Not Placed
+Vihaan Bansal,2100EE337,EE,6.89,34,36,47,50,52,3,6,1,Not Placed,0.0,Not Placed
+Yash Kapoor,2200CS338,CSE,7.81,85,44,40,49,38,3,8,1,Placed,11.92,L&T Infotech
+Sara Chauhan,2200CS339,CSE,9.51,80,30,29,71,69,4,8,2,Placed,29.38,Qualcomm
+Sachin Chatterjee,2100CS340,CSE,7.22,57,10,23,60,65,1,3,0,Placed,3.26,Amdocs
+Vidhi Saxena,2400CS341,CSE,9.23,79,100,66,68,47,2,7,2,Placed,43.94,Qualcomm
+Preeti Chatterjee,2200CE342,CE,6.67,27,81,17,62,22,1,5,1,Not Placed,0.0,Not Placed
+Harsh Joshi,2200EC343,ECE,6.82,48,54,44,38,65,1,3,1,Not Placed,0.0,Not Placed
+Vidhi Chopra,2400IT344,IT,8.22,71,43,40,17,68,4,5,1,Placed,3.08,Syntel
+Sonam Nair,2400EC345,ECE,6.56,55,31,38,62,54,1,2,2,Not Placed,0.0,Not Placed
+Advik Dhawan,2200IT346,IT,7.78,46,50,45,80,32,2,4,2,Placed,3.62,iGate
+Vikas Joshi,2300ME347,ME,9.1,76,73,54,59,47,2,4,0,Placed,10.65,Mindtree
+Neeraj Rajput,2100IT348,IT,9.75,94,72,58,39,72,4,7,1,Placed,26.39,Goldman Sachs
+Himanshu Chauhan,2300ME349,ME,4.51,32,39,30,30,47,0,2,0,Not Placed,0.0,Not Placed
+Bhavna Yadav,2400EE350,EE,6.21,30,72,45,39,59,2,2,2,Not Placed,0.0,Not Placed
+Advaith Chatterjee,2300CS351,CSE,6.71,47,66,40,28,42,0,8,2,Placed,4.33,Mu Sigma
+Ananya Reddy,2300CS352,CSE,9.53,100,91,58,65,28,2,8,1,Placed,42.69,Adobe
+Isha Arora,2200IT353,IT,8.66,60,63,39,74,56,3,3,1,Placed,5.87,TCS
+Pari Kapoor,2200IT354,IT,9.77,71,71,45,77,36,3,7,2,Placed,16.19,Amazon
+Ritvik Joshi,2200IT355,IT,8.0,87,65,21,67,62,2,7,3,Placed,8.51,Zoho
+Jyoti Bajaj,2100CE356,CE,6.49,6,38,28,51,45,0,2,1,Not Placed,0.0,Not Placed
+Arjun Mehta,2200EC357,ECE,8.44,69,46,56,60,71,2,6,3,Placed,8.86,Paytm
+Manish Dhawan,2400ME358,ME,9.33,54,79,71,45,52,2,8,1,Placed,37.45,Microsoft
+Neha Goel,2100CS359,CSE,6.96,62,66,42,16,71,2,4,4,Placed,8.39,TCS
+Ankur Bajaj,2400CS360,CSE,6.82,35,74,33,30,46,1,8,0,Placed,4.94,NIIT
+Prateek Dhawan,2100CE361,CE,6.72,44,42,25,46,12,1,6,1,Not Placed,0.0,Not Placed
+Neeraj Yadav,2300CS362,CSE,8.53,81,70,47,69,50,2,2,2,Placed,4.5,Capgemini
+Rajat Bhatia,2200ME363,ME,5.96,34,0,7,25,48,0,3,1,Not Placed,0.0,Not Placed
+Riya Mishra,2300EC364,ECE,5.81,45,92,38,41,45,3,4,1,Not Placed,0.0,Not Placed
+Suraj Bhatt,2100EC365,ECE,7.05,47,26,52,45,40,2,3,1,Placed,4.98,Amdocs
+Saanvi Nair,2300CS366,CSE,6.62,85,22,84,41,52,1,4,3,Placed,8.5,Cognizant
+Amit Kumar,2300EE367,EE,5.62,60,20,72,5,39,1,3,2,Not Placed,0.0,Not Placed
+Sachin Patel,2300ME368,ME,7.55,51,41,70,71,54,2,7,1,Placed,7.52,Wipro
+Amit Bhatt,2300EC369,ECE,6.31,40,25,66,52,36,4,3,2,Not Placed,0.0,Not Placed
+Aman Iyer,2400CS370,CSE,6.18,64,50,29,16,73,1,5,1,Not Placed,0.0,Not Placed
+Krishna Kumar,2400EC371,ECE,8.87,54,47,60,59,67,2,4,2,Placed,3.92,Mu Sigma
+Priya Gupta,2200CS372,CSE,7.31,66,41,29,57,34,0,3,1,Not Placed,0.0,Not Placed
+Rohan Goel,2400EC373,ECE,7.69,32,41,63,59,27,1,5,3,Not Placed,0.0,Not Placed
+Shruti Gupta,2200ME374,ME,4.2,26,63,15,0,28,0,4,3,Not Placed,0.0,Not Placed
+Meghna Singh,2300EC375,ECE,6.05,50,18,55,44,58,1,5,0,Not Placed,0.0,Not Placed
+Anika Arora,2400EC376,ECE,6.62,58,55,28,44,39,2,7,0,Placed,4.0,Amdocs
+Anjali Kapoor,2200CE377,CE,6.62,60,54,17,22,26,0,3,1,Not Placed,0.0,Not Placed
+Khushi Rawat,2300CE378,CE,7.41,55,78,24,84,40,1,6,4,Placed,5.61,Byju's
+Isha Mukherjee,2100ME379,ME,4.62,50,40,23,36,24,0,3,2,Not Placed,0.0,Not Placed
+Radhika Pandey,2300CS380,CSE,8.1,82,77,31,63,31,4,6,1,Placed,7.86,Accenture
+Sai Malhotra,2300IT381,IT,6.7,73,47,16,50,51,2,8,1,Placed,4.92,Cognizant
+Radhika Mukherjee,2200CS382,CSE,5.14,32,11,21,41,27,1,3,0,Not Placed,0.0,Not Placed
+Meghna Chatterjee,2100ME383,ME,8.18,57,89,40,61,77,2,8,4,Placed,4.9,Hexaware
+Shivani Mukherjee,2300EE384,EE,9.94,88,48,58,85,74,2,5,4,Placed,23.72,Google
+Yash Reddy,2300CS385,CSE,9.04,81,58,61,89,33,2,6,1,Placed,10.11,Mindtree
+Arjun Yadav,2400CE386,CE,7.94,57,80,85,67,57,2,5,2,Placed,9.47,TCS
+Vihaan Saxena,2300CS387,CSE,8.78,66,71,31,58,40,4,6,1,Placed,7.34,Accenture
+Kriti Gupta,2200CS388,CSE,7.54,92,38,59,38,29,0,5,1,Placed,3.68,Syntel
+Divya Chatterjee,2100EE389,EE,7.97,60,44,21,61,87,2,0,1,Placed,3.47,Sasken
+Suraj Arora,2400CS390,CSE,8.37,80,59,38,62,26,2,8,1,Placed,6.05,Accenture
+Neha Agarwal,2100CE391,CE,5.52,32,13,51,49,62,1,2,3,Not Placed,0.0,Not Placed
+Prateek Rajput,2400CS392,CSE,8.68,86,63,24,38,27,2,2,1,Placed,4.95,Cyient
+Dhruv Mehta,2400CS393,CSE,8.73,58,39,56,78,92,2,2,3,Placed,10.67,HCL
+Khushi Rawat,2200CS394,CSE,5.57,31,23,26,57,45,0,4,2,Not Placed,0.0,Not Placed
+Krishna Kumar,2400CS395,CSE,6.74,50,74,57,47,67,0,0,1,Not Placed,0.0,Not Placed
+Neeraj Chatterjee,2100CS396,CSE,7.24,48,78,59,43,59,3,5,2,Placed,11.26,Zoho
+Trisha Bhatia,2100CS397,CSE,5.89,33,39,56,51,43,4,2,4,Placed,3.08,Cyient
+Simran Chauhan,2200CE398,CE,6.17,35,82,18,41,39,3,8,1,Placed,3.44,Sapient
+Ayaan Tiwari,2200IT399,IT,6.17,61,59,54,39,55,1,3,1,Placed,4.82,Genpact
+Diya Arora,2300CS400,CSE,8.65,93,28,70,52,70,3,4,3,Placed,28.43,Samsung R&D
+Rajat Mishra,2100CE401,CE,6.97,43,68,29,29,40,2,4,1,Placed,3.54,iGate
+Nupur Joshi,2400CE402,CE,7.27,52,30,37,50,47,4,7,0,Not Placed,0.0,Not Placed
+Kriti Kumar,2200IT403,IT,7.12,35,88,63,42,66,2,5,1,Placed,9.62,Accenture
+Varun Iyer,2300EC404,ECE,7.09,67,52,44,63,51,0,6,2,Placed,10.28,Wipro
+Aman Jain,2400IT405,IT,7.36,49,86,55,40,39,2,5,0,Placed,4.87,Cyient
+Ayaan Rajput,2200CE406,CE,7.99,49,58,46,79,34,1,4,2,Placed,6.91,Cognizant
+Shaurya Malhotra,2200CS407,CSE,7.23,81,57,35,59,36,2,6,0,Placed,9.64,Accenture
+Isha Mehta,2200IT408,IT,8.02,62,58,67,71,28,2,3,0,Placed,11.52,Mphasis
+Myra Goel,2100EC409,ECE,6.59,59,36,13,32,39,1,3,0,Not Placed,0.0,Not Placed
+Saurabh Sethi,2200IT410,IT,7.2,70,32,51,39,41,1,2,1,Not Placed,0.0,Not Placed
+Yash Bajaj,2300CS411,CSE,8.24,81,68,47,70,16,1,6,4,Placed,9.83,Paytm
+Arjun Mishra,2100EC412,ECE,7.22,46,68,24,57,26,3,4,2,Placed,4.59,Sasken
+Megha Dubey,2400CS413,CSE,7.75,76,45,69,34,33,1,5,1,Placed,7.02,L&T Infotech
+Prateek Bhatt,2300EE414,EE,6.71,59,63,39,42,48,0,4,4,Placed,3.52,iGate
+Neha Reddy,2300ME415,ME,7.86,50,41,29,31,0,1,2,1,Placed,4.49,Syntel
+Dev Singh,2200CE416,CE,5.78,37,19,38,29,44,3,7,3,Placed,4.64,Syntel
+Aparna Iyer,2200EC417,ECE,7.07,48,21,77,44,53,1,3,0,Placed,10.6,Accenture
+Rohan Malhotra,2300CS418,CSE,7.18,38,82,45,71,45,3,3,2,Placed,4.15,Amdocs
+Himanshu Arora,2100IT419,IT,6.67,37,51,49,53,47,4,4,4,Not Placed,0.0,Not Placed
+Neha Iyer,2100IT420,IT,8.32,73,81,85,40,50,0,6,1,Placed,10.21,Cognizant
+Neha Yadav,2100CS421,CSE,9.25,58,76,53,58,43,1,5,0,Placed,9.31,TCS
+Anjali Bajaj,2400IT422,IT,6.38,43,31,61,52,31,2,4,3,Not Placed,0.0,Not Placed
+Shaurya Malhotra,2300EE423,EE,8.99,73,56,47,73,49,2,1,1,Placed,3.89,Genpact
+Prateek Thakur,2400CS424,CSE,7.96,80,63,39,63,55,0,5,1,Placed,5.51,Tech Mahindra
+Ritika Verma,2100IT425,IT,6.81,39,55,24,23,29,4,2,2,Not Placed,0.0,Not Placed
+Bhavna Iyer,2200CS426,CSE,9.07,94,46,76,66,71,3,5,4,Placed,37.98,Adobe
+Ananya Singh,2300EC427,ECE,6.89,36,37,40,63,53,2,7,1,Placed,9.36,Tech Mahindra
+Tanvi Bhatt,2100IT428,IT,9.42,70,71,44,78,67,1,8,1,Placed,14.31,Microsoft
+Myra Mehta,2300EC429,ECE,6.79,40,25,39,45,56,1,7,2,Placed,4.09,Amdocs
+Saanvi Reddy,2100EC430,ECE,7.65,24,32,76,65,59,1,6,2,Placed,4.65,L&T Infotech
+Rahul Khanna,2300EC431,ECE,7.31,63,39,60,36,31,0,6,2,Placed,3.53,NIIT
+Bhavna Chatterjee,2300EC432,ECE,4.81,1,35,18,23,32,0,2,1,Not Placed,0.0,Not Placed
+Krishna Patel,2400CE433,CE,6.62,16,15,34,39,84,1,3,0,Placed,4.0,Sapient
+Aishwarya Arora,2200CS434,CSE,7.29,56,62,32,36,52,0,4,1,Not Placed,0.0,Not Placed
+Abhishek Thakur,2400IT435,IT,6.72,38,66,35,43,57,2,6,2,Placed,3.14,Cyient
+Vivaan Gupta,2200ME436,ME,6.46,58,26,62,72,52,3,7,0,Not Placed,0.0,Not Placed
+Aparna Rajput,2400CS437,CSE,6.42,41,64,2,32,47,0,2,1,Not Placed,0.0,Not Placed
+Abhishek Thakur,2200CS438,CSE,8.71,100,41,62,54,46,4,5,3,Placed,16.2,Flipkart
+Navya Reddy,2300IT439,IT,8.12,63,47,52,36,64,1,4,2,Placed,4.13,Sasken
+Bhavna Thakur,2400IT440,IT,9.5,84,74,46,76,45,2,4,2,Placed,10.26,Hexaware
+Aparna Verma,2300CS441,CSE,8.88,75,59,74,61,79,3,6,0,Placed,11.09,Accenture
+Ankur Sethi,2300IT442,IT,5.8,65,18,17,26,14,2,3,2,Not Placed,0.0,Not Placed
+Abhishek Joshi,2300CS443,CSE,7.78,71,60,36,83,43,3,3,2,Placed,10.63,Mphasis
+Sachin Singh,2400CE444,CE,6.24,68,74,45,52,43,1,1,1,Placed,3.75,Concentrix
+Sara Saxena,2100CS445,CSE,6.69,35,88,39,46,59,2,4,2,Placed,5.55,L&T Infotech
+Advik Verma,2400IT446,IT,6.5,57,46,42,46,49,2,8,2,Placed,8.45,Accenture
+Sara Das,2200CS447,CSE,5.55,62,50,36,22,24,0,3,3,Not Placed,0.0,Not Placed
+Bhavna Bajaj,2400CE448,CE,5.21,18,0,11,45,36,2,4,0,Not Placed,0.0,Not Placed
+Neeraj Jain,2200IT449,IT,8.32,87,68,64,65,56,2,3,2,Placed,3.23,Cyient
+Trisha Joshi,2400EC450,ECE,6.84,45,72,8,65,32,2,5,1,Not Placed,0.0,Not Placed
+Riya Iyer,2300CS451,CSE,8.14,66,22,53,33,54,2,6,1,Placed,5.13,Mindtree
+Vidhi Mehta,2400CS452,CSE,7.24,60,56,39,60,43,1,4,2,Not Placed,0.0,Not Placed
+Aryan Rastogi,2300CE453,CE,8.78,94,50,37,74,48,4,3,4,Placed,4.81,HCL
+Sonam Bansal,2200IT454,IT,8.11,72,53,54,50,42,4,7,0,Placed,7.67,Hexaware
+Nidhi Joshi,2300EC455,ECE,7.87,79,37,60,67,37,2,5,2,Placed,7.75,Mindtree
+Tanvi Agarwal,2400CS456,CSE,9.78,86,91,63,66,54,4,7,3,Placed,27.21,Uber
+Sonam Yadav,2300IT457,IT,9.49,100,59,89,64,54,4,8,3,Placed,43.73,Google
+Nupur Mishra,2300EC458,ECE,6.59,69,22,11,62,7,2,3,0,Not Placed,0.0,Not Placed
+Megha Mehta,2400EC459,ECE,8.09,73,48,70,68,60,3,6,0,Placed,6.55,HCL
+Akash Rastogi,2300CS460,CSE,8.34,63,59,52,34,27,1,4,3,Placed,11.59,Wipro
+Rajat Sethi,2200IT461,IT,9.58,77,100,88,71,65,4,4,3,Placed,15.07,Adobe
+Yash Rajput,2200EC462,ECE,5.24,35,49,25,55,31,1,4,0,Not Placed,0.0,Not Placed
+Aditya Patel,2400ME463,ME,6.06,59,19,47,56,62,1,3,1,Not Placed,0.0,Not Placed
+Nupur Joshi,2100IT464,IT,6.54,72,38,25,39,54,1,4,1,Not Placed,0.0,Not Placed
+Aarav Khanna,2200IT465,IT,6.49,86,54,57,34,25,2,1,3,Not Placed,0.0,Not Placed
+Megha Joshi,2400CE466,CE,7.94,81,44,63,58,25,2,8,3,Placed,5.74,Mphasis
+Himanshu Bansal,2300IT467,IT,6.31,40,25,17,64,31,2,6,0,Not Placed,0.0,Not Placed
+Megha Singh,2100EE468,EE,6.24,52,59,22,58,61,1,5,2,Placed,3.12,Sasken
+Akash Gupta,2200EE469,EE,7.88,67,58,59,62,47,4,5,3,Placed,5.95,Capgemini
+Vivaan Reddy,2400CS470,CSE,10.0,98,83,74,94,67,1,3,3,Placed,8.51,Wipro
+Saanvi Sharma,2300CE471,CE,8.52,61,62,85,37,69,2,1,2,Placed,4.37,Sasken
+Kunal Bansal,2400CS472,CSE,5.35,51,36,11,39,16,0,4,1,Not Placed,0.0,Not Placed
+Myra Thakur,2400EC473,ECE,8.06,72,52,85,77,63,3,8,2,Placed,4.51,Cognizant
+Ayaan Kapoor,2200ME474,ME,6.46,24,30,32,28,27,1,2,1,Not Placed,0.0,Not Placed
+Megha Mehta,2200EC475,ECE,6.93,68,24,63,48,50,1,8,0,Placed,6.68,TCS
+Tanvi Chopra,2200EC476,ECE,7.33,19,44,39,59,31,1,5,2,Not Placed,0.0,Not Placed
+Rajat Reddy,2400EC477,ECE,7.21,40,37,71,85,54,2,5,3,Placed,3.92,Cyient
+Isha Reddy,2100CE478,CE,6.88,57,39,54,77,33,2,2,1,Not Placed,0.0,Not Placed
+Krishna Joshi,2300CS479,CSE,7.04,69,52,55,69,69,1,6,1,Placed,9.16,Byju's
+Aarav Mehta,2400CE480,CE,8.68,66,40,46,42,35,3,3,1,Placed,3.81,Genpact
+Preeti Rastogi,2300IT481,IT,7.99,70,86,50,49,26,2,4,1,Placed,3.09,iGate
+Dhruv Arora,2200EC482,ECE,8.07,69,25,50,71,72,1,7,1,Placed,7.4,TCS
+Deepak Goel,2200IT483,IT,6.61,71,54,32,39,57,0,4,1,Not Placed,0.0,Not Placed
+Vidhi Thakur,2300IT484,IT,4.96,39,33,6,48,55,1,3,0,Not Placed,0.0,Not Placed
+Tushar Bansal,2300EC485,ECE,5.45,51,43,5,42,64,0,5,0,Not Placed,0.0,Not Placed
+Advaith Jain,2400IT486,IT,8.12,72,60,33,60,16,0,5,3,Placed,7.7,Wipro
+Garima Dhawan,2300EC487,ECE,6.9,60,29,63,51,37,2,3,1,Placed,4.11,Amdocs
+Preeti Bhatt,2200CS488,CSE,6.99,69,50,17,28,49,1,6,2,Not Placed,0.0,Not Placed
+Kartik Dhawan,2100CS489,CSE,7.26,59,84,55,63,79,0,2,0,Placed,10.89,Mindtree
+Mansi Arora,2100ME490,ME,8.27,46,41,62,49,48,2,5,2,Placed,4.27,Sasken
+Aditya Khanna,2200ME491,ME,7.6,45,70,37,37,48,2,8,0,Placed,8.27,L&T Infotech
+Shaurya Malhotra,2400CS492,CSE,7.64,41,100,55,58,63,2,8,2,Placed,10.33,Infosys
+Neeraj Sethi,2400EE493,EE,7.99,71,80,10,49,76,3,8,1,Placed,4.99,NIIT
+Ananya Iyer,2200CS494,CSE,8.49,61,69,58,53,61,2,6,3,Placed,3.31,Cyient
+Sonal Chopra,2100CE495,CE,7.93,70,51,54,71,43,2,3,0,Placed,3.74,Cyient
+Vidhi Goel,2100ME496,ME,4.68,49,0,35,40,48,2,3,3,Not Placed,0.0,Not Placed
+Shruti Sharma,2200CE497,CE,8.5,49,48,61,64,74,0,1,2,Placed,4.21,Sasken
+Vivaan Mukherjee,2300IT498,IT,5.38,36,47,41,45,86,0,6,0,Not Placed,0.0,Not Placed
+Akash Singh,2100IT499,IT,7.01,71,59,17,63,35,1,5,0,Not Placed,0.0,Not Placed
+Saanvi Bansal,2400IT500,IT,8.43,86,41,59,83,89,2,6,0,Placed,5.9,Wipro
+Aman Das,2300IT501,IT,6.57,34,73,8,58,14,1,2,1,Not Placed,0.0,Not Placed
+Jyoti Nair,2400ME502,ME,5.59,28,8,8,43,24,1,1,2,Not Placed,0.0,Not Placed
+Kartik Bhatt,2200EE503,EE,7.83,58,12,37,53,39,0,1,1,Not Placed,0.0,Not Placed
+Anika Pandey,2400CE504,CE,7.46,66,53,52,64,46,2,4,3,Placed,7.57,Mindtree
+Sachin Srivastava,2100EC505,ECE,7.19,11,25,46,73,30,0,2,2,Not Placed,0.0,Not Placed
+Harsh Iyer,2400EC506,ECE,7.91,76,35,38,48,51,4,5,3,Placed,7.29,Mindtree
+Pooja Saxena,2400CE507,CE,6.55,39,62,59,55,36,4,7,0,Placed,3.53,Sapient
+Kabir Tiwari,2100CS508,CSE,7.41,92,60,32,56,45,0,4,3,Placed,3.08,Mu Sigma
+Shivani Verma,2200CS509,CSE,10.0,94,57,91,100,59,4,8,2,Placed,19.65,Adobe
+Reyansh Dhawan,2100CE510,CE,7.34,71,37,77,63,47,1,5,1,Placed,4.25,Syntel
+Aryan Gupta,2400ME511,ME,9.0,65,94,27,47,55,3,5,3,Placed,37.17,Samsung R&D
+Akash Dubey,2100CS512,CSE,7.65,42,47,33,42,43,1,2,2,Placed,4.81,Concentrix
+Pooja Chopra,2300ME513,ME,6.01,17,56,15,43,67,3,1,2,Not Placed,0.0,Not Placed
+Neha Goel,2200CS514,CSE,7.61,40,72,40,74,49,2,6,1,Placed,4.59,Mphasis
+Ankur Goel,2300EC515,ECE,7.12,67,45,47,43,71,3,4,1,Placed,7.74,TCS
+Tushar Mukherjee,2400EE516,EE,9.94,73,56,76,47,33,2,5,1,Placed,6.87,TCS
+Megha Nair,2300EC517,ECE,7.31,59,46,39,64,66,3,6,2,Placed,3.45,Amdocs
+Sara Goel,2400ME518,ME,7.48,34,39,17,53,23,3,4,1,Not Placed,0.0,Not Placed
+Himanshu Bhatt,2400CE519,CE,5.89,41,18,36,30,43,1,5,2,Not Placed,0.0,Not Placed
+Advaith Goel,2200ME520,ME,6.23,38,55,36,59,39,1,7,0,Placed,4.55,Syntel
+Manish Das,2400ME521,ME,7.27,37,62,34,48,88,2,4,1,Placed,6.59,Mindtree
+Mohit Saxena,2300CS522,CSE,6.93,48,83,64,55,41,3,6,1,Placed,6.96,HCL
+Megha Mishra,2400ME523,ME,5.87,31,53,24,44,50,1,5,4,Not Placed,0.0,Not Placed
+Isha Bhatt,2200ME524,ME,9.14,56,63,53,65,81,2,2,4,Placed,7.2,TCS
+Anjali Dhawan,2100ME525,ME,4.93,68,46,27,38,50,1,2,1,Not Placed,0.0,Not Placed
+Advik Sethi,2200ME526,ME,6.3,54,13,49,36,40,2,4,0,Placed,3.86,Syntel
+Kunal Goel,2100IT527,IT,6.64,84,52,25,41,14,1,8,2,Placed,3.14,Genpact
+Mayank Agarwal,2400CE528,CE,7.25,43,13,26,53,35,1,5,2,Not Placed,0.0,Not Placed
+Dev Dhawan,2200IT529,IT,5.97,76,75,30,64,43,0,8,4,Placed,4.65,Amdocs
+Manish Malhotra,2300IT530,IT,7.38,67,80,80,45,47,4,8,1,Placed,11.33,Capgemini
+Tanya Bhatia,2300IT531,IT,6.06,59,25,36,49,48,2,3,2,Placed,3.35,iGate
+Bhavna Rawat,2400IT532,IT,8.39,51,80,55,41,56,2,7,2,Placed,11.59,Infosys
+Preeti Malhotra,2200CS533,CSE,8.66,83,67,60,68,20,4,7,1,Placed,12.11,Flipkart
+Pallavi Gupta,2200CS534,CSE,6.81,62,50,42,40,40,0,5,2,Not Placed,0.0,Not Placed
+Arjun Mehta,2400IT535,IT,6.76,69,34,39,45,80,1,4,2,Placed,4.32,iGate
+Advik Kapoor,2200CS536,CSE,5.39,50,26,20,21,57,1,5,1,Not Placed,0.0,Not Placed
+Kriti Saxena,2400EC537,ECE,8.02,42,41,48,80,41,1,7,0,Placed,3.85,Cyient
+Shruti Rawat,2400EC538,ECE,9.68,88,70,46,80,45,2,4,3,Placed,27.59,Samsung R&D
+Sachin Bhatia,2200ME539,ME,6.66,26,37,51,35,38,4,6,1,Placed,4.57,Concentrix
+Riya Bhatt,2100IT540,IT,7.12,64,44,22,26,31,2,3,2,Not Placed,0.0,Not Placed
+Vihaan Singh,2100ME541,ME,5.47,60,55,18,41,54,2,5,1,Placed,4.39,Amdocs
+Tushar Srivastava,2100EC542,ECE,7.4,71,39,40,34,37,2,8,4,Not Placed,0.0,Not Placed
+Aarav Dubey,2400EC543,ECE,7.32,43,63,73,59,55,3,4,1,Placed,4.51,Sapient
+Rajat Bajaj,2400EC544,ECE,6.58,43,64,68,53,44,2,5,2,Placed,3.57,Syntel
+Aarav Bhatt,2400ME545,ME,7.37,72,19,33,48,53,2,7,0,Not Placed,0.0,Not Placed
+Arjun Rajput,2300EC546,ECE,7.56,53,48,31,33,64,2,2,1,Placed,4.15,Cyient
+Diya Thakur,2400CE547,CE,8.53,60,72,59,53,31,4,2,2,Placed,6.9,Zoho
+Reyansh Patel,2200IT548,IT,6.92,61,39,48,45,68,2,7,0,Placed,5.96,HCL
+Rajat Rajput,2300IT549,IT,8.48,92,77,59,61,49,3,6,0,Placed,40.71,Flipkart
+Swati Mishra,2300EC550,ECE,8.65,90,54,73,58,71,4,7,4,Placed,43.69,Uber
+Kriti Saxena,2200CS551,CSE,7.68,74,61,56,53,51,2,4,1,Placed,7.62,Cognizant
+Vikas Gupta,2100ME552,ME,5.47,44,66,36,40,52,1,2,1,Placed,4.98,Amdocs
+Anjali Khanna,2400IT553,IT,8.08,80,62,53,47,48,4,3,2,Placed,6.51,TCS
+Dev Chauhan,2100CE554,CE,6.56,43,47,4,24,37,0,6,2,Not Placed,0.0,Not Placed
+Komal Kapoor,2100ME555,ME,7.36,52,42,8,48,67,2,6,2,Placed,4.31,Cyient
+Advaith Dubey,2400EC556,ECE,9.53,48,91,64,93,51,2,3,2,Placed,6.66,Cognizant
+Vihaan Rastogi,2100IT557,IT,8.04,80,93,37,46,58,4,6,3,Placed,9.07,Wipro
+Diya Dubey,2200IT558,IT,8.83,73,71,48,72,37,3,6,1,Placed,9.7,Zoho
+Aadhya Goel,2200EE559,EE,7.26,84,67,40,53,82,4,5,1,Placed,5.46,L&T Infotech
+Ankit Nair,2300CS560,CSE,6.92,73,65,41,41,25,3,5,1,Placed,4.83,Capgemini
+Dev Mishra,2300CE561,CE,8.62,59,27,37,89,42,1,7,2,Placed,9.21,TCS
+Gaurav Srivastava,2100CS562,CSE,10.0,100,71,81,61,46,4,6,5,Placed,21.06,Flipkart
+Sonam Malhotra,2100CS563,CSE,7.19,75,26,70,45,56,2,3,1,Placed,5.54,Mphasis
+Jyoti Rawat,2200IT564,IT,8.28,49,71,58,48,39,4,2,2,Placed,6.88,Accenture
+Komal Pandey,2400EC565,ECE,9.28,72,55,65,57,51,1,2,0,Placed,4.91,NIIT
+Neha Kumar,2100CS566,CSE,7.06,63,53,27,59,49,3,8,2,Placed,4.13,iGate
+Mohit Yadav,2400IT567,IT,8.02,74,55,18,36,46,3,6,0,Placed,3.55,Sapient
+Pari Mishra,2100EC568,ECE,6.86,53,53,65,43,76,3,8,3,Placed,6.21,Cognizant
+Divya Rastogi,2100CS569,CSE,9.5,100,61,86,83,55,0,3,1,Placed,9.09,Wipro
+Atharv Mukherjee,2400ME570,ME,8.2,50,32,65,43,56,1,6,1,Placed,3.2,Cyient
+Pari Verma,2100IT571,IT,7.23,69,50,60,42,84,2,6,1,Placed,9.21,Accenture
+Abhishek Dhawan,2300EE572,EE,8.75,65,22,100,54,73,2,6,1,Placed,7.5,Paytm
+Aanya Bansal,2400EE573,EE,7.23,49,30,48,47,44,0,3,0,Placed,4.37,Amdocs
+Sachin Khanna,2200CS574,CSE,9.6,77,77,42,58,79,3,6,2,Placed,7.62,L&T Infotech
+Kartik Nair,2200ME575,ME,7.56,86,84,39,46,64,3,7,3,Placed,9.21,Wipro
+Simran Rastogi,2400IT576,IT,7.92,58,67,57,59,39,3,6,0,Placed,11.3,Wipro
+Shaurya Mukherjee,2300EC577,ECE,6.91,73,57,40,68,10,2,8,2,Not Placed,0.0,Not Placed
+Simran Joshi,2100CE578,CE,8.69,62,39,50,52,72,2,3,4,Placed,9.86,Accenture
+Neha Rawat,2200EC579,ECE,6.96,35,76,37,77,44,1,4,2,Placed,11.62,Tech Mahindra
+Krishna Goel,2100ME580,ME,8.71,59,37,42,62,48,3,3,2,Placed,3.13,Amdocs
+Shivani Nair,2300CS581,CSE,7.97,68,88,34,32,64,2,8,0,Placed,7.14,Tech Mahindra
+Komal Dhawan,2200IT582,IT,8.66,48,68,64,43,38,4,8,1,Placed,4.78,Cognizant
+Radhika Tiwari,2400CS583,CSE,7.27,76,27,20,54,42,2,3,1,Placed,4.31,Sapient
+Nikhil Malhotra,2300CS584,CSE,9.26,88,65,63,62,20,4,4,1,Placed,44.89,Samsung R&D
+Rohan Nair,2300IT585,IT,7.57,81,62,47,44,27,2,4,3,Placed,3.82,Amdocs
+Anika Chopra,2200CS586,CSE,6.82,63,57,31,39,31,1,6,1,Placed,4.72,Sasken
+Kartik Khanna,2100ME587,ME,5.99,32,14,52,42,81,0,4,0,Not Placed,0.0,Not Placed
+Nupur Dubey,2400CS588,CSE,7.16,55,40,37,67,53,2,8,1,Placed,6.19,Zoho
+Khushi Kumar,2400IT589,IT,7.3,58,37,32,37,42,1,5,2,Not Placed,0.0,Not Placed
+Myra Goel,2200ME590,ME,6.03,21,37,21,50,58,3,4,0,Not Placed,0.0,Not Placed
+Trisha Yadav,2400CE591,CE,6.91,40,61,42,70,51,1,3,3,Not Placed,0.0,Not Placed
+Aadhya Chatterjee,2400CS592,CSE,7.55,62,26,30,70,59,3,6,0,Placed,3.49,Sasken
+Tanya Thakur,2400CS593,CSE,7.9,38,80,42,59,52,2,4,0,Placed,4.95,Cyient
+Rahul Bhatt,2100ME594,ME,9.22,61,73,65,31,42,0,8,0,Placed,6.29,Infosys
+Yash Bhatia,2200ME595,ME,6.72,35,45,29,32,58,1,2,0,Not Placed,0.0,Not Placed
+Ankit Reddy,2300CS596,CSE,6.89,73,58,14,61,58,3,8,1,Placed,5.21,Zoho
+Pari Sharma,2100IT597,IT,6.4,77,23,34,43,62,1,2,1,Not Placed,0.0,Not Placed
+Pooja Thakur,2200IT598,IT,5.5,54,52,16,42,42,1,2,3,Not Placed,0.0,Not Placed
+Divya Reddy,2400EE599,EE,8.44,62,59,56,44,80,4,6,1,Placed,4.51,Sasken
+Amit Verma,2400EC600,ECE,7.44,70,58,38,33,56,3,7,0,Placed,4.3,NIIT
+Pallavi Mishra,2100ME601,ME,5.75,38,66,23,58,48,4,8,0,Not Placed,0.0,Not Placed
+Amit Goel,2300EE602,EE,8.33,59,57,25,86,75,0,1,1,Placed,8.62,Tech Mahindra
+Suraj Joshi,2300CS603,CSE,8.91,70,58,62,80,47,4,8,1,Placed,9.92,Tech Mahindra
+Varun Chatterjee,2300CS604,CSE,7.44,52,66,55,43,73,2,8,1,Placed,10.22,Infosys
+Saanvi Agarwal,2100EC605,ECE,6.34,50,42,21,51,86,0,0,0,Not Placed,0.0,Not Placed
+Megha Patel,2200CS606,CSE,6.91,17,59,28,26,63,0,1,0,Placed,4.09,Genpact
+Manish Chauhan,2300CS607,CSE,5.81,65,16,40,48,8,1,4,0,Not Placed,0.0,Not Placed
+Sonal Srivastava,2400EC608,ECE,6.13,40,49,30,11,69,0,6,2,Placed,3.32,Concentrix
+Tushar Mukherjee,2400CS609,CSE,7.23,44,74,38,56,17,1,8,1,Placed,5.05,TCS
+Varun Sethi,2400CS610,CSE,9.3,81,30,56,70,42,2,6,3,Placed,11.78,Capgemini
+Neeraj Dubey,2200EC611,ECE,7.04,60,57,65,52,20,3,8,2,Placed,11.43,Cognizant
+Ankit Patel,2200CS612,CSE,7.72,73,39,22,64,79,2,5,2,Not Placed,0.0,Not Placed
+Nidhi Tiwari,2400EE613,EE,5.32,8,30,24,49,29,0,5,2,Not Placed,0.0,Not Placed
+Dhruv Rawat,2300ME614,ME,9.07,85,34,35,52,69,2,1,3,Placed,4.58,Sasken
+Shivani Reddy,2100ME615,ME,7.66,63,27,40,60,78,1,6,1,Placed,5.96,Accenture
+Sonal Bajaj,2200EC616,ECE,6.78,57,51,8,56,39,2,5,1,Not Placed,0.0,Not Placed
+Shivani Sethi,2100CS617,CSE,8.76,52,41,63,61,60,4,7,2,Placed,43.04,Amazon
+Anika Saxena,2300EC618,ECE,7.46,56,69,19,55,29,1,5,0,Placed,4.94,NIIT
+Rahul Yadav,2400CS619,CSE,7.93,90,65,52,57,32,2,7,2,Placed,11.66,Capgemini
+Ankit Nair,2400IT620,IT,6.19,43,59,23,53,51,1,1,3,Not Placed,0.0,Not Placed
+Prateek Bhatt,2200CS621,CSE,7.97,61,75,43,50,8,2,6,0,Placed,4.1,Cyient
+Prateek Bansal,2200EC622,ECE,8.53,82,37,34,47,79,2,4,1,Placed,7.45,Wipro
+Jyoti Bajaj,2100CS623,CSE,8.32,83,50,43,69,38,1,6,0,Placed,9.41,Paytm
+Aanya Rawat,2200IT624,IT,6.92,71,78,38,32,4,4,6,1,Placed,4.31,Genpact
+Aishwarya Thakur,2400CS625,CSE,6.88,46,44,70,61,32,0,3,1,Placed,4.21,Amdocs
+Pallavi Chatterjee,2400EC626,ECE,8.42,69,34,52,75,32,3,8,0,Placed,11.75,Wipro
+Ankit Verma,2200ME627,ME,7.47,28,66,41,46,36,3,7,3,Placed,3.85,iGate
+Kabir Srivastava,2300CS628,CSE,9.6,55,39,69,36,21,2,7,1,Placed,5.11,Wipro
+Kriti Rawat,2100CS629,CSE,8.34,79,43,62,67,35,2,5,2,Placed,9.91,L&T Infotech
+Kabir Bhatt,2300ME630,ME,9.02,62,88,38,52,25,1,5,1,Placed,4.56,Mindtree
+Himanshu Chatterjee,2200EC631,ECE,6.25,32,55,63,57,34,1,4,0,Placed,8.87,Capgemini
+Mayank Saxena,2300CS632,CSE,8.94,67,83,44,54,71,3,7,3,Placed,9.11,Paytm
+Varun Mehta,2300CS633,CSE,8.5,74,42,67,51,42,4,5,2,Placed,5.35,Paytm
+Varun Agarwal,2200CS634,CSE,8.54,90,64,43,66,65,4,7,1,Placed,42.46,Adobe
+Nupur Bajaj,2400ME635,ME,5.47,47,66,4,36,39,0,3,0,Not Placed,0.0,Not Placed
+Rajat Jain,2200CS636,CSE,7.69,60,50,64,51,59,2,8,2,Placed,8.01,Paytm
+Aditya Chopra,2300IT637,IT,6.03,48,75,40,46,39,2,4,1,Not Placed,0.0,Not Placed
+Radhika Bhatt,2200ME638,ME,7.08,58,82,34,75,15,1,4,1,Not Placed,0.0,Not Placed
+Nupur Bansal,2300EC639,ECE,8.17,57,50,58,21,56,1,4,1,Not Placed,0.0,Not Placed
+Bhavna Patel,2200IT640,IT,6.88,42,21,25,57,53,1,4,0,Not Placed,0.0,Not Placed
+Ananya Rastogi,2200EE641,EE,6.68,23,44,50,44,11,1,4,2,Not Placed,0.0,Not Placed
+Aryan Yadav,2300EC642,ECE,6.51,62,47,19,63,65,3,5,1,Placed,8.65,Paytm
+Himanshu Reddy,2400IT643,IT,8.14,52,41,49,89,38,1,2,2,Placed,4.7,Concentrix
+Aditi Das,2400CE644,CE,8.85,96,67,60,67,73,4,6,2,Placed,26.14,Samsung R&D
+Tushar Mishra,2400IT645,IT,7.27,76,5,58,59,74,2,4,0,Placed,3.57,Cyient
+Khushi Arora,2400CS646,CSE,6.52,68,54,7,50,43,0,5,4,Not Placed,0.0,Not Placed
+Nidhi Sethi,2100ME647,ME,5.4,14,45,38,36,34,4,2,0,Not Placed,0.0,Not Placed
+Sachin Iyer,2300ME648,ME,7.26,32,59,35,46,50,3,2,2,Not Placed,0.0,Not Placed
+Akash Reddy,2200CS649,CSE,8.62,73,72,48,58,90,3,8,0,Placed,18.63,Uber
+Prateek Rastogi,2300CS650,CSE,6.48,38,30,8,51,84,0,6,1,Not Placed,0.0,Not Placed
+Sakshi Khanna,2200EC651,ECE,7.35,51,60,46,45,40,2,6,4,Placed,8.58,L&T Infotech
+Sakshi Singh,2100EE652,EE,8.53,72,72,56,62,56,1,3,3,Placed,5.77,Infosys
+Diya Agarwal,2200CS653,CSE,6.15,44,11,25,29,58,1,5,1,Not Placed,0.0,Not Placed
+Sonal Sharma,2400IT654,IT,8.23,100,70,14,55,56,1,2,0,Placed,18.68,Adobe
+Vikas Goel,2200EC655,ECE,7.97,66,30,78,43,38,1,6,0,Not Placed,0.0,Not Placed
+Isha Arora,2300CS656,CSE,6.01,39,48,16,56,87,0,1,1,Placed,4.06,NIIT
+Trisha Chauhan,2100IT657,IT,8.09,87,53,57,47,45,2,2,0,Placed,5.9,Capgemini
+Charu Srivastava,2400EC658,ECE,6.77,56,32,37,71,85,3,4,2,Placed,9.21,Mphasis
+Neeraj Patel,2100CE659,CE,7.11,51,45,23,58,49,1,8,2,Placed,3.54,Genpact
+Aadhya Jain,2200CS660,CSE,8.99,76,85,72,50,79,1,6,1,Placed,5.9,Mindtree
+Aanya Sharma,2300ME661,ME,7.08,68,23,47,73,47,1,4,3,Placed,3.13,NIIT
+Khushi Jain,2400EC662,ECE,7.7,34,20,35,58,24,0,1,0,Not Placed,0.0,Not Placed
+Advaith Nair,2100CS663,CSE,9.06,58,68,77,69,84,2,8,1,Placed,41.29,Microsoft
+Rohan Arora,2300EC664,ECE,5.95,58,9,68,35,49,1,4,2,Placed,3.62,Concentrix
+Sonam Jain,2200IT665,IT,7.92,84,51,43,54,65,2,7,0,Placed,35.91,Microsoft
+Rajat Chauhan,2400CS666,CSE,6.25,39,20,16,23,28,1,5,0,Not Placed,0.0,Not Placed
+Charu Dubey,2200EC667,ECE,9.95,98,76,56,97,26,3,3,1,Placed,41.34,Uber
+Sneha Mishra,2100CS668,CSE,7.73,47,46,47,39,78,1,4,1,Not Placed,0.0,Not Placed
+Himanshu Agarwal,2400EE669,EE,7.06,55,54,45,62,55,1,3,2,Placed,3.78,Sapient
+Nidhi Jain,2200EE670,EE,8.51,55,51,66,81,42,4,8,2,Placed,10.15,Cognizant
+Aryan Khanna,2300EC671,ECE,5.97,53,82,27,49,25,2,3,0,Not Placed,0.0,Not Placed
+Yash Goel,2200ME672,ME,8.48,61,40,52,89,60,2,5,2,Placed,19.46,Oracle
+Mayank Reddy,2300EC673,ECE,6.24,63,44,51,19,59,2,5,1,Placed,3.49,Mu Sigma
+Prateek Nair,2100CS674,CSE,7.72,84,61,51,61,20,1,5,3,Placed,4.9,HCL
+Aditi Dhawan,2100CE675,CE,6.99,60,25,59,79,59,3,5,1,Not Placed,0.0,Not Placed
+Rahul Malhotra,2200IT676,IT,8.81,100,39,20,61,28,4,4,2,Placed,9.54,Capgemini
+Divya Bhatt,2200CS677,CSE,7.48,60,49,33,67,37,1,6,1,Placed,3.4,Syntel
+Arjun Sethi,2100IT678,IT,6.94,59,46,20,34,62,1,4,1,Not Placed,0.0,Not Placed
+Dhruv Dubey,2100CS679,CSE,7.44,35,53,51,69,10,1,3,0,Not Placed,0.0,Not Placed
+Nikhil Thakur,2300CS680,CSE,9.01,98,74,67,96,39,3,8,0,Placed,44.08,Oracle
+Komal Reddy,2100IT681,IT,9.04,61,58,62,47,51,4,5,0,Placed,21.46,Oracle
+Kabir Mishra,2300EE682,EE,4.69,41,27,35,36,39,2,6,2,Not Placed,0.0,Not Placed
+Ravi Dubey,2200EC683,ECE,7.91,44,37,65,69,0,0,5,1,Placed,3.38,Cyient
+Swati Sethi,2100CS684,CSE,9.22,86,57,55,91,53,2,7,4,Placed,9.43,Cognizant
+Charu Saxena,2100EC685,ECE,7.05,46,33,29,60,46,1,3,1,Not Placed,0.0,Not Placed
+Sai Mukherjee,2100IT686,IT,7.39,58,54,63,55,36,3,8,1,Placed,4.42,Syntel
+Harsh Pandey,2100CS687,CSE,6.63,69,69,26,35,72,3,8,1,Placed,7.47,TCS
+Dev Sharma,2200CS688,CSE,6.69,51,34,31,26,58,1,3,0,Not Placed,0.0,Not Placed
+Meghna Rajput,2300EC689,ECE,7.71,56,20,9,45,59,4,7,0,Placed,3.32,Concentrix
+Myra Rastogi,2100IT690,IT,7.88,57,90,5,60,53,1,4,1,Placed,4.77,Mu Sigma
+Komal Rastogi,2100ME691,ME,5.88,54,48,40,20,72,1,4,1,Not Placed,0.0,Not Placed
+Nupur Chopra,2100EE692,EE,4.0,1,11,19,29,36,1,0,0,Not Placed,0.0,Not Placed
+Sonal Thakur,2300CE693,CE,8.01,65,48,74,65,35,4,8,2,Placed,5.54,TCS
+Kriti Chauhan,2300EC694,ECE,7.22,67,60,54,55,53,2,2,0,Not Placed,0.0,Not Placed
+Dhruv Patel,2100CS695,CSE,7.79,41,78,49,59,62,3,4,1,Placed,4.84,Genpact
+Vivaan Sharma,2200CS696,CSE,8.83,41,56,59,89,35,2,3,5,Placed,10.24,TCS
+Divya Nair,2200CE697,CE,5.4,24,44,0,50,28,3,1,0,Not Placed,0.0,Not Placed
+Vivaan Khanna,2400CS698,CSE,5.99,55,63,29,52,43,1,3,4,Not Placed,0.0,Not Placed
+Rohan Saxena,2400EE699,EE,10.0,92,51,46,65,49,2,4,0,Placed,15.29,Flipkart
+Aadhya Chopra,2300IT700,IT,7.44,64,63,16,42,68,1,2,0,Not Placed,0.0,Not Placed
+Ravi Singh,2200CS701,CSE,7.73,58,53,72,41,27,3,8,1,Placed,7.11,HCL
+Nikhil Kumar,2400EE702,EE,7.6,41,31,45,64,18,1,4,1,Placed,4.91,iGate
+Nidhi Mishra,2400IT703,IT,6.94,66,51,54,63,57,3,8,1,Placed,10.72,TCS
+Priya Bansal,2300EC704,ECE,7.52,35,31,27,46,48,4,3,1,Placed,3.23,Sasken
+Deepak Arora,2400EC705,ECE,8.63,43,20,84,59,35,1,7,1,Placed,3.28,Genpact
+Ishaan Sharma,2400CS706,CSE,8.57,80,42,49,72,64,4,3,0,Placed,8.22,TCS
+Akash Bhatia,2100IT707,IT,7.61,77,50,34,40,70,4,5,2,Placed,8.71,Accenture
+Himanshu Nair,2300IT708,IT,7.98,69,75,21,48,51,2,3,3,Placed,10.59,Infosys
+Suraj Saxena,2400ME709,ME,7.68,47,87,38,69,43,2,7,0,Placed,3.2,Syntel
+Ishaan Rastogi,2100CS710,CSE,6.37,63,50,9,51,39,3,4,3,Placed,4.65,Mu Sigma
+Suraj Das,2300ME711,ME,8.6,62,64,47,52,53,3,5,2,Placed,7.19,Tech Mahindra
+Saurabh Patel,2200CS712,CSE,6.83,50,77,40,61,52,2,7,1,Placed,10.6,Mphasis
+Aadhya Sethi,2100CS713,CSE,8.43,100,62,60,48,93,1,3,2,Placed,10.32,Capgemini
+Aryan Bansal,2300ME714,ME,8.61,93,23,29,52,46,1,2,2,Not Placed,0.0,Not Placed
+Swati Malhotra,2300CS715,CSE,6.93,55,32,34,33,47,1,2,3,Not Placed,0.0,Not Placed
+Kavya Srivastava,2100EE716,EE,7.89,75,55,43,63,58,3,7,2,Placed,10.77,HCL
+Aman Sethi,2100ME717,ME,6.86,28,69,37,81,63,0,2,1,Placed,4.58,Concentrix
+Shaurya Chatterjee,2400EC718,ECE,8.77,74,88,23,71,78,2,8,3,Placed,11.97,Accenture
+Anika Bhatt,2300CE719,CE,7.22,48,58,31,75,27,1,4,2,Placed,11.67,Zoho
+Varun Goel,2400CE720,CE,6.98,30,43,42,33,40,0,5,2,Not Placed,0.0,Not Placed
+Anika Mishra,2200CS721,CSE,8.52,83,20,40,52,57,0,2,0,Placed,4.67,iGate
+Pranav Malhotra,2200CS722,CSE,8.48,69,48,64,64,48,2,6,1,Placed,7.21,Infosys
+Amit Reddy,2100EE723,EE,7.05,59,48,31,54,40,1,8,1,Not Placed,0.0,Not Placed
+Shruti Pandey,2100IT724,IT,7.18,80,60,39,51,37,3,5,1,Placed,3.71,Amdocs
+Aishwarya Khanna,2200EC725,ECE,5.33,53,69,8,50,50,3,5,1,Not Placed,0.0,Not Placed
+Deepak Patel,2200IT726,IT,7.17,80,58,44,33,44,4,7,1,Not Placed,0.0,Not Placed
+Aarav Singh,2200ME727,ME,5.88,44,15,32,34,32,2,5,0,Placed,6.54,Wipro
+Nikhil Arora,2100ME728,ME,7.68,64,53,79,44,79,3,8,3,Placed,5.4,L&T Infotech
+Aadhya Verma,2100CE729,CE,5.57,26,45,40,60,34,1,8,2,Not Placed,0.0,Not Placed
+Vikas Chatterjee,2200EC730,ECE,9.04,56,81,56,83,77,2,7,2,Placed,15.58,Microsoft
+Anika Gupta,2400ME731,ME,7.2,60,34,54,48,43,2,3,3,Placed,3.38,Mu Sigma
+Ankit Mukherjee,2400ME732,ME,5.9,47,24,22,23,37,2,1,1,Not Placed,0.0,Not Placed
+Diya Nair,2400EC733,ECE,8.34,37,50,50,52,55,1,4,1,Placed,3.19,Concentrix
+Sneha Pandey,2300IT734,IT,7.77,64,62,61,67,53,4,5,0,Placed,8.95,Cognizant
+Sara Gupta,2200ME735,ME,6.85,34,40,12,16,32,4,5,1,Not Placed,0.0,Not Placed
+Ritika Das,2400ME736,ME,7.27,46,59,36,43,13,4,5,2,Placed,4.72,Mu Sigma
+Kabir Nair,2200CE737,CE,6.66,24,80,46,59,33,3,6,0,Placed,3.81,Amdocs
+Vikas Rajput,2200ME738,ME,7.32,41,62,31,51,20,2,5,1,Not Placed,0.0,Not Placed
+Mohit Bhatia,2400CS739,CSE,5.68,76,45,51,46,65,3,6,1,Not Placed,0.0,Not Placed
+Meghna Chopra,2300CS740,CSE,9.11,86,56,77,67,59,2,8,1,Placed,13.41,Uber
+Riya Verma,2300EC741,ECE,8.39,48,50,31,56,22,2,4,0,Not Placed,0.0,Not Placed
+Arjun Rastogi,2100ME742,ME,7.62,36,5,25,53,69,0,4,1,Not Placed,0.0,Not Placed
+Mansi Bhatia,2200CS743,CSE,6.59,55,48,37,44,64,1,2,1,Placed,4.48,Concentrix
+Aryan Saxena,2300EC744,ECE,6.19,37,28,56,44,78,2,7,1,Placed,7.03,Mindtree
+Himanshu Srivastava,2400CS745,CSE,7.64,60,76,45,77,46,2,3,1,Placed,8.79,Accenture
+Atharv Saxena,2300CS746,CSE,6.71,73,79,51,25,76,2,6,3,Placed,3.08,Sapient
+Neeraj Bhatia,2200EC747,ECE,6.77,26,47,57,60,34,4,8,2,Not Placed,0.0,Not Placed
+Prateek Bhatt,2300CS748,CSE,6.16,63,77,36,31,49,1,4,0,Placed,4.7,Concentrix
+Saanvi Mishra,2100EC749,ECE,7.19,38,57,26,64,45,3,6,3,Placed,3.94,Genpact
+Arjun Rajput,2400CE750,CE,8.28,26,77,61,45,58,2,6,1,Placed,3.88,Mu Sigma
+Shivani Tiwari,2200CS751,CSE,8.39,68,58,36,66,64,0,3,0,Placed,3.79,Sapient
+Rohan Singh,2100EC752,ECE,4.53,16,22,16,33,23,0,3,1,Not Placed,0.0,Not Placed
+Saurabh Yadav,2100EC753,ECE,5.13,30,24,45,36,74,0,3,0,Not Placed,0.0,Not Placed
+Aadhya Arora,2400CE754,CE,7.96,64,53,34,51,54,2,6,3,Placed,3.05,Sasken
+Kunal Goel,2300CS755,CSE,7.81,79,48,38,79,70,4,7,1,Placed,23.0,Amazon
+Sachin Mukherjee,2400IT756,IT,4.35,55,1,16,32,17,2,1,1,Not Placed,0.0,Not Placed
+Riya Khanna,2300IT757,IT,7.45,67,22,49,45,46,2,5,1,Placed,3.5,Genpact
+Mohit Goel,2300IT758,IT,7.64,45,63,78,36,47,2,4,3,Placed,10.96,Wipro
+Sachin Sharma,2400CS759,CSE,9.55,77,43,55,57,66,4,6,4,Placed,5.92,Paytm
+Atharv Dhawan,2300ME760,ME,8.17,52,27,47,69,76,3,8,0,Placed,3.16,Sasken
+Tushar Chopra,2100CS761,CSE,8.21,47,83,40,79,8,3,8,3,Placed,9.19,Byju's
+Sara Kapoor,2100IT762,IT,7.39,68,45,19,44,55,2,5,0,Placed,3.04,Genpact
+Nidhi Chauhan,2100CS763,CSE,7.1,68,80,54,62,55,3,6,2,Placed,3.54,Sapient
+Aanya Mehta,2200IT764,IT,7.66,59,30,31,50,72,2,2,3,Placed,11.45,HCL
+Amit Mehta,2100IT765,IT,9.1,91,60,51,67,34,3,7,2,Placed,10.83,Hexaware
+Aditya Nair,2400EE766,EE,5.72,47,32,1,31,61,2,7,1,Not Placed,0.0,Not Placed
+Navya Das,2400ME767,ME,7.29,38,26,57,40,68,1,4,1,Placed,4.37,Amdocs
+Tanya Nair,2100CS768,CSE,7.9,71,95,68,68,26,4,5,1,Placed,8.36,Paytm
+Kriti Srivastava,2200EC769,ECE,7.4,23,37,14,48,15,2,4,1,Not Placed,0.0,Not Placed
+Aadhya Gupta,2300EC770,ECE,5.79,40,28,51,51,36,2,6,0,Not Placed,0.0,Not Placed
+Rohan Mehta,2100ME771,ME,7.22,61,47,45,34,59,2,6,0,Not Placed,0.0,Not Placed
+Kunal Chauhan,2400EC772,ECE,5.25,10,26,49,21,69,3,6,3,Not Placed,0.0,Not Placed
+Sachin Kumar,2100EC773,ECE,4.63,41,22,7,31,53,1,2,1,Not Placed,0.0,Not Placed
+Radhika Bajaj,2400CS774,CSE,7.16,69,62,77,29,82,2,5,0,Placed,6.8,Hexaware
+Gaurav Chauhan,2400CS775,CSE,9.17,78,57,59,80,68,2,4,4,Placed,5.75,Wipro
+Reyansh Kapoor,2200EC776,ECE,9.77,70,75,75,71,70,2,4,0,Placed,32.14,Adobe
+Khushi Khanna,2300ME777,ME,6.94,37,50,25,43,58,1,5,3,Placed,4.13,iGate
+Neha Patel,2100ME778,ME,6.19,22,32,43,68,54,4,8,1,Not Placed,0.0,Not Placed
+Kriti Khanna,2400EC779,ECE,7.21,48,75,58,49,32,4,4,2,Placed,4.46,Concentrix
+Rahul Sharma,2400CS780,CSE,7.75,66,46,26,47,46,1,4,1,Placed,5.98,Infosys
+Trisha Dhawan,2400ME781,ME,8.36,74,23,43,69,67,3,3,2,Placed,6.64,HCL
+Arjun Dubey,2200EC782,ECE,7.85,70,49,86,47,46,2,2,1,Placed,5.09,Mphasis
+Isha Joshi,2100EE783,EE,9.79,97,49,47,71,91,2,7,2,Placed,25.32,Goldman Sachs
+Aparna Rawat,2300ME784,ME,7.49,63,75,38,46,54,1,3,4,Placed,4.1,NIIT
+Riya Arora,2400CS785,CSE,6.77,54,46,62,69,20,1,6,0,Placed,4.99,Sapient
+Varun Gupta,2300CS786,CSE,6.15,63,76,16,20,39,1,6,0,Placed,3.26,Syntel
+Shruti Srivastava,2300CS787,CSE,7.13,34,52,18,81,33,0,3,0,Not Placed,0.0,Not Placed
+Ishaan Patel,2100EC788,ECE,6.28,64,61,52,48,54,3,4,0,Placed,3.9,Sapient
+Preeti Sethi,2200CS789,CSE,8.77,82,89,55,77,68,2,5,1,Placed,33.85,Oracle
+Mohit Rajput,2400CS790,CSE,7.27,66,68,37,46,50,2,5,4,Placed,8.51,Mindtree
+Kriti Saxena,2400IT791,IT,7.06,30,53,46,40,61,1,3,2,Not Placed,0.0,Not Placed
+Isha Reddy,2100IT792,IT,8.24,77,41,35,48,41,1,3,2,Placed,4.67,Cyient
+Ayaan Chatterjee,2200IT793,IT,7.6,73,28,50,63,44,0,4,0,Not Placed,0.0,Not Placed
+Pranav Tiwari,2200IT794,IT,6.9,57,32,29,56,43,1,3,1,Not Placed,0.0,Not Placed
+Gaurav Mishra,2400ME795,ME,9.63,57,41,62,66,57,2,4,2,Placed,28.09,Adobe
+Abhishek Mehta,2300IT796,IT,8.13,76,94,47,57,74,3,7,3,Placed,11.74,Byju's
+Sai Nair,2400EC797,ECE,9.17,96,69,65,71,48,4,5,2,Placed,18.86,Oracle
+Kavya Rajput,2400EC798,ECE,9.62,74,59,46,72,83,3,8,2,Placed,11.22,Byju's
+Dev Bajaj,2400CS799,CSE,7.2,56,71,54,54,54,3,8,1,Placed,3.24,NIIT
+Sara Yadav,2100CS800,CSE,7.66,61,66,21,53,54,1,2,1,Placed,8.79,Byju's
+Ankit Patel,2300CE801,CE,7.69,64,52,53,33,36,4,7,0,Placed,10.34,Paytm
+Pallavi Mehta,2400IT802,IT,9.11,79,42,44,65,66,2,6,3,Placed,11.31,Mphasis
+Kriti Dhawan,2400CS803,CSE,7.61,64,31,78,41,27,4,8,2,Placed,5.0,TCS
+Kabir Reddy,2200CS804,CSE,7.73,46,86,72,37,18,3,8,2,Placed,11.32,L&T Infotech
+Saanvi Reddy,2300IT805,IT,7.22,51,46,20,67,55,2,5,1,Placed,9.24,Hexaware
+Aditya Joshi,2300ME806,ME,8.04,71,49,50,43,76,4,5,4,Placed,4.84,Byju's
+Diya Kapoor,2300EE807,EE,4.71,12,47,27,55,72,1,3,1,Not Placed,0.0,Not Placed
+Kavya Rawat,2100EC808,ECE,7.03,51,27,14,47,44,0,3,1,Not Placed,0.0,Not Placed
+Krishna Goel,2400ME809,ME,7.67,58,59,24,73,78,3,5,1,Placed,4.58,Sapient
+Charu Das,2100ME810,ME,5.61,33,28,28,45,36,2,4,1,Not Placed,0.0,Not Placed
+Varun Dubey,2400IT811,IT,9.26,100,99,41,62,36,3,4,2,Placed,8.96,Hexaware
+Preeti Rajput,2300CE812,CE,7.39,56,34,30,71,64,3,6,3,Not Placed,0.0,Not Placed
+Ravi Chauhan,2100CS813,CSE,7.92,53,62,51,54,59,1,6,0,Placed,7.43,Cognizant
+Myra Rajput,2100EC814,ECE,6.77,23,45,30,41,75,1,1,0,Placed,11.62,Wipro
+Advik Singh,2200CS815,CSE,5.42,53,86,47,37,23,0,3,2,Placed,4.95,Mu Sigma
+Ananya Arora,2200CS816,CSE,7.63,75,51,69,69,49,4,8,3,Placed,6.34,Cognizant
+Sonal Thakur,2400ME817,ME,8.2,91,57,56,38,92,2,8,1,Placed,9.69,Mphasis
+Kartik Verma,2200CS818,CSE,8.84,73,50,69,61,58,3,3,1,Placed,7.07,Accenture
+Radhika Chatterjee,2200EC819,ECE,8.25,50,27,44,66,49,1,3,1,Placed,4.3,Syntel
+Meghna Chauhan,2300EE820,EE,7.54,55,42,23,45,46,1,2,1,Placed,3.85,NIIT
+Diya Nair,2100CS821,CSE,9.31,100,36,41,60,94,2,6,4,Placed,7.79,Wipro
+Advaith Srivastava,2200ME822,ME,8.04,80,35,37,82,35,3,4,3,Placed,5.7,Cognizant
+Bhavna Verma,2100IT823,IT,7.38,61,63,48,83,59,0,8,0,Placed,11.22,Tech Mahindra
+Vikas Pandey,2100ME824,ME,8.04,67,52,35,64,86,3,5,1,Placed,7.78,HCL
+Radhika Goel,2300EC825,ECE,8.62,88,79,46,82,72,4,8,0,Placed,30.89,Uber
+Meghna Iyer,2300IT826,IT,6.74,42,74,40,60,46,1,5,2,Placed,4.65,Genpact
+Simran Rajput,2400CS827,CSE,4.54,51,27,2,42,41,1,4,0,Not Placed,0.0,Not Placed
+Aarav Thakur,2300CS828,CSE,8.23,70,61,69,58,54,2,2,2,Placed,11.26,Mindtree
+Simran Patel,2400ME829,ME,5.94,54,5,39,60,80,1,1,2,Not Placed,0.0,Not Placed
+Kunal Rastogi,2300CE830,CE,6.01,27,50,2,33,100,1,4,1,Not Placed,0.0,Not Placed
+Shruti Goel,2200CE831,CE,7.38,77,56,41,57,81,2,7,1,Placed,9.15,Wipro
+Aditya Dhawan,2400ME832,ME,8.14,70,55,69,50,55,2,8,1,Placed,10.56,Mphasis
+Vidhi Jain,2100EC833,ECE,7.92,57,26,66,77,69,2,3,2,Placed,8.46,Mphasis
+Tanvi Mehta,2400CS834,CSE,7.96,92,82,63,27,69,3,6,2,Placed,43.53,Uber
+Garima Gupta,2200EC835,ECE,7.63,41,71,48,68,67,3,8,1,Placed,6.99,Accenture
+Kartik Bhatt,2400CS836,CSE,9.11,82,69,35,63,52,2,2,0,Placed,12.96,Flipkart
+Navya Khanna,2200EC837,ECE,8.74,74,70,59,50,52,4,8,5,Placed,10.7,Cognizant
+Vishal Jain,2300CS838,CSE,5.26,34,32,3,56,19,2,5,2,Not Placed,0.0,Not Placed
+Kartik Kapoor,2100CS839,CSE,6.47,55,19,48,56,66,1,5,0,Placed,10.73,HCL
+Pooja Goel,2400ME840,ME,6.56,48,52,31,40,61,1,5,1,Placed,4.88,Sapient
+Shruti Sethi,2300CS841,CSE,7.93,69,48,18,49,35,2,5,2,Placed,5.73,Tech Mahindra
+Vishal Singh,2100CS842,CSE,7.29,44,40,30,53,70,2,2,0,Placed,3.17,Syntel
+Ravi Agarwal,2400EC843,ECE,7.16,32,44,47,48,54,2,8,3,Placed,4.3,Cyient
+Pallavi Singh,2200CS844,CSE,8.86,87,72,54,59,70,0,4,2,Placed,8.52,Wipro
+Kunal Das,2400EC845,ECE,6.09,29,46,44,56,44,3,8,2,Placed,3.19,Concentrix
+Nupur Pandey,2100ME846,ME,6.11,56,33,0,54,39,3,6,1,Placed,4.05,Syntel
+Aditi Pandey,2300CS847,CSE,10.0,83,77,93,100,60,1,3,1,Placed,27.49,Google
+Varun Rastogi,2200EE848,EE,6.68,49,55,17,50,72,2,8,0,Placed,11.37,Zoho
+Ankit Chauhan,2400IT849,IT,6.52,43,54,36,58,60,1,5,3,Placed,3.67,NIIT
+Rajat Mukherjee,2400CS850,CSE,7.84,72,32,69,58,49,3,8,1,Placed,8.46,Capgemini
+Aparna Nair,2100CS851,CSE,6.63,55,76,21,50,32,3,8,4,Not Placed,0.0,Not Placed
+Akash Tiwari,2300ME852,ME,6.44,24,41,14,46,48,1,5,1,Not Placed,0.0,Not Placed
+Rohan Rajput,2200CE853,CE,7.3,53,47,31,29,40,1,6,0,Placed,7.57,TCS
+Tushar Saxena,2200EE854,EE,7.87,45,39,10,53,33,0,3,1,Not Placed,0.0,Not Placed
+Simran Jain,2100EC855,ECE,7.01,5,69,54,57,39,2,3,2,Placed,3.06,Amdocs
+Navya Kumar,2100EC856,ECE,7.5,66,72,51,41,52,3,8,1,Placed,9.05,Cognizant
+Sonal Rajput,2300CS857,CSE,5.64,55,53,8,65,58,2,4,2,Not Placed,0.0,Not Placed
+Vidhi Jain,2300CE858,CE,6.43,31,6,41,41,0,2,4,1,Not Placed,0.0,Not Placed
+Meghna Tiwari,2200IT859,IT,5.84,67,36,29,11,22,2,8,2,Not Placed,0.0,Not Placed
+Diya Srivastava,2200CS860,CSE,8.26,48,86,59,100,91,3,5,1,Placed,30.15,Amazon
+Sachin Verma,2200CS861,CSE,7.52,54,72,57,74,68,3,6,3,Placed,6.51,Infosys
+Nupur Gupta,2400IT862,IT,6.29,41,57,50,23,53,3,7,1,Not Placed,0.0,Not Placed
+Sonam Bhatt,2100ME863,ME,8.28,58,13,62,72,54,1,8,2,Placed,3.32,Sasken
+Yash Patel,2100EE864,EE,8.38,76,66,65,60,20,1,4,0,Placed,7.48,TCS
+Ankur Chatterjee,2400EC865,ECE,8.29,73,57,43,48,53,0,1,4,Placed,4.75,Infosys
+Aparna Yadav,2200CS866,CSE,4.47,27,14,56,29,54,1,3,0,Not Placed,0.0,Not Placed
+Harsh Das,2100IT867,IT,7.57,51,58,46,27,49,0,2,1,Placed,3.93,Cyient
+Shivani Dhawan,2200EC868,ECE,6.92,48,32,59,16,40,1,1,2,Placed,4.4,Amdocs
+Ravi Bajaj,2100CS869,CSE,7.75,61,71,71,19,54,2,6,3,Not Placed,0.0,Not Placed
+Anika Patel,2400CS870,CSE,6.64,53,86,48,57,50,2,8,2,Placed,10.34,HCL
+Aman Mehta,2200EC871,ECE,4.62,25,32,39,39,62,1,2,2,Not Placed,0.0,Not Placed
+Nupur Das,2300IT872,IT,7.96,56,61,50,71,91,1,8,1,Placed,7.27,Wipro
+Manish Rawat,2200CS873,CSE,9.61,72,91,75,53,22,3,6,0,Placed,39.67,Samsung R&D
+Neha Sharma,2100ME874,ME,8.61,46,56,32,62,51,0,3,2,Placed,3.85,NIIT
+Ankit Rawat,2200EC875,ECE,9.0,71,51,10,46,70,2,7,0,Placed,28.12,Microsoft
+Sachin Patel,2300CE876,CE,7.32,26,33,35,55,43,1,5,1,Not Placed,0.0,Not Placed
+Deepak Bansal,2300IT877,IT,8.44,61,68,100,71,100,0,6,2,Placed,10.3,Tech Mahindra
+Reyansh Pandey,2100ME878,ME,7.48,40,56,53,43,68,1,4,4,Placed,7.63,Paytm
+Divya Malhotra,2400EE879,EE,6.47,51,29,35,61,31,1,4,0,Not Placed,0.0,Not Placed
+Reyansh Gupta,2100CE880,CE,7.33,54,43,36,84,65,1,5,1,Placed,3.05,Concentrix
+Kunal Bhatia,2400EC881,ECE,5.3,26,51,20,30,69,0,2,1,Not Placed,0.0,Not Placed
+Charu Mishra,2300EC882,ECE,8.64,73,75,27,56,39,0,6,3,Placed,5.08,Paytm
+Riya Agarwal,2400EC883,ECE,6.37,38,39,25,31,53,1,6,1,Not Placed,0.0,Not Placed
+Sonal Rastogi,2400IT884,IT,5.67,43,25,43,47,39,1,1,1,Placed,4.7,Syntel
+Megha Chauhan,2100CS885,CSE,6.89,50,64,30,74,55,1,3,0,Placed,3.02,Concentrix
+Shaurya Patel,2400IT886,IT,5.61,40,41,17,48,61,3,2,1,Not Placed,0.0,Not Placed
+Kriti Chatterjee,2200IT887,IT,6.89,66,64,22,47,49,2,5,1,Placed,3.16,Sasken
+Sonam Bhatia,2100CS888,CSE,4.44,40,45,48,17,25,1,5,1,Not Placed,0.0,Not Placed
+Vishal Rawat,2100ME889,ME,7.37,74,29,42,60,59,0,3,2,Not Placed,0.0,Not Placed
+Jyoti Gupta,2100IT890,IT,7.2,72,87,12,33,48,0,3,2,Placed,4.32,iGate
+Aanya Rajput,2200IT891,IT,8.21,63,69,44,52,61,2,8,2,Placed,6.8,Mphasis
+Mansi Rajput,2100IT892,IT,5.3,70,57,12,25,45,1,6,0,Not Placed,0.0,Not Placed
+Trisha Saxena,2400EC893,ECE,6.2,49,47,14,16,37,2,3,2,Not Placed,0.0,Not Placed
+Trisha Nair,2200CS894,CSE,6.5,63,47,66,62,45,3,3,4,Placed,9.34,Paytm
+Aarav Chauhan,2400IT895,IT,8.06,97,55,39,67,63,3,8,0,Placed,8.07,Paytm
+Navya Kumar,2400CS896,CSE,8.33,78,89,48,67,68,2,8,3,Placed,10.67,Accenture
+Kunal Rastogi,2100ME897,ME,6.74,53,28,32,61,24,0,7,5,Not Placed,0.0,Not Placed
+Manish Nair,2400CE898,CE,5.2,53,35,17,29,7,2,5,0,Not Placed,0.0,Not Placed
+Sai Iyer,2400CS899,CSE,8.02,80,22,41,59,34,0,3,1,Placed,4.01,Sasken
+Isha Rawat,2400CS900,CSE,7.53,55,49,42,65,49,2,8,2,Placed,7.25,Accenture
+Prateek Verma,2100ME901,ME,4.06,25,21,0,10,23,0,3,2,Not Placed,0.0,Not Placed
+Pallavi Gupta,2100IT902,IT,6.8,44,82,27,57,69,2,7,2,Placed,3.75,NIIT
+Bhavna Khanna,2200EC903,ECE,7.81,70,43,37,43,40,3,6,3,Placed,9.17,Mphasis
+Sakshi Arora,2100EE904,EE,8.02,33,58,72,48,69,1,3,1,Placed,7.26,Paytm
+Deepak Kapoor,2400EC905,ECE,6.59,49,46,38,28,64,2,4,0,Placed,4.43,Sapient
+Anika Patel,2200CS906,CSE,7.2,58,69,17,51,50,0,2,1,Not Placed,0.0,Not Placed
+Kunal Bhatia,2300CS907,CSE,6.92,52,88,34,38,36,2,6,0,Placed,9.32,Mindtree
+Khushi Patel,2100CS908,CSE,9.67,68,83,79,59,66,2,4,3,Placed,7.96,Byju's
+Prateek Jain,2400CE909,CE,6.12,34,42,42,61,38,3,6,2,Not Placed,0.0,Not Placed
+Dhruv Bajaj,2200EE910,EE,6.58,36,60,45,35,33,1,2,3,Not Placed,0.0,Not Placed
+Ayaan Reddy,2200EE911,EE,5.7,26,48,41,8,33,3,8,1,Placed,4.01,Syntel
+Neeraj Kapoor,2100CS912,CSE,5.78,67,39,22,23,23,3,8,0,Not Placed,0.0,Not Placed
+Saanvi Sethi,2100IT913,IT,8.07,72,88,33,66,35,3,3,4,Placed,4.88,Zoho
+Sonal Sethi,2200CE914,CE,6.57,60,38,72,45,50,3,6,2,Placed,4.88,Syntel
+Suraj Singh,2400ME915,ME,6.81,67,14,59,44,28,4,5,1,Placed,4.12,Sasken
+Bhavna Pandey,2200EC916,ECE,6.63,36,35,72,31,48,3,5,1,Placed,7.77,Hexaware
+Reyansh Nair,2300IT917,IT,7.47,67,71,15,60,75,1,6,3,Placed,8.31,Mindtree
+Pallavi Dhawan,2200EC918,ECE,8.5,65,36,77,53,82,3,6,4,Placed,7.07,Cognizant
+Sakshi Bansal,2400CS919,CSE,6.85,51,15,39,51,46,1,2,0,Not Placed,0.0,Not Placed
+Krishna Das,2300IT920,IT,8.87,64,43,52,61,67,3,8,3,Placed,9.61,Paytm
+Nupur Khanna,2200EE921,EE,6.04,49,60,25,29,61,2,3,1,Placed,4.4,Genpact
+Rajat Bansal,2300ME922,ME,5.87,36,17,10,31,52,2,5,0,Not Placed,0.0,Not Placed
+Neeraj Pandey,2300ME923,ME,5.65,40,38,10,52,55,0,4,3,Not Placed,0.0,Not Placed
+Himanshu Bhatia,2400EC924,ECE,8.97,62,55,97,63,69,2,7,5,Placed,9.21,L&T Infotech
+Vidhi Bhatt,2300IT925,IT,5.24,48,47,30,41,1,3,5,0,Not Placed,0.0,Not Placed
+Aanya Rajput,2100EE926,EE,7.97,69,70,51,65,79,4,8,3,Placed,11.6,TCS
+Sara Singh,2100ME927,ME,7.21,44,55,51,72,56,0,6,2,Placed,3.52,Genpact
+Preeti Chauhan,2300ME928,ME,8.4,57,76,31,59,45,2,8,0,Placed,11.45,Mphasis
+Sara Singh,2300ME929,ME,7.02,50,17,48,52,68,1,4,2,Placed,4.8,Genpact
+Amit Chatterjee,2100CS930,CSE,6.22,45,15,44,48,38,1,4,0,Not Placed,0.0,Not Placed
+Mayank Khanna,2400CE931,CE,6.18,50,62,51,28,52,2,8,0,Placed,5.25,HCL
+Khushi Singh,2400ME932,ME,7.58,67,48,45,74,60,3,8,1,Placed,6.39,Capgemini
+Vidhi Malhotra,2100CS933,CSE,7.64,53,56,37,50,46,4,8,3,Placed,7.48,TCS
+Priya Bajaj,2400EE934,EE,9.5,87,67,63,71,58,3,4,1,Placed,8.85,Paytm
+Tushar Arora,2200CS935,CSE,6.87,65,40,32,39,42,1,4,2,Placed,3.01,Genpact
+Jyoti Pandey,2100IT936,IT,5.64,63,53,39,56,30,3,4,1,Placed,5.35,Wipro
+Mayank Thakur,2100IT937,IT,9.63,84,30,56,83,58,3,8,3,Placed,5.01,Capgemini
+Gaurav Rastogi,2300ME938,ME,8.76,55,47,50,45,87,4,6,2,Placed,7.77,Wipro
+Saurabh Mehta,2100EE939,EE,7.0,51,41,37,87,55,1,6,1,Placed,7.59,Accenture
+Nupur Yadav,2100CS940,CSE,5.78,90,15,33,55,64,1,4,2,Placed,9.39,Wipro
+Radhika Singh,2300CE941,CE,5.7,33,16,24,27,67,0,2,1,Not Placed,0.0,Not Placed
+Kriti Khanna,2300CS942,CSE,7.1,84,70,61,62,67,2,1,1,Placed,5.41,Infosys
+Mansi Srivastava,2200CS943,CSE,5.76,50,60,30,47,27,2,1,3,Not Placed,0.0,Not Placed
+Ravi Chauhan,2400IT944,IT,9.31,71,82,56,55,48,2,4,1,Placed,11.96,Mindtree
+Isha Bhatia,2200EC945,ECE,8.13,64,65,41,58,47,1,4,2,Placed,3.2,Genpact
+Sakshi Arora,2300CE946,CE,9.0,70,68,44,69,68,1,5,1,Placed,9.06,HCL
+Aishwarya Sharma,2100CS947,CSE,6.02,59,50,40,25,37,1,1,3,Not Placed,0.0,Not Placed
+Jyoti Saxena,2200EC948,ECE,5.48,15,3,26,40,21,2,1,0,Not Placed,0.0,Not Placed
+Kartik Malhotra,2400IT949,IT,7.59,76,33,65,35,68,2,7,0,Placed,3.58,NIIT
+Shruti Bhatt,2300CE950,CE,9.28,75,54,45,55,46,1,4,2,Placed,10.44,TCS
+Bhavna Thakur,2400ME951,ME,6.99,46,50,16,47,57,0,8,0,Not Placed,0.0,Not Placed
+Saanvi Bansal,2200EC952,ECE,5.23,36,23,13,17,46,0,2,1,Not Placed,0.0,Not Placed
+Bhavna Mishra,2100CS953,CSE,7.38,75,78,46,29,74,1,6,1,Placed,4.47,Concentrix
+Tushar Kumar,2200IT954,IT,6.74,41,81,43,85,14,0,3,5,Placed,4.6,Genpact
+Pari Dubey,2400IT955,IT,8.01,64,24,38,44,48,3,5,1,Placed,3.47,NIIT
+Arjun Iyer,2300IT956,IT,8.37,72,51,49,39,23,4,8,2,Placed,9.91,TCS
+Vihaan Singh,2200EE957,EE,7.89,72,34,14,64,74,2,4,5,Placed,4.7,Zoho
+Aishwarya Kumar,2200CS958,CSE,6.55,56,41,35,50,67,3,8,1,Placed,11.98,Byju's
+Pallavi Nair,2400CS959,CSE,8.49,92,56,61,72,49,1,5,1,Placed,10.3,Mphasis
+Komal Malhotra,2100IT960,IT,8.86,64,70,80,71,81,2,4,4,Placed,38.01,Uber
+Akash Sharma,2100CS961,CSE,7.35,83,63,34,69,76,2,5,1,Placed,8.76,Zoho
+Dev Kumar,2300CS962,CSE,4.74,39,0,42,38,37,0,4,1,Not Placed,0.0,Not Placed
+Ritvik Goel,2100IT963,IT,7.16,68,57,34,42,19,2,4,1,Not Placed,0.0,Not Placed
+Preeti Chatterjee,2400CS964,CSE,7.03,37,53,55,41,35,1,5,0,Not Placed,0.0,Not Placed
+Trisha Verma,2400IT965,IT,7.14,72,70,55,55,61,2,4,1,Placed,5.06,Wipro
+Krishna Reddy,2300CS966,CSE,7.05,73,59,29,51,26,1,8,1,Placed,7.39,Mphasis
+Harsh Arora,2100IT967,IT,6.22,58,79,58,55,63,0,6,2,Placed,11.44,Mindtree
+Ayaan Gupta,2100EC968,ECE,6.54,55,57,33,46,36,1,5,0,Not Placed,0.0,Not Placed
+Tanya Khanna,2100CE969,CE,9.32,81,86,66,68,92,1,4,1,Placed,41.44,Goldman Sachs
+Mayank Bhatia,2200IT970,IT,6.91,62,43,77,70,45,1,3,3,Placed,10.75,Capgemini
+Shaurya Pandey,2200CE971,CE,6.64,69,50,24,53,43,4,4,3,Not Placed,0.0,Not Placed
+Priya Agarwal,2200CE972,CE,8.93,55,47,54,85,43,1,8,1,Placed,9.39,Mphasis
+Himanshu Khanna,2400IT973,IT,8.75,38,68,30,69,51,1,6,2,Placed,3.59,Cyient
+Ritvik Kumar,2300IT974,IT,6.12,63,82,36,58,44,4,3,2,Placed,3.34,NIIT
+Sachin Sethi,2400CE975,CE,7.02,56,59,53,73,44,3,4,2,Placed,4.01,Sapient
+Myra Saxena,2100IT976,IT,8.8,73,54,48,87,44,2,7,2,Placed,8.65,Cognizant
+Advik Malhotra,2400IT977,IT,7.32,61,36,42,32,50,1,3,3,Not Placed,0.0,Not Placed
+Sakshi Bajaj,2300IT978,IT,4.96,21,100,21,48,61,1,8,1,Not Placed,0.0,Not Placed
+Ankit Chopra,2300EE979,EE,6.42,23,34,67,49,68,4,5,2,Not Placed,0.0,Not Placed
+Komal Chauhan,2100EE980,EE,7.37,81,54,1,67,24,0,2,2,Not Placed,0.0,Not Placed
+Neha Srivastava,2400EC981,ECE,7.62,45,49,66,61,38,4,5,2,Placed,9.06,Cognizant
+Myra Kapoor,2400IT982,IT,7.03,69,18,44,66,40,1,6,3,Placed,3.64,Syntel
+Meghna Goel,2400CS983,CSE,7.55,29,60,47,57,60,2,1,0,Placed,3.02,Cyient
+Atharv Dhawan,2100IT984,IT,5.71,38,45,16,51,33,0,8,2,Not Placed,0.0,Not Placed
+Myra Bhatt,2200IT985,IT,7.68,42,49,38,52,50,0,7,2,Not Placed,0.0,Not Placed
+Charu Kumar,2100CS986,CSE,6.76,62,57,32,58,24,3,3,0,Placed,3.64,Mu Sigma
+Saurabh Sethi,2400ME987,ME,6.2,46,47,16,44,30,0,5,1,Placed,4.47,Sasken
+Vivaan Khanna,2300CS988,CSE,8.16,73,68,47,48,67,3,6,4,Placed,8.12,Mindtree
+Megha Yadav,2300IT989,IT,6.79,67,52,61,69,57,2,6,2,Placed,9.72,Capgemini
+Aman Sethi,2300IT990,IT,7.65,86,63,50,51,48,2,8,3,Placed,11.08,Wipro
+Bhavna Thakur,2100CS991,CSE,7.48,56,23,54,43,42,2,5,1,Not Placed,0.0,Not Placed
+Divya Thakur,2100CS992,CSE,6.14,32,52,43,43,53,1,4,1,Not Placed,0.0,Not Placed
+Rajat Chauhan,2200CS993,CSE,7.17,50,80,20,57,62,2,3,0,Placed,4.03,Syntel
+Atharv Chopra,2200CE994,CE,4.94,55,21,15,36,54,0,5,1,Not Placed,0.0,Not Placed
+Meghna Gupta,2200CS995,CSE,9.66,100,65,61,92,53,3,6,1,Placed,8.27,Zoho
+Pooja Kumar,2300IT996,IT,8.62,89,52,74,78,89,2,5,2,Placed,11.5,Accenture
+Vivaan Dubey,2300CE997,CE,9.59,100,62,88,92,50,1,8,2,Placed,4.87,Capgemini
+Sonal Gupta,2100CE998,CE,6.61,43,40,31,54,37,1,6,0,Placed,3.16,Sapient
+Neeraj Rajput,2300CS999,CSE,7.48,74,33,33,45,91,1,6,2,Placed,4.69,iGate
+Mohit Nair,2300EE1000,EE,6.74,31,54,39,47,57,1,3,0,Placed,9.49,L&T Infotech
+Suraj Mehta,2400IT1001,IT,8.88,81,90,53,63,51,1,6,0,Placed,3.48,Genpact
+Meghna Bhatia,2400IT1002,IT,6.89,74,45,61,56,42,3,5,4,Placed,3.57,Syntel
+Ravi Jain,2400ME1003,ME,8.2,40,63,21,62,45,3,5,3,Placed,10.99,Wipro
+Vihaan Thakur,2300EC1004,ECE,7.58,41,39,12,41,21,3,7,0,Placed,3.45,Genpact
+Atharv Chauhan,2300CS1005,CSE,8.39,66,34,60,69,56,4,5,2,Placed,13.32,Qualcomm
+Yash Srivastava,2400EC1006,ECE,6.28,63,43,13,37,64,1,3,2,Not Placed,0.0,Not Placed
+Charu Agarwal,2400EC1007,ECE,7.49,67,43,33,40,57,2,6,1,Placed,4.1,Syntel
+Sneha Sethi,2200EE1008,EE,6.31,41,43,48,31,42,3,7,2,Placed,4.87,Amdocs
+Aryan Gupta,2200EC1009,ECE,6.66,43,25,35,66,79,2,5,1,Not Placed,0.0,Not Placed
+Krishna Thakur,2100CS1010,CSE,7.67,78,69,40,54,43,1,8,3,Placed,9.06,Byju's
+Aditya Chauhan,2300EC1011,ECE,6.21,23,49,31,53,70,2,4,0,Not Placed,0.0,Not Placed
+Suraj Reddy,2100CS1012,CSE,7.29,74,76,42,73,78,2,3,1,Placed,4.35,iGate
+Pranav Chatterjee,2400CS1013,CSE,8.3,73,40,53,64,73,3,5,1,Placed,44.33,Samsung R&D
+Advaith Das,2200CS1014,CSE,8.09,66,40,49,46,48,2,5,2,Placed,10.78,Zoho
+Rajat Thakur,2300IT1015,IT,8.78,95,50,40,74,58,3,4,2,Placed,8.14,Wipro
+Sonal Dhawan,2100IT1016,IT,8.5,95,53,39,52,44,3,8,2,Placed,6.35,HCL
+Anjali Jain,2100EC1017,ECE,8.18,41,46,80,47,50,0,4,3,Placed,4.81,Mu Sigma
+Suraj Thakur,2400CE1018,CE,6.14,82,40,21,62,38,1,2,0,Placed,4.59,Concentrix
+Atharv Joshi,2100EC1019,ECE,6.58,72,55,19,26,69,1,1,4,Not Placed,0.0,Not Placed
+Sai Joshi,2200ME1020,ME,6.57,54,21,23,60,46,1,7,0,Not Placed,0.0,Not Placed
+Aman Mukherjee,2400EE1021,EE,4.07,21,24,1,47,44,1,4,0,Not Placed,0.0,Not Placed
+Saanvi Rajput,2400CS1022,CSE,7.44,70,52,0,57,68,2,4,4,Placed,4.94,Genpact
+Sonam Nair,2300IT1023,IT,6.2,33,23,38,37,44,0,4,2,Not Placed,0.0,Not Placed
+Gaurav Jain,2300IT1024,IT,6.58,48,55,61,36,30,4,7,2,Not Placed,0.0,Not Placed
+Sonam Srivastava,2100IT1025,IT,7.02,52,8,9,54,72,0,7,0,Placed,9.47,Cognizant
+Shruti Tiwari,2100EE1026,EE,8.21,66,36,19,63,60,4,8,1,Placed,8.01,Hexaware
+Ankit Rajput,2100CE1027,CE,6.62,51,40,40,54,60,2,5,1,Placed,4.73,Cyient
+Mohit Dubey,2300EC1028,ECE,6.15,32,26,0,44,63,0,2,3,Not Placed,0.0,Not Placed
+Divya Patel,2200IT1029,IT,7.14,50,77,46,66,54,1,7,0,Placed,4.51,Amdocs
+Shruti Bhatt,2400ME1030,ME,7.21,35,34,49,59,74,1,8,1,Placed,4.63,Sasken
+Shivani Rastogi,2400IT1031,IT,10.0,75,66,56,100,54,2,7,5,Placed,7.54,Zoho
+Ankur Khanna,2400IT1032,IT,8.85,67,56,52,60,68,4,8,3,Placed,34.72,Amazon
+Aishwarya Khanna,2400CS1033,CSE,7.39,32,27,79,55,38,2,1,3,Placed,3.63,iGate
+Kriti Bhatia,2400EC1034,ECE,7.31,77,42,59,59,68,1,4,1,Placed,8.61,Hexaware
+Yash Agarwal,2200ME1035,ME,7.5,64,69,25,51,95,3,8,0,Placed,4.86,Tech Mahindra
+Reyansh Dubey,2400CS1036,CSE,8.92,100,90,70,51,49,1,8,5,Placed,7.0,Zoho
+Aishwarya Bajaj,2100CE1037,CE,7.54,67,48,61,41,93,2,6,2,Placed,11.4,Wipro
+Aditi Sharma,2100ME1038,ME,7.67,48,52,63,54,89,3,2,1,Placed,3.91,Concentrix
+Radhika Mukherjee,2100IT1039,IT,8.52,73,91,52,43,33,3,5,3,Placed,19.35,Microsoft
+Pooja Arora,2100CE1040,CE,6.63,64,15,43,31,68,3,1,0,Placed,3.41,Sasken
+Sachin Nair,2400ME1041,ME,5.54,47,17,30,38,34,2,2,0,Not Placed,0.0,Not Placed
+Nupur Dhawan,2100EC1042,ECE,10.0,63,74,65,91,63,2,7,2,Placed,12.64,Amazon
+Jyoti Sharma,2200CS1043,CSE,7.39,56,58,58,51,39,4,7,1,Placed,11.34,Paytm
+Priya Gupta,2200CS1044,CSE,10.0,84,66,67,99,29,1,4,1,Placed,4.55,L&T Infotech
+Kartik Gupta,2300CS1045,CSE,7.75,87,51,61,36,26,2,8,3,Placed,11.79,HCL
+Shaurya Mishra,2300EC1046,ECE,7.57,39,77,61,73,42,4,8,0,Placed,5.52,Zoho
+Meghna Reddy,2400EC1047,ECE,6.96,42,9,49,44,60,2,4,1,Not Placed,0.0,Not Placed
+Suraj Sharma,2100IT1048,IT,7.69,63,54,37,43,43,2,1,2,Placed,10.57,Byju's
+Manish Bansal,2300CS1049,CSE,6.14,56,56,28,46,48,3,5,0,Placed,3.82,Sapient
+Pooja Dhawan,2200EC1050,ECE,8.39,72,38,56,76,39,4,5,2,Placed,9.94,Tech Mahindra
+Kriti Sharma,2300CS1051,CSE,8.27,60,32,46,76,66,3,3,0,Placed,5.45,Wipro
+Bhavna Patel,2100EC1052,ECE,6.88,45,19,28,54,49,0,5,3,Not Placed,0.0,Not Placed
+Sakshi Agarwal,2300EC1053,ECE,5.93,37,38,69,56,35,1,7,2,Not Placed,0.0,Not Placed
+Khushi Chatterjee,2400IT1054,IT,8.02,62,43,25,37,18,1,6,0,Placed,11.92,L&T Infotech
+Sonam Saxena,2300EC1055,ECE,7.48,75,59,36,47,38,1,8,1,Placed,9.47,Zoho
+Vidhi Iyer,2100EC1056,ECE,8.84,84,32,58,76,93,3,8,1,Placed,4.97,Tech Mahindra
+Dhruv Kumar,2400CE1057,CE,8.93,40,69,31,52,20,2,5,0,Placed,4.11,Genpact
+Rohan Das,2300EC1058,ECE,8.12,49,63,54,66,41,1,4,1,Placed,10.75,Mindtree
+Dev Mehta,2200CS1059,CSE,7.89,75,72,76,60,54,2,8,1,Placed,11.98,Cognizant
+Nikhil Kapoor,2100CS1060,CSE,9.23,85,66,36,53,63,3,7,1,Placed,22.25,Oracle
+Vishal Malhotra,2300CS1061,CSE,7.74,55,57,50,82,17,4,5,2,Placed,5.5,HCL
+Riya Tiwari,2400EC1062,ECE,8.75,79,73,75,70,82,2,4,0,Placed,11.74,Hexaware
+Aryan Saxena,2300EC1063,ECE,6.63,16,43,33,23,58,3,3,4,Not Placed,0.0,Not Placed
+Advaith Tiwari,2200ME1064,ME,7.54,53,34,35,47,64,3,5,1,Not Placed,0.0,Not Placed
+Sara Patel,2100CS1065,CSE,7.4,61,52,32,55,70,0,3,1,Placed,4.73,NIIT
+Shivani Sharma,2100EC1066,ECE,7.25,44,57,57,68,50,0,8,1,Placed,4.7,Syntel
+Shivani Malhotra,2400IT1067,IT,6.48,44,59,18,43,54,2,4,1,Not Placed,0.0,Not Placed
+Ritika Pandey,2300EE1068,EE,6.39,79,73,4,28,56,2,1,3,Not Placed,0.0,Not Placed
+Pooja Chopra,2200EC1069,ECE,7.47,84,60,52,63,50,3,7,1,Placed,12.52,Google
+Aparna Bhatt,2100IT1070,IT,7.68,84,36,50,58,55,2,6,0,Placed,3.99,Cyient
+Swati Pandey,2400CS1071,CSE,8.13,64,64,69,78,66,1,1,2,Placed,7.06,Infosys
+Nidhi Sharma,2100CS1072,CSE,6.22,62,41,1,66,65,2,3,1,Placed,4.32,Genpact
+Nikita Patel,2300CS1073,CSE,8.18,64,42,30,73,56,1,5,1,Placed,11.87,Accenture
+Riya Khanna,2300CE1074,CE,8.6,56,62,53,58,21,4,6,2,Placed,3.35,Genpact
+Aparna Bajaj,2300ME1075,ME,7.83,60,4,55,60,51,3,7,0,Placed,4.7,Accenture
+Prateek Mukherjee,2200CS1076,CSE,8.79,45,55,27,60,47,0,4,2,Placed,7.44,Capgemini
+Divya Reddy,2300EC1077,ECE,7.15,68,15,35,70,10,4,3,2,Placed,3.04,Syntel
+Ankit Jain,2200IT1078,IT,9.9,100,100,64,99,44,1,6,3,Placed,19.26,Microsoft
+Neha Khanna,2400CS1079,CSE,6.97,49,32,43,44,33,2,2,2,Not Placed,0.0,Not Placed
+Priya Yadav,2200CS1080,CSE,7.81,38,80,61,45,32,2,8,3,Placed,4.06,Syntel
+Atharv Das,2400CS1081,CSE,7.7,68,51,64,43,54,1,7,1,Placed,8.98,Wipro
+Ritika Goel,2300ME1082,ME,6.09,39,23,29,56,58,4,5,1,Placed,3.36,Cyient
+Nikhil Patel,2200EE1083,EE,7.65,62,65,37,57,53,2,6,2,Placed,4.64,Mu Sigma
+Dhruv Joshi,2100CS1084,CSE,6.84,85,57,43,43,78,1,4,0,Placed,6.61,Tech Mahindra
+Shruti Arora,2300ME1085,ME,8.31,79,67,46,40,58,3,5,4,Placed,10.93,Mindtree
+Meghna Verma,2400EC1086,ECE,7.5,67,69,63,32,44,3,8,1,Placed,8.92,Infosys
+Vidhi Dhawan,2200EC1087,ECE,5.74,44,32,29,50,77,2,4,3,Not Placed,0.0,Not Placed
+Aman Bansal,2300ME1088,ME,7.19,48,55,58,82,43,3,6,2,Placed,3.97,Sapient
+Sonam Chatterjee,2100ME1089,ME,9.06,62,53,95,93,59,3,8,1,Placed,5.72,Capgemini
+Sonal Yadav,2200CS1090,CSE,6.76,68,66,39,28,56,2,7,2,Placed,5.99,Mphasis
+Pallavi Bajaj,2400CS1091,CSE,6.99,54,67,20,19,42,3,7,1,Placed,10.42,Paytm
+Sai Chauhan,2300IT1092,IT,8.19,65,89,73,80,67,2,4,1,Placed,17.66,Adobe
+Nidhi Bansal,2300IT1093,IT,7.77,66,71,45,55,60,0,4,3,Placed,5.16,L&T Infotech
+Kavya Chatterjee,2300IT1094,IT,5.61,27,25,16,44,26,3,5,0,Not Placed,0.0,Not Placed
+Pallavi Chauhan,2200IT1095,IT,8.01,91,75,53,81,87,2,5,1,Placed,8.52,Paytm
+Krishna Saxena,2300IT1096,IT,5.55,44,18,46,8,40,2,6,0,Not Placed,0.0,Not Placed
+Pranav Chauhan,2400CS1097,CSE,6.46,42,55,63,25,42,0,3,1,Not Placed,0.0,Not Placed
+Reyansh Kumar,2400EC1098,ECE,4.73,66,15,18,38,48,3,4,1,Not Placed,0.0,Not Placed
+Arjun Reddy,2100ME1099,ME,8.72,61,73,33,65,22,1,7,2,Placed,4.57,NIIT
+Shivani Yadav,2100CS1100,CSE,8.99,84,93,72,59,79,1,4,4,Placed,42.8,Uber
+Pooja Saxena,2300EE1101,EE,8.19,35,64,68,31,70,2,8,0,Placed,3.32,Syntel
+Krishna Rajput,2200ME1102,ME,6.1,50,30,42,41,73,2,3,3,Not Placed,0.0,Not Placed
+Vivaan Bhatia,2300EE1103,EE,5.88,50,20,60,29,43,4,6,2,Not Placed,0.0,Not Placed
+Sonal Bhatt,2300IT1104,IT,7.05,74,37,1,32,64,0,2,1,Not Placed,0.0,Not Placed
+Myra Bhatt,2200CS1105,CSE,7.98,53,56,72,64,55,3,5,5,Placed,6.35,L&T Infotech
+Aditi Chopra,2400CE1106,CE,6.98,63,22,33,57,30,1,1,0,Not Placed,0.0,Not Placed
+Meghna Joshi,2200CS1107,CSE,9.24,42,65,60,72,29,2,4,1,Placed,11.17,Zoho
+Varun Goel,2300EC1108,ECE,8.05,100,39,54,80,80,2,3,1,Placed,11.97,Capgemini
+Sara Goel,2100IT1109,IT,8.01,73,76,21,54,61,2,6,3,Placed,11.53,TCS
+Amit Bansal,2400EC1110,ECE,7.39,60,55,52,56,49,0,8,1,Placed,4.36,Cyient
+Dev Rawat,2400IT1111,IT,8.08,88,84,47,62,32,4,8,3,Placed,37.8,Goldman Sachs
+Aman Mukherjee,2300CS1112,CSE,6.92,31,51,62,44,64,2,4,2,Placed,9.4,L&T Infotech
+Aarav Khanna,2300ME1113,ME,8.32,68,31,49,69,80,2,3,0,Placed,7.92,HCL
+Aishwarya Mukherjee,2400CE1114,CE,7.0,60,24,63,37,15,2,3,2,Placed,4.77,Genpact
+Neeraj Nair,2400ME1115,ME,8.78,91,62,48,53,92,2,7,3,Placed,25.51,Adobe
+Isha Mukherjee,2200CS1116,CSE,7.5,71,56,49,54,24,0,8,1,Placed,4.5,Mindtree
+Tanvi Bhatt,2300EC1117,ECE,8.19,69,46,58,47,39,4,2,2,Placed,4.38,Amdocs
+Vihaan Pandey,2200CS1118,CSE,7.84,73,37,21,48,59,1,3,0,Placed,3.12,iGate
+Tushar Iyer,2400IT1119,IT,9.68,100,71,52,75,47,1,8,3,Placed,8.73,Cognizant
+Priya Malhotra,2100IT1120,IT,4.74,35,54,1,37,48,0,4,0,Not Placed,0.0,Not Placed
+Aditya Bhatt,2100ME1121,ME,5.72,42,46,25,48,63,4,5,0,Placed,4.1,Concentrix
+Ritvik Rastogi,2200CE1122,CE,6.94,46,37,33,68,18,2,5,1,Not Placed,0.0,Not Placed
+Charu Sharma,2200IT1123,IT,7.26,73,39,40,45,57,0,5,1,Placed,10.28,Infosys
+Aarav Rawat,2200CE1124,CE,7.55,62,54,44,55,63,0,0,2,Placed,7.19,Accenture
+Simran Rawat,2300CE1125,CE,6.88,48,60,61,44,31,1,3,5,Placed,6.94,Tech Mahindra
+Kunal Mishra,2200CE1126,CE,6.97,63,46,59,57,54,2,5,0,Not Placed,0.0,Not Placed
+Kabir Reddy,2100EC1127,ECE,5.02,12,30,42,33,52,1,5,2,Not Placed,0.0,Not Placed
+Riya Tiwari,2300IT1128,IT,6.57,59,60,17,50,65,3,7,1,Placed,9.39,Paytm
+Aanya Agarwal,2200CS1129,CSE,6.74,62,33,20,45,27,0,4,1,Not Placed,0.0,Not Placed
+Sonam Chatterjee,2200EC1130,ECE,8.6,79,42,58,78,72,4,8,2,Placed,21.73,Google
+Deepak Patel,2200CS1131,CSE,6.18,39,52,45,46,37,3,5,4,Placed,4.45,Syntel
+Vidhi Goel,2300CE1132,CE,5.82,20,14,24,69,45,1,3,2,Not Placed,0.0,Not Placed
+Tushar Gupta,2100IT1133,IT,7.67,79,26,58,35,69,3,6,1,Placed,6.11,Cognizant
+Aditi Goel,2200CS1134,CSE,7.3,57,58,43,71,58,0,3,2,Placed,4.43,Sapient
+Yash Dubey,2100EE1135,EE,6.39,34,56,48,55,62,3,3,0,Placed,3.8,Genpact
+Nidhi Sharma,2200ME1136,ME,7.64,44,37,38,44,66,2,4,2,Not Placed,0.0,Not Placed
+Nikita Agarwal,2400ME1137,ME,7.48,47,36,35,73,61,2,2,2,Not Placed,0.0,Not Placed
+Aarav Gupta,2400EC1138,ECE,6.42,30,36,20,46,44,2,4,2,Not Placed,0.0,Not Placed
+Rahul Mishra,2200EC1139,ECE,4.88,39,27,13,43,73,0,3,0,Not Placed,0.0,Not Placed
+Prateek Mishra,2300EC1140,ECE,4.92,37,20,29,34,22,0,3,1,Not Placed,0.0,Not Placed
+Aditya Bhatia,2200EC1141,ECE,7.29,74,56,69,72,72,1,5,2,Placed,3.06,Cyient
+Krishna Rawat,2200IT1142,IT,6.91,86,88,29,61,34,1,6,3,Placed,9.37,Accenture
+Jyoti Tiwari,2100ME1143,ME,6.24,60,51,14,36,34,1,5,2,Not Placed,0.0,Not Placed
+Meghna Jain,2300CE1144,CE,8.12,57,40,22,73,53,3,7,2,Not Placed,0.0,Not Placed
+Prateek Chatterjee,2300IT1145,IT,8.94,94,54,66,75,59,4,8,3,Placed,17.35,Oracle
+Priya Chopra,2200CS1146,CSE,7.73,56,56,36,46,61,1,3,2,Placed,4.87,Cyient
+Nidhi Iyer,2300CS1147,CSE,10.0,100,89,68,72,96,1,7,2,Placed,15.11,Qualcomm
+Vihaan Rajput,2200CS1148,CSE,6.84,57,29,47,16,49,3,7,3,Placed,3.65,Syntel
+Shruti Bhatt,2300EE1149,EE,7.11,39,43,32,58,48,1,3,2,Not Placed,0.0,Not Placed
+Aanya Thakur,2400CS1150,CSE,9.15,85,78,46,82,98,2,6,3,Placed,42.38,Amazon
+Rajat Arora,2200IT1151,IT,7.69,54,40,38,48,37,4,3,1,Placed,5.55,Accenture
+Yash Bhatt,2400CS1152,CSE,7.75,74,70,79,68,25,2,3,4,Placed,8.33,HCL
+Sonam Khanna,2200EE1153,EE,8.19,60,62,49,78,41,3,6,2,Placed,7.79,L&T Infotech
+Nidhi Das,2300CS1154,CSE,7.84,88,59,44,65,37,1,4,5,Placed,4.54,NIIT
+Suraj Kumar,2100CS1155,CSE,7.41,75,64,34,65,23,2,6,2,Not Placed,0.0,Not Placed
+Atharv Gupta,2200EC1156,ECE,6.8,34,74,51,88,40,1,5,1,Placed,3.99,NIIT
+Priya Patel,2100ME1157,ME,7.17,49,33,25,56,42,2,8,0,Placed,4.9,Sasken
+Trisha Rawat,2300CS1158,CSE,8.96,63,55,68,75,67,2,2,0,Placed,11.13,TCS
+Pooja Dhawan,2100CS1159,CSE,9.23,100,55,60,83,74,2,3,3,Placed,6.59,TCS
+Vikas Rawat,2100IT1160,IT,8.98,67,89,63,70,55,2,8,3,Placed,8.24,Tech Mahindra
+Rahul Khanna,2400CS1161,CSE,6.97,60,29,18,56,65,1,3,1,Placed,3.85,Sapient
+Rajat Rastogi,2100IT1162,IT,6.47,43,65,39,29,73,4,8,0,Placed,3.46,NIIT
+Aadhya Dubey,2100IT1163,IT,9.98,84,91,55,83,62,2,8,2,Placed,44.79,Microsoft
+Akash Nair,2200ME1164,ME,9.64,60,62,43,77,21,3,4,0,Placed,8.56,HCL
+Ankit Pandey,2400CS1165,CSE,6.13,61,40,35,26,49,2,2,1,Not Placed,0.0,Not Placed
+Aman Chopra,2300IT1166,IT,4.88,7,47,28,22,66,0,6,0,Not Placed,0.0,Not Placed
+Khushi Mukherjee,2100EE1167,EE,4.86,30,30,0,35,36,1,0,2,Not Placed,0.0,Not Placed
+Atharv Khanna,2400ME1168,ME,7.11,35,56,33,48,26,2,6,0,Placed,4.03,Cyient
+Trisha Chauhan,2400CS1169,CSE,7.91,91,58,5,63,49,4,5,1,Placed,3.95,Sapient
+Aishwarya Malhotra,2300CS1170,CSE,6.5,76,53,16,67,47,2,8,1,Placed,4.99,Amdocs
+Charu Malhotra,2200IT1171,IT,5.65,74,52,15,24,50,1,5,1,Not Placed,0.0,Not Placed
+Mohit Khanna,2300CE1172,CE,5.84,15,49,40,34,69,3,4,0,Not Placed,0.0,Not Placed
+Jyoti Chatterjee,2400CE1173,CE,7.94,48,51,37,46,51,0,3,0,Placed,4.37,Mu Sigma
+Ritvik Dhawan,2100CE1174,CE,8.23,58,33,37,74,25,1,5,1,Placed,6.26,Mindtree
+Harsh Sharma,2300EE1175,EE,8.08,52,87,47,41,49,2,7,1,Placed,4.19,Genpact
+Rohan Verma,2300IT1176,IT,8.09,95,52,32,51,29,2,7,4,Placed,9.52,Byju's
+Reyansh Gupta,2400ME1177,ME,7.93,58,57,43,47,52,3,7,1,Placed,6.79,Accenture
+Krishna Mehta,2300ME1178,ME,6.61,60,23,38,47,48,1,5,2,Not Placed,0.0,Not Placed
+Advaith Mehta,2300CS1179,CSE,8.66,63,61,42,44,62,2,8,2,Placed,9.0,Infosys
+Kriti Dubey,2100IT1180,IT,7.06,79,31,55,43,27,3,6,1,Placed,8.81,Hexaware
+Aparna Pandey,2400ME1181,ME,10.0,74,50,48,67,98,2,3,2,Placed,20.37,Qualcomm
+Abhishek Goel,2100CS1182,CSE,7.2,54,53,42,25,78,1,4,0,Placed,4.57,Sasken
+Isha Singh,2300ME1183,ME,9.08,68,85,54,39,100,1,5,2,Placed,4.81,Accenture
+Pallavi Agarwal,2200EC1184,ECE,5.11,35,9,42,26,60,4,6,1,Not Placed,0.0,Not Placed
+Tushar Nair,2100IT1185,IT,8.78,71,40,19,48,67,2,5,1,Placed,3.15,iGate
+Rohan Bhatt,2200IT1186,IT,8.57,78,52,40,52,70,1,7,2,Placed,7.66,Accenture
+Ishaan Singh,2400CS1187,CSE,7.17,52,58,43,41,49,1,5,1,Placed,3.32,Syntel
+Advaith Mukherjee,2300IT1188,IT,6.56,55,37,35,41,51,2,5,2,Not Placed,0.0,Not Placed
+Sara Jain,2300EC1189,ECE,7.26,65,31,48,48,55,0,3,0,Placed,3.92,NIIT
+Kriti Singh,2400CS1190,CSE,9.34,79,70,85,67,62,2,7,0,Placed,20.22,Goldman Sachs
+Nikhil Thakur,2400IT1191,IT,8.27,62,49,56,61,26,3,5,2,Placed,11.74,Zoho
+Himanshu Jain,2400CS1192,CSE,6.83,63,61,14,68,57,2,5,1,Not Placed,0.0,Not Placed
+Prateek Reddy,2200CS1193,CSE,8.09,92,69,64,33,54,1,8,2,Placed,5.11,Mindtree
+Aryan Kumar,2300IT1194,IT,8.42,81,78,78,53,85,1,7,4,Placed,8.59,Zoho
+Nidhi Chopra,2100EC1195,ECE,7.43,59,59,53,49,85,1,8,2,Placed,6.0,Infosys
+Komal Arora,2300IT1196,IT,6.88,51,60,34,38,69,4,7,2,Placed,7.39,HCL
+Meghna Dhawan,2100CE1197,CE,7.2,59,66,28,55,16,1,6,1,Placed,8.1,Zoho
+Navya Bhatia,2400CS1198,CSE,9.38,77,46,57,59,33,1,4,2,Placed,5.72,L&T Infotech
+Varun Gupta,2200EC1199,ECE,6.85,19,45,47,72,86,3,3,1,Placed,3.19,Genpact
+Sara Mishra,2100EC1200,ECE,6.65,69,40,73,22,39,2,3,2,Placed,4.58,Mu Sigma
+Rajat Yadav,2300CE1201,CE,5.76,32,39,9,50,27,2,6,1,Not Placed,0.0,Not Placed
+Kunal Agarwal,2300ME1202,ME,9.49,64,73,55,78,40,3,3,2,Placed,8.51,Tech Mahindra
+Diya Kapoor,2200CE1203,CE,5.31,44,43,34,19,65,1,4,0,Not Placed,0.0,Not Placed
+Pranav Bhatt,2300CS1204,CSE,6.26,63,46,55,66,51,2,8,0,Placed,4.8,Cyient
+Shivani Yadav,2100ME1205,ME,6.97,48,42,45,57,48,1,6,2,Placed,4.87,Amdocs
+Dhruv Chauhan,2100ME1206,ME,8.23,72,27,56,64,49,3,5,0,Placed,13.55,Goldman Sachs
+Dev Bajaj,2300IT1207,IT,6.34,60,39,14,41,42,2,4,1,Not Placed,0.0,Not Placed
+Deepak Sharma,2100CS1208,CSE,8.94,94,39,76,33,67,3,7,4,Placed,19.62,Uber
+Trisha Arora,2100CS1209,CSE,7.28,77,48,38,60,52,0,1,0,Placed,4.54,Mu Sigma
+Megha Nair,2200CS1210,CSE,7.6,70,38,58,59,65,4,6,1,Placed,6.12,Capgemini
+Rohan Rawat,2100IT1211,IT,5.47,61,33,9,46,44,3,2,0,Not Placed,0.0,Not Placed
+Advik Thakur,2400IT1212,IT,6.09,57,35,51,26,65,2,3,0,Placed,3.59,Cyient
+Vivaan Saxena,2300IT1213,IT,8.87,96,60,92,57,49,3,6,1,Placed,26.55,Flipkart
+Swati Chauhan,2100EC1214,ECE,6.95,59,44,32,47,38,3,3,2,Placed,10.42,Accenture
+Meghna Goel,2200CS1215,CSE,7.79,68,89,47,80,56,2,8,3,Placed,4.75,Mindtree
+Ananya Mehta,2400IT1216,IT,6.59,54,40,51,46,36,1,1,2,Not Placed,0.0,Not Placed
+Manish Rastogi,2200IT1217,IT,6.71,54,26,45,25,67,2,2,0,Not Placed,0.0,Not Placed
+Kunal Reddy,2200CS1218,CSE,7.99,52,36,53,57,56,0,5,1,Not Placed,0.0,Not Placed
+Sachin Nair,2200CE1219,CE,8.82,67,48,90,68,46,2,8,4,Placed,8.95,Capgemini
+Ankit Yadav,2400CS1220,CSE,7.89,58,66,35,72,62,1,8,1,Placed,7.37,Cognizant
+Jyoti Bhatt,2200ME1221,ME,7.15,47,46,9,47,5,3,4,1,Not Placed,0.0,Not Placed
+Vikas Jain,2200IT1222,IT,7.44,49,64,41,35,68,1,4,4,Not Placed,0.0,Not Placed
+Harsh Rajput,2200ME1223,ME,6.7,33,54,32,50,25,1,6,0,Not Placed,0.0,Not Placed
+Sonam Yadav,2200EC1224,ECE,8.58,79,90,47,93,66,3,7,1,Placed,35.38,Flipkart
+Manish Bhatt,2100IT1225,IT,9.48,97,76,68,70,81,2,5,4,Placed,27.69,Amazon
+Sara Verma,2300IT1226,IT,6.48,50,16,40,27,68,1,3,3,Not Placed,0.0,Not Placed
+Pallavi Goel,2400ME1227,ME,6.12,55,42,15,31,52,0,2,0,Not Placed,0.0,Not Placed
+Sara Tiwari,2100CS1228,CSE,10.0,100,51,52,100,56,1,7,3,Placed,24.26,Amazon
+Arjun Bajaj,2300EE1229,EE,6.98,52,28,32,46,70,0,1,3,Not Placed,0.0,Not Placed
+Abhishek Srivastava,2200CS1230,CSE,6.29,56,72,5,29,50,0,3,3,Not Placed,0.0,Not Placed
+Amit Mishra,2400EC1231,ECE,7.21,55,38,82,50,57,2,4,1,Placed,8.28,Wipro
+Nupur Arora,2200EC1232,ECE,7.71,33,35,62,35,39,3,4,0,Placed,3.71,Amdocs
+Aparna Jain,2200EE1233,EE,7.19,42,28,0,49,77,0,5,0,Placed,3.75,Genpact
+Vivaan Das,2100IT1234,IT,7.52,54,0,58,30,62,2,8,1,Placed,4.45,iGate
+Pooja Tiwari,2200EE1235,EE,6.74,54,45,42,49,37,1,2,3,Not Placed,0.0,Not Placed
+Atharv Chatterjee,2400CS1236,CSE,8.63,79,82,55,71,35,2,5,5,Placed,9.7,Hexaware
+Sonal Saxena,2400CE1237,CE,5.35,35,42,19,36,42,0,4,1,Not Placed,0.0,Not Placed
+Sonam Gupta,2400EE1238,EE,7.31,23,75,32,58,21,1,5,1,Not Placed,0.0,Not Placed
+Swati Bajaj,2100EE1239,EE,8.55,43,32,55,64,62,2,7,1,Placed,8.24,Mindtree
+Varun Iyer,2100CE1240,CE,8.33,68,46,48,67,56,1,2,2,Placed,4.51,Genpact
+Garima Gupta,2400CS1241,CSE,7.68,67,22,23,42,53,3,4,3,Placed,5.58,Mindtree
+Advik Bansal,2400IT1242,IT,7.23,69,79,65,43,39,4,6,4,Placed,25.24,Uber
+Sonam Bansal,2400CS1243,CSE,6.51,67,59,24,56,26,0,8,1,Not Placed,0.0,Not Placed
+Gaurav Bansal,2100EC1244,ECE,6.29,62,55,39,52,29,1,1,3,Not Placed,0.0,Not Placed
+Deepak Chatterjee,2100EC1245,ECE,7.78,57,44,68,40,29,0,2,0,Placed,9.35,Hexaware
+Atharv Sethi,2200ME1246,ME,7.06,20,62,28,55,51,1,5,2,Placed,3.27,Amdocs
+Nidhi Chatterjee,2100IT1247,IT,9.17,76,46,50,63,70,2,8,0,Placed,4.2,Concentrix
+Nikita Tiwari,2400EC1248,ECE,6.07,27,69,45,43,38,1,3,1,Not Placed,0.0,Not Placed
+Dhruv Malhotra,2200IT1249,IT,7.36,50,71,87,59,45,2,1,2,Not Placed,0.0,Not Placed
+Sai Agarwal,2400IT1250,IT,8.01,90,47,32,51,63,2,6,3,Placed,9.79,Mphasis
+Isha Rajput,2400CE1251,CE,7.38,34,53,34,45,51,0,3,1,Not Placed,0.0,Not Placed
+Mohit Khanna,2400CS1252,CSE,7.36,53,3,33,63,68,2,6,1,Not Placed,0.0,Not Placed
+Aman Chauhan,2300EC1253,ECE,6.06,45,51,38,60,12,1,8,3,Placed,4.18,Sasken
+Shaurya Yadav,2200CS1254,CSE,7.98,81,54,66,64,23,2,8,2,Placed,13.92,Google
+Simran Goel,2400ME1255,ME,7.45,40,72,70,41,50,3,8,1,Placed,3.08,iGate
+Ayaan Jain,2200CS1256,CSE,8.96,56,59,56,28,36,3,4,1,Placed,4.94,Mu Sigma
+Aanya Iyer,2400CS1257,CSE,5.81,56,60,46,55,68,1,3,2,Not Placed,0.0,Not Placed
+Tanya Sharma,2400IT1258,IT,9.2,75,95,59,61,64,2,6,0,Placed,5.19,HCL
+Saurabh Joshi,2400ME1259,ME,7.01,6,66,66,41,30,3,4,3,Not Placed,0.0,Not Placed
+Jyoti Mishra,2100EE1260,EE,7.82,33,70,30,52,76,1,5,2,Placed,3.79,Genpact
+Shivani Khanna,2200CE1261,CE,6.31,24,50,6,64,51,1,7,0,Not Placed,0.0,Not Placed
+Atharv Yadav,2100CS1262,CSE,7.88,66,64,74,50,47,4,8,1,Placed,6.62,Mphasis
+Saanvi Yadav,2100IT1263,IT,4.91,59,25,48,48,31,0,2,2,Not Placed,0.0,Not Placed
+Sakshi Mishra,2100CE1264,CE,7.52,43,61,45,49,38,0,7,2,Placed,4.21,NIIT
+Riya Chauhan,2300CS1265,CSE,6.35,66,62,40,55,60,1,2,1,Placed,5.31,L&T Infotech
+Deepak Sethi,2300CS1266,CSE,9.57,81,73,81,38,49,1,6,2,Placed,9.32,Byju's
+Sai Goel,2300EC1267,ECE,5.32,36,29,0,20,42,2,5,0,Not Placed,0.0,Not Placed
+Anjali Kumar,2400CS1268,CSE,6.8,71,49,20,38,0,2,4,0,Placed,4.96,Cyient
+Ritvik Joshi,2200IT1269,IT,7.19,51,45,23,34,83,1,2,2,Not Placed,0.0,Not Placed
+Dev Rastogi,2300CS1270,CSE,8.23,57,100,64,71,70,0,6,1,Placed,11.21,Mindtree
+Mansi Dubey,2200CS1271,CSE,6.22,26,34,27,34,47,0,2,2,Not Placed,0.0,Not Placed
+Reyansh Chopra,2100IT1272,IT,5.44,49,61,4,41,25,3,3,2,Not Placed,0.0,Not Placed
+Charu Dhawan,2300CS1273,CSE,7.61,71,70,28,48,59,2,5,1,Placed,11.23,Capgemini
+Shruti Rajput,2300CS1274,CSE,8.54,80,94,38,83,37,2,2,1,Placed,18.8,Amazon
+Mansi Rawat,2400CE1275,CE,6.63,11,41,14,64,71,0,4,1,Not Placed,0.0,Not Placed
+Rajat Srivastava,2300IT1276,IT,8.52,78,76,54,45,39,4,8,2,Placed,6.58,HCL
+Ayaan Verma,2400IT1277,IT,8.66,84,67,45,49,87,2,7,2,Placed,8.14,Mphasis
+Mayank Dubey,2400EC1278,ECE,6.63,67,67,0,57,45,3,1,1,Not Placed,0.0,Not Placed
+Saanvi Kapoor,2300CS1279,CSE,6.95,64,76,48,49,59,1,7,2,Placed,6.85,Mindtree
+Aarav Tiwari,2300CS1280,CSE,7.77,67,62,19,53,67,3,2,2,Placed,4.65,iGate
+Harsh Goel,2300ME1281,ME,7.62,33,49,25,60,60,4,8,1,Placed,3.75,Mu Sigma
+Kartik Kapoor,2300IT1282,IT,7.66,66,47,21,59,34,2,4,1,Placed,10.02,Capgemini
+Atharv Tiwari,2300CE1283,CE,7.49,53,36,49,75,42,1,7,1,Placed,4.86,Sapient
+Aparna Gupta,2200CS1284,CSE,6.65,77,48,49,38,64,2,8,1,Placed,3.84,Syntel
+Tushar Iyer,2300CE1285,CE,8.3,59,40,48,63,68,1,5,1,Placed,4.97,Tech Mahindra
+Garima Singh,2300IT1286,IT,7.18,64,88,48,52,22,4,4,0,Placed,7.29,L&T Infotech
+Aishwarya Bhatt,2100CE1287,CE,5.11,45,37,9,35,67,0,1,1,Not Placed,0.0,Not Placed
+Ankit Kapoor,2300CS1288,CSE,8.48,57,90,32,94,85,2,3,0,Placed,5.03,Infosys
+Kabir Verma,2300IT1289,IT,6.54,86,40,41,48,54,4,8,1,Placed,9.71,Capgemini
+Ankit Dhawan,2400EE1290,EE,6.87,47,34,41,45,52,1,8,2,Placed,3.27,Concentrix
+Himanshu Goel,2300CS1291,CSE,5.0,50,12,40,40,40,1,1,0,Not Placed,0.0,Not Placed
+Kabir Das,2100IT1292,IT,6.58,41,26,56,17,73,1,2,2,Placed,3.45,Syntel
+Rahul Chatterjee,2300CS1293,CSE,6.99,93,53,67,60,48,2,5,3,Placed,6.15,HCL
+Riya Agarwal,2300CS1294,CSE,6.96,52,52,44,20,61,2,5,1,Not Placed,0.0,Not Placed
+Aman Tiwari,2100ME1295,ME,6.6,66,34,20,55,77,2,4,1,Placed,4.68,Syntel
+Vishal Thakur,2200IT1296,IT,8.81,86,70,59,65,54,3,8,2,Placed,26.75,Adobe
+Aparna Rajput,2300IT1297,IT,8.21,54,36,46,30,72,1,4,2,Placed,10.63,Zoho
+Sara Patel,2200EC1298,ECE,8.21,39,49,36,68,70,0,1,3,Placed,3.45,Genpact
+Deepak Nair,2100EC1299,ECE,7.26,73,37,38,64,61,1,4,0,Placed,7.07,TCS
+Saanvi Dhawan,2100CS1300,CSE,4.57,26,24,33,27,53,1,4,0,Not Placed,0.0,Not Placed
+Sonal Gupta,2100CS1301,CSE,8.31,90,80,84,78,40,3,5,0,Placed,21.1,Oracle
+Diya Chopra,2300EE1302,EE,8.2,43,57,31,36,68,2,4,2,Not Placed,0.0,Not Placed
+Rohan Tiwari,2200CS1303,CSE,8.1,33,70,46,57,77,4,7,0,Placed,5.97,Cognizant
+Tanya Malhotra,2400CE1304,CE,8.75,97,85,29,44,34,2,7,1,Placed,5.9,Mphasis
+Kabir Yadav,2200CS1305,CSE,5.18,64,32,32,57,24,1,3,4,Not Placed,0.0,Not Placed
+Anika Sharma,2100CS1306,CSE,7.71,35,69,81,19,30,2,8,1,Not Placed,0.0,Not Placed
+Akash Bhatia,2300CS1307,CSE,7.22,57,79,33,63,35,3,6,0,Placed,3.54,iGate
+Neeraj Bansal,2200CS1308,CSE,7.83,82,60,70,79,67,4,7,2,Placed,14.9,Amazon
+Harsh Bajaj,2300IT1309,IT,9.1,85,47,50,67,56,2,4,4,Placed,6.21,Mindtree
+Ananya Jain,2100EC1310,ECE,7.29,65,35,49,60,24,1,6,3,Placed,4.88,Syntel
+Reyansh Nair,2100IT1311,IT,7.12,51,82,58,51,51,2,3,2,Placed,4.47,NIIT
+Swati Pandey,2400EC1312,ECE,8.62,91,70,57,56,53,2,6,4,Placed,4.86,Sasken
+Simran Kapoor,2200ME1313,ME,8.79,65,59,45,84,36,4,4,4,Placed,25.68,Oracle
+Himanshu Iyer,2200EC1314,ECE,7.61,61,69,35,78,46,1,3,3,Placed,10.03,Infosys
+Pari Iyer,2300ME1315,ME,7.37,13,42,36,62,50,4,4,0,Placed,4.25,Syntel
+Pooja Srivastava,2200ME1316,ME,7.25,44,32,41,77,50,0,5,1,Placed,3.05,Sasken
+Divya Reddy,2200CS1317,CSE,8.33,62,53,75,77,58,2,7,3,Placed,4.78,Sapient
+Sonal Rawat,2100EC1318,ECE,7.93,46,60,54,62,33,3,6,0,Placed,10.37,Infosys
+Anika Bhatia,2400IT1319,IT,7.53,67,40,56,36,74,4,6,0,Placed,5.27,Tech Mahindra
+Ritvik Bhatia,2200CS1320,CSE,5.58,40,49,18,13,31,1,6,1,Not Placed,0.0,Not Placed
+Nikhil Patel,2300EC1321,ECE,6.94,41,31,43,68,82,2,8,2,Placed,3.93,Cyient
+Harsh Bhatt,2400ME1322,ME,9.03,70,64,52,59,51,2,8,4,Placed,33.67,Uber
+Neha Bajaj,2200IT1323,IT,5.01,47,43,6,39,65,2,5,1,Placed,3.63,Cyient
+Vishal Nair,2100EC1324,ECE,6.72,34,60,61,49,33,0,2,1,Placed,4.99,Sapient
+Dev Sethi,2400IT1325,IT,7.99,68,36,47,50,29,3,2,1,Placed,6.38,Zoho
+Kriti Kapoor,2200ME1326,ME,7.31,25,74,18,45,75,1,4,1,Not Placed,0.0,Not Placed
+Yash Kumar,2400IT1327,IT,7.15,51,23,20,60,72,2,5,3,Not Placed,0.0,Not Placed
+Saurabh Dhawan,2400EC1328,ECE,6.81,65,50,20,72,70,2,4,0,Placed,6.29,Accenture
+Varun Pandey,2300EC1329,ECE,8.7,41,60,69,63,90,0,1,2,Placed,4.49,Amdocs
+Abhishek Patel,2400CS1330,CSE,6.99,36,68,14,34,20,3,8,3,Not Placed,0.0,Not Placed
+Ritika Singh,2100EC1331,ECE,6.05,35,20,26,31,60,0,1,0,Not Placed,0.0,Not Placed
+Krishna Sethi,2100ME1332,ME,8.14,70,73,44,52,41,1,4,0,Placed,6.07,Zoho
+Yash Yadav,2400CS1333,CSE,9.65,86,95,55,97,39,2,7,5,Placed,40.99,Oracle
+Anjali Bajaj,2400CS1334,CSE,7.38,63,42,49,59,69,0,3,3,Placed,6.39,HCL
+Kartik Malhotra,2300CS1335,CSE,7.43,60,65,27,53,55,3,7,1,Placed,10.97,L&T Infotech
+Komal Bhatia,2100IT1336,IT,6.3,68,67,37,41,36,2,3,2,Placed,4.34,Sasken
+Rajat Thakur,2400ME1337,ME,5.44,54,25,29,48,42,0,2,1,Not Placed,0.0,Not Placed
+Ritvik Singh,2300IT1338,IT,9.56,80,84,22,57,34,3,8,1,Placed,43.92,Oracle
+Aarav Khanna,2300CE1339,CE,5.55,36,2,19,42,54,2,3,0,Not Placed,0.0,Not Placed
+Ritvik Verma,2200CE1340,CE,6.25,41,23,19,48,62,1,8,2,Not Placed,0.0,Not Placed
+Khushi Sethi,2400ME1341,ME,6.07,38,10,62,59,50,2,7,1,Placed,3.24,Sapient
+Swati Nair,2400IT1342,IT,9.69,53,78,59,83,64,3,4,4,Placed,22.08,Oracle
+Yash Pandey,2400CS1343,CSE,6.25,54,75,62,11,51,2,8,1,Not Placed,0.0,Not Placed
+Advik Khanna,2400EC1344,ECE,7.82,54,67,46,44,25,4,6,1,Placed,4.58,Paytm
+Pallavi Yadav,2300EC1345,ECE,9.57,99,73,84,68,63,3,7,0,Placed,22.71,Amazon
+Aarav Kumar,2100CS1346,CSE,7.37,53,38,19,51,62,1,1,1,Not Placed,0.0,Not Placed
+Sachin Rawat,2400ME1347,ME,5.91,37,34,0,55,29,1,3,1,Not Placed,0.0,Not Placed
+Sai Jain,2400CS1348,CSE,8.31,57,54,49,48,24,4,5,1,Placed,5.1,Paytm
+Khushi Dhawan,2400EC1349,ECE,7.6,41,66,64,69,66,1,8,0,Placed,5.51,L&T Infotech
+Deepak Thakur,2400CS1350,CSE,5.99,66,45,58,59,28,1,4,3,Placed,3.08,Cyient
+Anjali Bhatia,2200IT1351,IT,6.56,59,75,33,27,52,2,4,3,Placed,4.5,Concentrix
+Radhika Sharma,2400EC1352,ECE,5.82,61,40,61,42,56,2,4,1,Placed,7.33,Paytm
+Neeraj Thakur,2300CE1353,CE,6.67,48,81,36,46,51,2,7,0,Placed,4.89,Amdocs
+Saanvi Gupta,2400IT1354,IT,8.38,70,100,64,61,30,4,5,3,Placed,7.28,Hexaware
+Anika Sethi,2400EE1355,EE,8.96,71,36,57,38,41,3,5,1,Placed,7.01,Hexaware
+Ishaan Rajput,2300CE1356,CE,7.87,77,57,55,62,53,3,4,1,Placed,9.39,Tech Mahindra
+Suraj Bajaj,2100CS1357,CSE,6.87,59,78,5,51,42,0,4,2,Placed,4.69,Genpact
+Aditi Kumar,2300EE1358,EE,7.58,35,25,36,65,62,0,1,2,Placed,4.06,Sasken
+Kunal Bhatt,2100EC1359,ECE,7.73,72,50,35,43,55,2,7,1,Placed,5.31,Tech Mahindra
+Bhavna Joshi,2300EC1360,ECE,6.77,64,19,21,24,42,3,4,1,Not Placed,0.0,Not Placed
+Meghna Bansal,2300EC1361,ECE,7.95,30,36,57,39,50,3,6,1,Placed,3.06,Concentrix
+Dev Dhawan,2300IT1362,IT,8.3,43,93,55,47,68,3,2,2,Placed,10.85,Hexaware
+Ananya Joshi,2200IT1363,IT,5.82,50,14,9,66,47,0,3,1,Not Placed,0.0,Not Placed
+Yash Bansal,2100EC1364,ECE,6.57,54,38,46,59,58,2,8,3,Placed,5.2,Cognizant
+Isha Jain,2100EC1365,ECE,7.61,39,66,74,62,48,3,4,2,Placed,5.05,Paytm
+Shruti Jain,2300CS1366,CSE,5.32,53,71,19,34,52,2,3,2,Not Placed,0.0,Not Placed
+Shruti Sharma,2100CS1367,CSE,8.72,67,38,54,55,57,1,3,1,Placed,11.51,L&T Infotech
+Saurabh Yadav,2400EC1368,ECE,8.51,49,37,48,72,32,0,2,4,Not Placed,0.0,Not Placed
+Riya Mehta,2200IT1369,IT,5.95,42,39,42,41,37,2,5,1,Not Placed,0.0,Not Placed
+Riya Rajput,2100CS1370,CSE,7.72,75,65,47,50,59,3,4,2,Placed,5.54,Accenture
+Ishaan Dhawan,2200CE1371,CE,4.96,30,13,0,56,59,0,1,0,Not Placed,0.0,Not Placed
+Preeti Das,2400IT1372,IT,6.65,44,43,40,56,68,1,5,1,Not Placed,0.0,Not Placed
+Yash Chatterjee,2200CE1373,CE,6.66,47,62,33,46,48,2,5,1,Placed,4.98,HCL
+Ananya Mehta,2100EC1374,ECE,4.0,29,25,40,9,33,2,4,3,Not Placed,0.0,Not Placed
+Shaurya Iyer,2400IT1375,IT,7.84,81,62,58,64,59,3,4,1,Placed,6.91,Tech Mahindra
+Aparna Bhatt,2200CS1376,CSE,9.37,81,73,64,91,47,2,5,4,Placed,7.95,Capgemini
+Aparna Mehta,2200CE1377,CE,6.7,52,54,22,52,73,0,1,0,Not Placed,0.0,Not Placed
+Aanya Bansal,2400ME1378,ME,8.29,83,90,42,63,58,3,7,1,Placed,15.59,Uber
+Mansi Gupta,2100EC1379,ECE,7.27,49,66,44,52,54,1,5,1,Not Placed,0.0,Not Placed
+Komal Bajaj,2300IT1380,IT,8.61,88,60,41,55,49,2,7,1,Placed,11.91,Accenture
+Kavya Patel,2300ME1381,ME,4.97,47,0,40,39,51,1,2,2,Not Placed,0.0,Not Placed
+Sonal Saxena,2200EE1382,EE,6.66,25,54,32,43,16,1,5,1,Not Placed,0.0,Not Placed
+Vidhi Pandey,2300ME1383,ME,5.78,30,34,32,45,45,0,3,1,Not Placed,0.0,Not Placed
+Kartik Sharma,2100EC1384,ECE,6.66,22,52,20,43,48,0,3,3,Not Placed,0.0,Not Placed
+Ankur Patel,2100CS1385,CSE,7.66,42,40,49,62,74,1,6,1,Placed,3.77,Syntel
+Pooja Bansal,2300CE1386,CE,7.84,49,56,36,68,30,2,5,2,Placed,4.49,Genpact
+Arjun Bajaj,2100CE1387,CE,4.95,19,0,17,43,59,2,2,3,Not Placed,0.0,Not Placed
+Abhishek Dubey,2100CS1388,CSE,6.46,77,72,64,55,47,0,4,1,Placed,6.3,Hexaware
+Sai Dhawan,2200IT1389,IT,6.49,62,22,18,62,69,0,2,1,Placed,4.64,Amdocs
+Ayaan Pandey,2300CS1390,CSE,7.56,51,84,56,64,43,4,5,2,Placed,6.08,Cognizant
+Trisha Kumar,2400ME1391,ME,5.64,43,52,29,21,29,2,4,0,Not Placed,0.0,Not Placed
+Sonam Mukherjee,2300EC1392,ECE,4.88,8,22,40,37,45,1,5,2,Not Placed,0.0,Not Placed
+Navya Kumar,2300CS1393,CSE,9.84,84,75,30,75,54,4,4,0,Placed,4.67,Zoho
+Mohit Nair,2300IT1394,IT,5.85,43,37,33,42,60,0,4,1,Not Placed,0.0,Not Placed
+Dhruv Mehta,2200CS1395,CSE,6.86,58,31,31,60,63,0,4,0,Not Placed,0.0,Not Placed
+Aadhya Rawat,2200EE1396,EE,8.27,69,41,37,60,51,4,6,1,Placed,5.16,L&T Infotech
+Riya Rawat,2100EC1397,ECE,7.29,58,13,73,76,45,2,2,1,Placed,4.58,Wipro
+Sneha Bajaj,2100CS1398,CSE,7.45,64,29,46,37,52,1,3,1,Placed,5.69,Byju's
+Nupur Mehta,2100CS1399,CSE,8.95,82,39,25,59,54,4,4,1,Placed,11.95,TCS
+Vihaan Chopra,2300EE1400,EE,7.73,39,28,44,41,50,1,4,1,Not Placed,0.0,Not Placed
+Diya Rawat,2200ME1401,ME,7.43,48,9,57,38,42,1,3,2,Placed,4.3,Mu Sigma
+Yash Nair,2300IT1402,IT,6.66,38,34,34,48,54,0,4,2,Not Placed,0.0,Not Placed
+Dev Kapoor,2400CS1403,CSE,5.81,67,25,25,53,57,3,3,0,Not Placed,0.0,Not Placed
+Ravi Rawat,2400EC1404,ECE,5.17,51,24,53,37,80,1,4,3,Not Placed,0.0,Not Placed
+Swati Kumar,2200CE1405,CE,6.65,46,61,30,44,52,2,2,2,Placed,9.31,TCS
+Khushi Joshi,2100IT1406,IT,7.92,65,62,51,37,55,3,3,4,Not Placed,0.0,Not Placed
+Sakshi Goel,2400CS1407,CSE,8.89,52,58,42,55,34,2,8,1,Placed,3.49,Mu Sigma
+Rahul Bhatt,2300CS1408,CSE,7.07,70,56,43,76,17,2,4,1,Placed,3.59,NIIT
+Preeti Bansal,2200CS1409,CSE,5.43,53,12,23,52,36,1,5,0,Not Placed,0.0,Not Placed
+Manish Gupta,2400IT1410,IT,7.61,80,14,23,72,59,3,8,1,Placed,5.15,Mphasis
+Harsh Nair,2100CS1411,CSE,7.35,39,73,16,31,47,1,7,0,Placed,3.93,Sapient
+Isha Chatterjee,2200EC1412,ECE,6.49,47,33,25,38,74,1,6,1,Placed,3.31,Concentrix
+Advik Verma,2200CS1413,CSE,5.81,78,49,26,35,36,0,5,1,Not Placed,0.0,Not Placed
+Anjali Kumar,2300IT1414,IT,7.57,37,76,52,41,63,1,3,2,Placed,4.13,Syntel
+Diya Gupta,2300ME1415,ME,6.36,0,31,10,33,45,0,3,2,Not Placed,0.0,Not Placed
+Kunal Gupta,2400CS1416,CSE,7.78,50,74,15,91,51,0,2,4,Placed,3.77,NIIT
+Vikas Rajput,2400ME1417,ME,7.53,50,90,49,47,66,3,5,2,Placed,4.29,Cyient
+Mayank Sethi,2200IT1418,IT,8.0,82,77,37,40,52,1,5,3,Placed,4.74,Byju's
+Vivaan Yadav,2400EC1419,ECE,9.1,61,74,54,72,51,3,8,2,Placed,15.52,Google
+Shivani Gupta,2200CS1420,CSE,8.1,81,80,44,62,41,4,8,4,Placed,9.17,Hexaware
+Aarav Pandey,2100CE1421,CE,7.17,51,71,25,28,36,1,5,1,Placed,4.08,iGate
+Deepak Bajaj,2200IT1422,IT,9.57,69,53,63,92,58,2,3,2,Placed,5.84,Paytm
+Reyansh Agarwal,2400CE1423,CE,5.39,44,48,16,45,29,2,3,0,Placed,3.25,Sasken
+Vihaan Tiwari,2400IT1424,IT,8.48,65,32,2,50,79,1,2,0,Placed,3.58,Sapient
+Nidhi Agarwal,2200EC1425,ECE,5.89,32,46,2,54,89,2,1,1,Not Placed,0.0,Not Placed
+Sneha Gupta,2200CS1426,CSE,7.68,51,33,40,36,64,1,6,0,Not Placed,0.0,Not Placed
+Aadhya Agarwal,2300EC1427,ECE,5.83,34,27,28,33,52,0,7,2,Not Placed,0.0,Not Placed
+Himanshu Das,2200CE1428,CE,8.75,52,80,69,47,67,1,4,4,Placed,10.1,Hexaware
+Aishwarya Chauhan,2400CS1429,CSE,7.9,48,78,14,44,50,2,5,2,Placed,4.01,Genpact
+Krishna Patel,2400EC1430,ECE,7.41,74,26,54,60,68,1,6,1,Placed,7.81,Zoho
+Arjun Rawat,2100IT1431,IT,8.98,58,50,48,60,65,3,8,2,Placed,3.8,Mu Sigma
+Atharv Mishra,2300ME1432,ME,6.91,55,41,39,71,42,2,5,1,Not Placed,0.0,Not Placed
+Khushi Joshi,2200IT1433,IT,8.7,100,68,47,89,48,2,5,3,Placed,10.49,HCL
+Tushar Rastogi,2400ME1434,ME,7.19,75,56,35,77,27,0,5,0,Placed,8.91,Capgemini
+Atharv Bajaj,2100IT1435,IT,6.17,76,83,21,39,51,3,6,0,Placed,9.9,L&T Infotech
+Neeraj Rawat,2100ME1436,ME,7.81,61,64,12,59,53,1,5,0,Placed,4.21,iGate
+Pallavi Sharma,2200CE1437,CE,6.26,31,39,42,51,56,0,3,1,Not Placed,0.0,Not Placed
+Ayaan Rajput,2100EE1438,EE,5.88,30,72,33,70,44,1,3,2,Placed,3.42,Sasken
+Preeti Bhatt,2200CS1439,CSE,10.0,78,93,78,62,43,4,8,3,Placed,26.08,Samsung R&D
+Kabir Singh,2200EE1440,EE,6.94,45,23,26,43,51,1,5,0,Placed,3.91,NIIT
+Kartik Joshi,2400CS1441,CSE,6.78,37,46,36,13,58,2,4,1,Not Placed,0.0,Not Placed
+Shaurya Gupta,2100CS1442,CSE,9.49,79,67,67,87,60,2,4,4,Placed,11.62,Mphasis
+Tanvi Dubey,2400EC1443,ECE,6.98,49,20,51,56,53,3,5,1,Placed,5.61,Cognizant
+Shivani Iyer,2100CS1444,CSE,6.82,52,66,48,46,59,3,3,5,Placed,11.06,Infosys
+Akash Pandey,2200EC1445,ECE,5.79,36,59,68,44,41,1,2,2,Placed,3.92,Mu Sigma
+Bhavna Agarwal,2100EE1446,EE,7.5,63,19,51,43,47,2,6,1,Placed,3.38,Genpact
+Nikita Sethi,2300CS1447,CSE,6.64,57,67,38,32,69,0,5,1,Placed,6.71,Capgemini
+Mayank Malhotra,2200ME1448,ME,8.41,73,45,30,63,35,2,1,0,Placed,11.18,Zoho
+Rohan Srivastava,2100EE1449,EE,7.05,42,43,55,33,42,0,2,1,Not Placed,0.0,Not Placed
+Mayank Das,2200EC1450,ECE,6.72,51,80,18,48,58,1,4,0,Placed,3.16,Amdocs
+Vihaan Joshi,2400CE1451,CE,8.9,45,75,53,59,70,0,3,1,Placed,9.76,TCS
+Sara Dubey,2400CE1452,CE,6.82,42,42,5,48,76,1,0,1,Not Placed,0.0,Not Placed
+Mohit Arora,2200EC1453,ECE,8.32,81,81,37,48,61,3,7,2,Placed,9.11,Tech Mahindra
+Tushar Bhatia,2300CS1454,CSE,5.81,37,42,0,50,9,0,4,1,Not Placed,0.0,Not Placed
+Kunal Jain,2100IT1455,IT,7.48,58,56,75,55,43,4,8,2,Placed,5.93,Hexaware
+Kabir Jain,2100IT1456,IT,7.93,79,71,40,61,41,3,8,2,Placed,11.7,Paytm
+Sonal Das,2200CS1457,CSE,7.63,53,54,54,59,65,0,4,5,Not Placed,0.0,Not Placed
+Pooja Bansal,2200IT1458,IT,8.89,64,79,52,54,37,2,4,2,Placed,11.84,Zoho
+Ankit Khanna,2200EC1459,ECE,7.32,25,49,43,52,40,2,4,1,Not Placed,0.0,Not Placed
+Ankur Rajput,2400CE1460,CE,7.39,30,66,42,51,40,1,1,1,Placed,3.23,Genpact
+Sonal Rastogi,2100EC1461,ECE,7.97,44,23,17,36,74,1,3,1,Placed,3.56,Amdocs
+Aryan Malhotra,2400CS1462,CSE,8.62,100,44,77,53,61,2,2,1,Placed,4.68,L&T Infotech
+Saurabh Yadav,2100ME1463,ME,7.73,77,49,51,66,67,2,3,0,Placed,4.57,Amdocs
+Vivaan Joshi,2100CE1464,CE,5.52,64,43,37,12,59,1,4,1,Placed,3.97,Amdocs
+Aparna Patel,2400IT1465,IT,7.24,80,53,63,58,17,4,8,4,Placed,9.77,Tech Mahindra
+Sai Khanna,2100IT1466,IT,6.38,27,43,45,31,23,1,3,1,Not Placed,0.0,Not Placed
+Sneha Jain,2300CE1467,CE,7.58,67,66,23,67,26,0,4,3,Not Placed,0.0,Not Placed
+Neha Mishra,2100CS1468,CSE,7.79,67,83,21,51,65,2,7,0,Placed,5.59,Tech Mahindra
+Navya Iyer,2100CS1469,CSE,6.8,49,30,36,63,77,2,6,1,Placed,8.55,Tech Mahindra
+Sonam Jain,2400IT1470,IT,9.57,100,47,26,62,74,4,8,1,Placed,40.05,Amazon
+Aditi Iyer,2100CS1471,CSE,8.49,69,60,52,38,52,3,3,3,Placed,5.34,Paytm
+Mohit Kapoor,2100ME1472,ME,7.72,63,32,28,63,52,3,6,0,Placed,8.46,Cognizant
+Preeti Rastogi,2200CS1473,CSE,7.53,71,27,72,79,53,4,8,3,Placed,11.26,Zoho
+Rajat Kapoor,2100EC1474,ECE,7.84,48,53,46,66,55,3,3,0,Placed,4.87,Mindtree
+Ananya Agarwal,2400CE1475,CE,5.84,46,48,31,40,23,0,3,2,Not Placed,0.0,Not Placed
+Sonal Bajaj,2100ME1476,ME,8.36,86,33,41,53,65,4,6,1,Placed,9.56,Accenture
+Riya Khanna,2100ME1477,ME,8.03,65,66,73,65,40,1,5,2,Placed,9.11,Mindtree
+Krishna Kapoor,2200EE1478,EE,7.17,35,43,33,66,57,2,8,3,Placed,10.81,Mindtree
+Vikas Joshi,2200CS1479,CSE,6.97,38,45,48,58,74,1,5,0,Not Placed,0.0,Not Placed
+Rohan Bhatia,2300CS1480,CSE,7.95,37,76,32,34,38,3,4,2,Placed,4.02,Cyient
+Kavya Singh,2100CS1481,CSE,9.82,84,61,52,73,55,2,3,0,Placed,6.95,Accenture
+Jyoti Rawat,2100CS1482,CSE,6.48,77,35,32,35,34,4,3,0,Not Placed,0.0,Not Placed
+Nupur Bhatt,2300IT1483,IT,7.88,81,96,33,74,37,2,8,3,Placed,9.37,Tech Mahindra
+Vidhi Kumar,2200ME1484,ME,8.08,52,30,40,41,40,1,4,1,Placed,3.55,Syntel
+Sai Reddy,2200EC1485,ECE,6.05,56,27,40,48,36,3,6,3,Not Placed,0.0,Not Placed
+Aadhya Patel,2200IT1486,IT,7.73,85,63,48,55,65,1,5,2,Placed,9.22,Cognizant
+Dev Yadav,2400CS1487,CSE,7.26,74,46,41,48,71,1,5,1,Placed,3.78,Concentrix
+Suraj Verma,2300CE1488,CE,6.28,49,69,53,42,31,1,3,2,Not Placed,0.0,Not Placed
+Vidhi Bhatt,2200CS1489,CSE,7.18,52,92,70,61,44,3,7,0,Placed,9.46,Tech Mahindra
+Pallavi Chatterjee,2100CS1490,CSE,7.4,73,88,33,51,79,2,4,5,Placed,4.02,iGate
+Vihaan Verma,2200IT1491,IT,7.31,80,29,47,44,65,1,5,0,Placed,8.84,Paytm
+Pallavi Sethi,2300ME1492,ME,6.35,44,34,35,38,35,2,3,2,Not Placed,0.0,Not Placed
+Ritika Sethi,2400IT1493,IT,7.9,84,48,45,59,56,1,7,3,Not Placed,0.0,Not Placed
+Simran Chopra,2200CE1494,CE,5.55,51,32,24,32,0,1,1,1,Not Placed,0.0,Not Placed
+Navya Mehta,2200CS1495,CSE,7.71,54,53,40,41,73,0,6,0,Not Placed,0.0,Not Placed
+Divya Bansal,2100EE1496,EE,7.78,54,58,39,72,52,4,5,1,Placed,4.68,Concentrix
+Tanvi Iyer,2200CS1497,CSE,6.45,62,59,12,45,44,0,8,3,Not Placed,0.0,Not Placed
+Neeraj Bhatt,2300IT1498,IT,6.07,41,66,62,29,45,2,3,0,Placed,4.23,Concentrix
+Neeraj Yadav,2200IT1499,IT,6.62,63,29,39,58,50,2,7,2,Placed,9.46,HCL
+Vivaan Malhotra,2200CE1500,CE,6.24,18,53,74,39,39,1,4,2,Not Placed,0.0,Not Placed
+Shruti Arora,2200CE1501,CE,9.21,100,69,56,62,73,4,8,4,Placed,27.27,Adobe
+Yash Malhotra,2300EE1502,EE,6.95,32,29,67,35,31,1,4,0,Not Placed,0.0,Not Placed
+Rahul Chatterjee,2200EE1503,EE,8.16,76,44,42,57,55,2,7,1,Placed,11.37,Mindtree
+Anika Verma,2400CE1504,CE,7.05,53,39,57,68,47,1,4,2,Placed,5.02,Byju's
+Sonam Yadav,2400EC1505,ECE,7.89,59,41,35,42,67,2,2,1,Placed,4.29,Sapient
+Aarav Bhatt,2300EE1506,EE,6.57,33,16,16,41,19,1,1,1,Not Placed,0.0,Not Placed
+Aparna Bansal,2200CE1507,CE,9.72,88,65,27,74,65,2,8,1,Placed,9.85,Zoho
+Sakshi Agarwal,2400CS1508,CSE,6.49,50,60,27,54,58,3,7,0,Not Placed,0.0,Not Placed
+Krishna Khanna,2100CS1509,CSE,6.37,46,58,41,52,50,2,8,0,Placed,10.93,Cognizant
+Nikhil Bajaj,2200CS1510,CSE,6.69,46,76,70,34,36,3,6,2,Placed,8.87,Tech Mahindra
+Isha Malhotra,2100EE1511,EE,7.65,66,66,32,63,48,3,4,1,Placed,11.99,L&T Infotech
+Saurabh Rajput,2200EC1512,ECE,6.42,41,71,57,37,63,4,7,0,Placed,10.13,Zoho
+Priya Verma,2100CS1513,CSE,7.52,61,41,47,65,30,0,6,0,Not Placed,0.0,Not Placed
+Vidhi Mishra,2400CE1514,CE,6.97,68,76,45,44,78,2,8,2,Placed,9.18,HCL
+Nidhi Dhawan,2100EC1515,ECE,6.71,40,12,5,50,60,0,0,0,Not Placed,0.0,Not Placed
+Swati Yadav,2400IT1516,IT,8.19,97,21,45,46,27,3,6,0,Placed,19.0,Flipkart
+Divya Sharma,2300EE1517,EE,6.22,55,45,47,36,22,3,6,3,Not Placed,0.0,Not Placed
+Meghna Goel,2400IT1518,IT,6.32,50,72,28,36,16,4,6,2,Not Placed,0.0,Not Placed
+Pranav Chatterjee,2400EE1519,EE,9.11,70,73,65,83,66,1,7,0,Placed,27.93,Samsung R&D
+Navya Mukherjee,2400CE1520,CE,6.43,62,44,23,51,65,1,3,4,Not Placed,0.0,Not Placed
+Saurabh Dhawan,2100CE1521,CE,7.43,55,23,80,57,65,1,7,0,Placed,3.59,Concentrix
+Harsh Joshi,2300EE1522,EE,9.09,88,46,41,55,54,1,3,1,Placed,4.4,NIIT
+Isha Sharma,2400CS1523,CSE,7.03,69,57,38,46,35,1,2,1,Not Placed,0.0,Not Placed
+Pallavi Pandey,2400EE1524,EE,4.0,29,47,5,0,26,3,3,0,Not Placed,0.0,Not Placed
+Advik Pandey,2400EC1525,ECE,6.87,35,60,44,40,37,4,6,1,Placed,4.05,iGate
+Saanvi Goel,2300ME1526,ME,6.48,23,15,39,65,41,2,2,0,Not Placed,0.0,Not Placed
+Aishwarya Iyer,2200CS1527,CSE,7.82,67,90,58,72,36,2,7,0,Placed,10.83,TCS
+Ishaan Mehta,2300CS1528,CSE,7.37,58,99,26,65,51,3,4,1,Placed,3.45,Syntel
+Vikas Bansal,2400IT1529,IT,6.69,64,33,11,32,88,0,3,1,Not Placed,0.0,Not Placed
+Prateek Saxena,2100CS1530,CSE,5.87,58,55,29,46,38,2,4,3,Not Placed,0.0,Not Placed
+Himanshu Rastogi,2400EE1531,EE,5.57,53,9,51,48,53,2,4,2,Not Placed,0.0,Not Placed
+Abhishek Arora,2400IT1532,IT,7.41,74,66,41,58,53,1,7,1,Placed,8.82,L&T Infotech
+Shruti Joshi,2100CS1533,CSE,8.02,60,32,47,80,27,2,3,0,Placed,4.6,Accenture
+Dhruv Chauhan,2100CS1534,CSE,6.1,68,31,29,16,62,2,7,2,Not Placed,0.0,Not Placed
+Rohan Iyer,2200CE1535,CE,6.02,44,56,56,25,37,1,4,3,Placed,4.81,Sapient
+Aditya Rastogi,2300CE1536,CE,6.31,52,31,36,59,76,2,3,2,Placed,4.54,Amdocs
+Ananya Bansal,2300ME1537,ME,9.4,100,54,47,87,66,0,2,2,Placed,10.65,Mindtree
+Ravi Tiwari,2200CS1538,CSE,8.75,85,76,66,29,56,3,8,0,Placed,6.25,Zoho
+Abhishek Chauhan,2300IT1539,IT,7.38,58,48,28,65,30,2,7,0,Placed,3.53,Sapient
+Kavya Arora,2100CS1540,CSE,6.91,44,67,38,52,52,3,6,3,Not Placed,0.0,Not Placed
+Sara Sharma,2200CE1541,CE,7.89,47,30,29,61,27,3,5,0,Placed,4.68,Cyient
+Divya Rawat,2400ME1542,ME,6.85,57,40,49,33,83,1,7,0,Not Placed,0.0,Not Placed
+Navya Patel,2200CS1543,CSE,8.15,100,84,42,44,52,1,8,2,Placed,10.76,Wipro
+Advik Khanna,2100IT1544,IT,5.34,62,21,19,56,84,1,6,1,Not Placed,0.0,Not Placed
+Sonal Kumar,2100IT1545,IT,5.04,54,27,12,35,36,3,3,3,Not Placed,0.0,Not Placed
+Arjun Joshi,2300EE1546,EE,7.11,56,67,42,57,43,3,6,4,Placed,4.79,Cognizant
+Myra Chatterjee,2300CS1547,CSE,8.62,73,78,46,82,57,3,5,3,Placed,33.73,Amazon
+Diya Agarwal,2200CS1548,CSE,5.38,41,35,30,50,81,1,5,1,Not Placed,0.0,Not Placed
+Dev Yadav,2200EE1549,EE,8.35,48,80,23,12,68,2,2,4,Placed,5.59,Cognizant
+Pranav Jain,2100IT1550,IT,7.94,86,70,54,51,65,4,8,1,Placed,4.96,Capgemini
+Vihaan Verma,2400IT1551,IT,7.81,42,43,30,39,46,3,4,2,Not Placed,0.0,Not Placed
+Saanvi Tiwari,2100EC1552,ECE,6.85,46,25,21,51,35,1,1,1,Placed,3.34,Mu Sigma
+Vishal Agarwal,2300CS1553,CSE,8.63,69,52,62,50,75,0,3,0,Not Placed,0.0,Not Placed
+Vihaan Goel,2100EC1554,ECE,8.61,83,66,55,21,63,2,4,5,Placed,9.19,Zoho
+Ayaan Dhawan,2200ME1555,ME,8.09,48,64,41,74,57,4,3,0,Placed,3.2,Sasken
+Atharv Bhatia,2100IT1556,IT,6.47,49,54,48,38,70,1,7,4,Placed,3.31,NIIT
+Mayank Rastogi,2300CE1557,CE,5.77,9,56,30,29,51,3,4,2,Not Placed,0.0,Not Placed
+Navya Thakur,2200CE1558,CE,5.98,48,23,23,24,29,2,8,0,Not Placed,0.0,Not Placed
+Reyansh Sethi,2100IT1559,IT,8.44,63,81,36,66,56,4,2,2,Placed,3.42,Cyient
+Neeraj Tiwari,2300ME1560,ME,7.75,64,42,48,58,51,4,8,0,Placed,4.59,Wipro
+Sachin Patel,2200EE1561,EE,7.6,74,48,27,56,41,1,4,0,Not Placed,0.0,Not Placed
+Divya Sethi,2200CS1562,CSE,7.82,97,58,65,65,42,2,4,0,Placed,3.02,Syntel
+Atharv Bhatia,2400CS1563,CSE,7.47,28,46,49,39,69,1,4,0,Placed,4.89,Amdocs
+Ravi Srivastava,2400ME1564,ME,5.84,22,69,33,33,44,1,8,2,Placed,3.49,NIIT
+Anika Iyer,2100IT1565,IT,6.07,52,53,40,64,48,1,5,0,Not Placed,0.0,Not Placed
+Prateek Arora,2300ME1566,ME,5.79,37,7,24,33,43,3,6,1,Not Placed,0.0,Not Placed
+Sai Malhotra,2400ME1567,ME,7.17,50,28,65,60,78,0,5,1,Placed,3.39,NIIT
+Tanvi Iyer,2300EE1568,EE,8.85,73,60,25,47,48,3,8,0,Placed,8.48,Mphasis
+Pooja Khanna,2400EC1569,ECE,9.19,70,55,31,64,49,3,8,3,Placed,7.63,Cognizant
+Priya Kumar,2400ME1570,ME,8.44,68,74,57,65,62,3,7,0,Placed,40.95,Flipkart
+Aarav Rawat,2100CE1571,CE,6.22,19,14,3,25,26,0,2,0,Not Placed,0.0,Not Placed
+Jyoti Rajput,2100CS1572,CSE,5.42,38,79,41,33,57,1,3,1,Not Placed,0.0,Not Placed
+Ishaan Reddy,2400CS1573,CSE,6.59,51,62,48,43,79,2,7,0,Placed,3.24,Sasken
+Mayank Chauhan,2100IT1574,IT,7.17,46,63,29,47,67,2,6,4,Not Placed,0.0,Not Placed
+Priya Kapoor,2200CS1575,CSE,8.2,63,84,63,44,61,2,5,1,Placed,10.72,L&T Infotech
+Anika Srivastava,2400CS1576,CSE,7.56,51,16,34,36,30,3,2,1,Not Placed,0.0,Not Placed
+Kavya Sethi,2300CS1577,CSE,7.17,75,44,50,42,62,2,5,5,Placed,4.53,Amdocs
+Aparna Dhawan,2400IT1578,IT,7.31,42,50,57,40,22,3,1,2,Placed,3.31,Syntel
+Sara Iyer,2100EC1579,ECE,7.76,70,62,55,40,40,1,6,2,Placed,11.92,Infosys
+Ritika Rawat,2200CS1580,CSE,7.82,95,42,39,60,48,4,6,2,Placed,8.84,Mphasis
+Arjun Patel,2100CS1581,CSE,8.3,66,66,60,53,62,4,8,2,Placed,6.55,Paytm
+Prateek Verma,2200EC1582,ECE,7.19,84,44,67,56,60,2,5,2,Placed,11.77,Capgemini
+Sara Goel,2100CS1583,CSE,7.84,71,60,46,45,53,1,5,0,Placed,10.52,Zoho
+Yash Rajput,2400IT1584,IT,7.92,75,62,48,62,41,0,2,3,Placed,3.96,Syntel
+Ritvik Rawat,2400CS1585,CSE,5.73,23,79,64,51,39,3,7,1,Not Placed,0.0,Not Placed
+Tanya Kapoor,2100CE1586,CE,6.73,63,42,27,43,44,1,2,1,Not Placed,0.0,Not Placed
+Gaurav Agarwal,2400EC1587,ECE,7.58,46,54,50,48,47,4,8,1,Placed,4.17,Syntel
+Anjali Chatterjee,2400EC1588,ECE,6.04,42,62,31,34,13,1,7,4,Not Placed,0.0,Not Placed
+Vivaan Pandey,2300EC1589,ECE,6.18,40,17,39,31,55,1,8,1,Not Placed,0.0,Not Placed
+Prateek Mukherjee,2200IT1590,IT,8.85,81,57,56,82,19,3,4,2,Placed,11.99,Cognizant
+Ritika Agarwal,2400CS1591,CSE,8.88,73,53,63,64,34,3,5,4,Placed,35.44,Oracle
+Aparna Khanna,2200CE1592,CE,7.15,70,31,66,33,64,2,2,1,Placed,4.33,Cyient
+Nikhil Mehta,2400CS1593,CSE,5.84,48,32,54,23,39,2,5,4,Not Placed,0.0,Not Placed
+Shivani Bhatia,2300IT1594,IT,8.79,53,78,60,87,44,4,7,3,Placed,4.89,Accenture
+Arjun Sethi,2100EC1595,ECE,6.14,25,48,34,20,9,3,5,0,Not Placed,0.0,Not Placed
+Rahul Bhatia,2100EC1596,ECE,5.59,30,11,19,40,29,0,4,2,Not Placed,0.0,Not Placed
+Anjali Patel,2400CS1597,CSE,6.69,68,58,39,55,47,1,7,1,Placed,7.03,Accenture
+Pallavi Bhatia,2100ME1598,ME,7.0,43,24,62,50,69,1,6,2,Not Placed,0.0,Not Placed
+Aryan Saxena,2300CS1599,CSE,9.05,100,47,30,46,73,4,7,0,Placed,6.46,L&T Infotech
+Dev Kumar,2300ME1600,ME,4.0,30,41,18,28,29,3,3,0,Not Placed,0.0,Not Placed
+Kunal Chauhan,2100EC1601,ECE,10.0,90,44,53,54,86,1,2,1,Placed,9.99,Mindtree
+Saanvi Iyer,2400EC1602,ECE,6.51,44,53,42,31,60,1,2,1,Placed,3.28,Sasken
+Kavya Verma,2400IT1603,IT,8.32,72,100,38,67,61,3,7,2,Placed,7.23,L&T Infotech
+Rohan Nair,2400CS1604,CSE,7.93,67,54,78,77,54,3,5,1,Placed,9.67,Accenture
+Prateek Patel,2200EC1605,ECE,7.96,82,36,65,52,50,2,5,2,Placed,4.69,Sapient
+Bhavna Kapoor,2200EC1606,ECE,8.34,64,59,57,40,51,4,6,2,Placed,5.75,L&T Infotech
+Divya Mukherjee,2200CS1607,CSE,8.47,97,73,47,48,40,2,4,5,Placed,6.3,Tech Mahindra
+Akash Dubey,2300EC1608,ECE,5.44,35,26,61,33,79,4,7,0,Not Placed,0.0,Not Placed
+Ananya Goel,2400CS1609,CSE,8.19,70,33,38,69,59,4,8,2,Placed,9.41,Zoho
+Rajat Mishra,2100CS1610,CSE,8.58,80,73,71,56,69,3,8,1,Placed,42.22,Qualcomm
+Kavya Kumar,2400CS1611,CSE,7.08,47,40,60,42,71,2,2,3,Placed,4.52,Amdocs
+Amit Kumar,2300CS1612,CSE,7.33,49,79,43,40,59,2,4,2,Placed,8.38,Mindtree
+Komal Bhatt,2300CS1613,CSE,6.68,59,78,27,47,62,3,4,0,Placed,4.33,Genpact
+Swati Mehta,2400IT1614,IT,6.95,62,45,49,52,44,2,2,2,Placed,10.45,Mphasis
+Arjun Rajput,2200EC1615,ECE,8.79,40,32,60,59,41,3,2,1,Placed,5.17,L&T Infotech
+Sneha Iyer,2300IT1616,IT,9.43,100,72,63,68,55,1,4,2,Placed,4.59,Byju's
+Kriti Singh,2200EE1617,EE,5.68,17,70,32,30,28,0,4,0,Not Placed,0.0,Not Placed
+Sonal Yadav,2200CS1618,CSE,7.46,42,97,27,45,75,1,6,1,Placed,4.94,Concentrix
+Komal Das,2300ME1619,ME,7.02,49,26,42,68,47,3,7,0,Placed,4.57,NIIT
+Ankur Rastogi,2300CE1620,CE,5.98,46,43,26,53,36,1,4,0,Placed,6.94,Mphasis
+Dhruv Dhawan,2200EC1621,ECE,5.82,48,85,50,58,44,0,5,1,Placed,3.91,Amdocs
+Ayaan Yadav,2200IT1622,IT,10.0,81,62,86,58,80,2,7,2,Placed,16.9,Google
+Harsh Iyer,2400IT1623,IT,6.94,59,66,49,57,38,3,5,4,Placed,3.13,Cyient
+Komal Gupta,2200EC1624,ECE,5.63,16,29,63,30,71,1,6,0,Not Placed,0.0,Not Placed
+Kabir Jain,2100IT1625,IT,5.47,47,30,29,25,0,0,5,0,Placed,3.47,iGate
+Trisha Khanna,2200EC1626,ECE,9.11,77,70,65,46,35,3,5,3,Placed,10.55,Mphasis
+Sachin Rawat,2100CE1627,CE,8.66,73,63,65,68,37,3,8,1,Placed,41.72,Google
+Rohan Dhawan,2300CE1628,CE,7.33,54,12,71,52,60,2,8,0,Placed,8.87,Paytm
+Ankur Arora,2100IT1629,IT,7.56,58,64,31,22,35,0,3,1,Not Placed,0.0,Not Placed
+Charu Jain,2200EC1630,ECE,8.49,69,44,67,62,55,0,3,2,Placed,9.88,Infosys
+Suraj Sethi,2300IT1631,IT,5.58,64,43,29,21,69,0,2,3,Not Placed,0.0,Not Placed
+Isha Saxena,2100EC1632,ECE,6.09,58,25,16,21,40,2,4,1,Not Placed,0.0,Not Placed
+Sakshi Sethi,2400ME1633,ME,7.99,67,32,38,47,34,2,5,2,Placed,5.5,Zoho
+Gaurav Dubey,2200IT1634,IT,8.76,52,38,48,46,77,2,6,0,Placed,3.19,NIIT
+Pranav Rastogi,2400ME1635,ME,8.89,61,91,41,59,74,1,8,3,Placed,10.0,Capgemini
+Nikita Singh,2400ME1636,ME,8.48,79,53,39,68,28,3,6,3,Placed,8.45,Mindtree
+Khushi Agarwal,2300IT1637,IT,8.97,80,36,28,72,58,2,3,2,Placed,8.44,Mindtree
+Aparna Saxena,2300CS1638,CSE,7.74,40,51,70,44,85,1,5,2,Not Placed,0.0,Not Placed
+Rahul Joshi,2300CS1639,CSE,8.8,88,68,90,53,30,3,7,3,Placed,42.04,Goldman Sachs
+Vikas Dhawan,2100CS1640,CSE,8.65,93,71,57,50,74,2,3,5,Placed,11.27,Paytm
+Dev Saxena,2300CS1641,CSE,8.99,79,30,69,77,48,2,8,1,Placed,7.24,Mindtree
+Simran Arora,2100CS1642,CSE,4.65,29,33,4,15,38,0,3,0,Not Placed,0.0,Not Placed
+Varun Nair,2100EC1643,ECE,6.52,64,34,35,51,14,1,5,0,Placed,4.68,Amdocs
+Simran Mishra,2200CS1644,CSE,7.6,79,53,26,46,45,3,5,0,Placed,8.53,Cognizant
+Shaurya Chatterjee,2300CE1645,CE,7.45,44,63,18,45,48,2,7,0,Placed,4.86,Amdocs
+Kabir Mishra,2400CS1646,CSE,5.92,45,39,27,52,48,1,5,2,Not Placed,0.0,Not Placed
+Garima Das,2300EE1647,EE,6.74,52,65,30,48,37,2,2,1,Placed,3.32,Amdocs
+Shaurya Mehta,2100IT1648,IT,9.32,100,60,32,74,49,2,4,3,Placed,12.21,Flipkart
+Radhika Khanna,2300CS1649,CSE,7.6,67,41,65,69,44,2,4,2,Placed,10.12,Tech Mahindra
+Himanshu Singh,2200IT1650,IT,6.42,76,50,46,26,24,0,5,1,Not Placed,0.0,Not Placed
+Megha Jain,2100ME1651,ME,7.55,42,41,27,42,19,3,6,1,Placed,3.73,Amdocs
+Tushar Goel,2300IT1652,IT,7.24,53,57,33,60,58,2,8,2,Placed,11.4,L&T Infotech
+Ayaan Chauhan,2200IT1653,IT,8.13,70,73,38,53,64,2,8,1,Placed,6.85,Mindtree
+Abhishek Das,2300CS1654,CSE,9.5,100,75,61,65,73,2,6,3,Placed,14.9,Samsung R&D
+Garima Jain,2300IT1655,IT,5.66,61,34,32,29,74,1,5,2,Not Placed,0.0,Not Placed
+Kartik Sethi,2300IT1656,IT,7.47,71,59,48,59,82,1,7,1,Placed,5.16,Zoho
+Priya Mishra,2400CE1657,CE,6.51,21,50,39,51,53,2,6,0,Not Placed,0.0,Not Placed
+Riya Reddy,2400CE1658,CE,5.29,16,15,0,50,8,0,6,0,Not Placed,0.0,Not Placed
+Arjun Verma,2200EE1659,EE,4.7,42,0,5,38,43,0,5,3,Not Placed,0.0,Not Placed
+Deepak Tiwari,2300CE1660,CE,6.2,68,44,63,45,42,2,8,1,Placed,4.15,Concentrix
+Nikhil Bajaj,2400CE1661,CE,6.41,63,0,24,34,43,2,4,1,Not Placed,0.0,Not Placed
+Sara Mishra,2300IT1662,IT,8.3,70,55,49,58,18,3,3,1,Placed,3.98,Concentrix
+Aarav Rajput,2400EE1663,EE,6.68,44,26,57,61,65,1,4,0,Placed,3.87,Syntel
+Anika Srivastava,2200EC1664,ECE,7.66,43,43,59,59,48,2,5,2,Placed,3.56,Genpact
+Tanvi Rawat,2400EE1665,EE,8.07,23,44,26,65,50,2,5,0,Not Placed,0.0,Not Placed
+Gaurav Dubey,2200ME1666,ME,7.14,24,47,5,69,24,3,5,3,Not Placed,0.0,Not Placed
+Charu Tiwari,2400ME1667,ME,9.14,55,66,24,69,86,1,5,0,Placed,8.56,Wipro
+Sara Verma,2300IT1668,IT,9.78,100,76,41,74,62,2,6,2,Placed,29.58,Goldman Sachs
+Rajat Chatterjee,2200CS1669,CSE,7.88,43,60,38,45,67,0,2,0,Placed,3.36,Sapient
+Isha Sharma,2400CE1670,CE,6.41,60,42,66,38,55,1,7,1,Placed,9.69,Wipro
+Khushi Reddy,2200ME1671,ME,6.47,60,18,41,43,67,2,7,2,Not Placed,0.0,Not Placed
+Nupur Mukherjee,2300IT1672,IT,6.86,58,55,22,59,64,3,7,1,Not Placed,0.0,Not Placed
+Reyansh Khanna,2100ME1673,ME,8.62,68,52,49,56,33,4,8,0,Placed,8.12,TCS
+Neha Joshi,2300CS1674,CSE,8.32,99,60,53,77,33,0,1,4,Placed,7.22,L&T Infotech
+Aarav Mehta,2400ME1675,ME,7.37,33,29,48,46,35,4,7,2,Not Placed,0.0,Not Placed
+Swati Arora,2200IT1676,IT,5.92,38,22,44,42,91,1,2,2,Not Placed,0.0,Not Placed
+Saurabh Pandey,2300CS1677,CSE,7.55,91,55,39,70,51,1,3,1,Placed,3.72,Concentrix
+Sakshi Iyer,2200CS1678,CSE,6.52,64,23,51,53,85,1,8,1,Placed,9.34,Infosys
+Nupur Rajput,2400EC1679,ECE,7.99,49,57,57,41,79,1,4,0,Placed,3.07,Concentrix
+Anika Malhotra,2100CS1680,CSE,8.78,81,78,62,60,37,1,7,0,Placed,6.88,Wipro
+Kavya Arora,2400EC1681,ECE,9.04,82,25,73,57,63,0,4,2,Placed,4.39,iGate
+Shivani Mehta,2300CE1682,CE,6.98,41,73,64,51,37,3,4,4,Placed,9.78,Capgemini
+Rohan Rawat,2200CS1683,CSE,8.39,74,59,55,79,73,3,5,3,Placed,6.99,Mindtree
+Ananya Tiwari,2200ME1684,ME,7.44,45,46,73,60,55,3,5,1,Placed,7.26,TCS
+Atharv Gupta,2400CE1685,CE,6.86,65,39,5,51,10,1,2,1,Not Placed,0.0,Not Placed
+Navya Iyer,2400ME1686,ME,5.71,35,63,16,30,36,1,5,1,Not Placed,0.0,Not Placed
+Prateek Gupta,2400CS1687,CSE,7.56,52,37,47,22,52,4,8,1,Placed,10.38,Accenture
+Sonal Rawat,2100EC1688,ECE,9.21,75,50,75,75,66,2,5,5,Placed,10.07,Paytm
+Ayaan Bhatia,2100CS1689,CSE,6.54,57,47,50,51,43,1,0,1,Not Placed,0.0,Not Placed
+Ritvik Pandey,2200CS1690,CSE,5.11,58,41,26,44,53,1,4,3,Not Placed,0.0,Not Placed
+Kriti Sethi,2200CS1691,CSE,7.89,78,70,59,47,36,2,7,2,Placed,7.53,L&T Infotech
+Suraj Chopra,2200CS1692,CSE,10.0,86,70,74,88,63,2,6,3,Placed,28.03,Uber
+Aryan Rawat,2100EC1693,ECE,8.77,74,63,57,73,64,2,7,1,Placed,9.65,Byju's
+Diya Bansal,2100IT1694,IT,9.77,100,78,57,69,41,2,6,1,Placed,18.52,Uber
+Nikita Patel,2300IT1695,IT,7.09,82,78,60,34,57,1,5,4,Placed,3.4,Concentrix
+Sai Iyer,2400CS1696,CSE,9.6,84,51,60,54,54,3,4,1,Placed,22.87,Samsung R&D
+Radhika Sharma,2300IT1697,IT,8.02,69,73,60,76,41,4,7,2,Placed,10.02,TCS
+Nidhi Chopra,2200CS1698,CSE,7.42,60,39,58,79,62,2,6,0,Placed,7.53,HCL
+Vikas Bansal,2300IT1699,IT,9.28,59,73,31,56,57,1,4,1,Not Placed,0.0,Not Placed
+Mayank Kumar,2400CE1700,CE,6.88,60,34,47,43,34,1,4,0,Not Placed,0.0,Not Placed
+Nikhil Mehta,2200CS1701,CSE,6.8,58,31,48,43,54,2,1,1,Placed,4.3,Genpact
+Isha Verma,2200EC1702,ECE,7.01,48,54,66,43,62,3,7,3,Placed,6.71,Wipro
+Sonam Reddy,2300CS1703,CSE,7.31,63,55,26,45,40,1,2,2,Placed,3.35,Concentrix
+Harsh Rawat,2400CS1704,CSE,7.07,31,71,59,22,37,3,7,1,Placed,4.81,iGate
+Amit Patel,2300CS1705,CSE,8.8,59,97,83,65,43,3,5,4,Placed,7.07,Mindtree
+Prateek Chatterjee,2400CS1706,CSE,6.86,55,61,50,27,39,0,5,0,Not Placed,0.0,Not Placed
+Kavya Chopra,2400CS1707,CSE,7.8,63,46,31,65,46,1,2,2,Placed,11.06,Infosys
+Divya Bajaj,2200CS1708,CSE,5.67,42,27,15,16,15,2,2,1,Not Placed,0.0,Not Placed
+Aditi Mukherjee,2100IT1709,IT,8.47,48,48,15,77,62,1,5,0,Placed,3.12,Mu Sigma
+Sonal Srivastava,2200EE1710,EE,7.17,66,70,38,56,34,2,5,3,Placed,5.06,Byju's
+Mansi Rajput,2100EC1711,ECE,7.68,74,70,64,59,52,2,8,1,Placed,9.41,Cognizant
+Komal Mishra,2400CS1712,CSE,8.78,59,57,47,69,69,2,4,1,Placed,33.64,Goldman Sachs
+Krishna Goel,2200CS1713,CSE,7.07,45,32,67,75,39,1,8,0,Placed,10.84,Mindtree
+Tanvi Chopra,2100ME1714,ME,8.32,60,76,24,45,63,2,4,1,Placed,4.61,Cyient
+Vivaan Thakur,2100EC1715,ECE,8.66,69,55,56,54,33,1,8,3,Placed,4.83,Cyient
+Pallavi Patel,2400CS1716,CSE,8.03,75,70,53,38,62,2,5,0,Placed,3.4,Sasken
+Meghna Mehta,2100CS1717,CSE,6.52,59,32,56,60,59,3,7,1,Placed,4.36,Cyient
+Ayaan Iyer,2200EE1718,EE,9.2,85,79,35,83,53,2,8,2,Placed,39.77,Amazon
+Saanvi Mishra,2400CS1719,CSE,8.16,62,63,52,75,65,2,4,0,Placed,8.67,Byju's
+Nidhi Sethi,2400CE1720,CE,7.97,52,57,65,53,55,2,4,2,Placed,4.51,Zoho
+Shivani Mehta,2300ME1721,ME,6.36,0,71,11,24,42,0,3,0,Not Placed,0.0,Not Placed
+Pranav Pandey,2100CS1722,CSE,7.12,59,46,29,64,39,3,5,3,Not Placed,0.0,Not Placed
+Vidhi Patel,2400CS1723,CSE,8.7,58,63,69,76,48,0,5,0,Placed,9.17,Mindtree
+Aarav Reddy,2100IT1724,IT,8.12,85,59,29,52,58,3,5,0,Placed,7.23,TCS
+Vikas Joshi,2400EE1725,EE,10.0,86,28,76,100,22,4,8,2,Placed,15.39,Uber
+Simran Bajaj,2300CS1726,CSE,7.16,52,55,38,67,34,0,3,2,Placed,3.78,Amdocs
+Isha Jain,2200CE1727,CE,6.75,88,77,30,41,100,3,2,1,Placed,4.82,Mu Sigma
+Ayaan Verma,2200CS1728,CSE,8.1,56,86,27,59,13,4,6,3,Placed,4.08,Mu Sigma
+Vishal Yadav,2200CS1729,CSE,6.55,59,63,42,74,51,0,7,0,Placed,7.56,Capgemini
+Sai Goel,2400ME1730,ME,8.59,71,70,36,66,29,2,6,3,Placed,6.77,Wipro
+Komal Verma,2100CS1731,CSE,7.65,75,35,29,49,46,0,2,5,Placed,11.6,Wipro
+Mayank Chatterjee,2400EC1732,ECE,6.98,45,12,56,52,63,2,0,1,Not Placed,0.0,Not Placed
+Diya Chatterjee,2200EE1733,EE,8.95,87,80,60,58,53,1,8,2,Placed,7.16,HCL
+Kriti Reddy,2100ME1734,ME,7.15,27,72,56,60,57,1,8,3,Not Placed,0.0,Not Placed
+Aanya Patel,2400ME1735,ME,4.82,17,34,16,4,58,1,2,1,Not Placed,0.0,Not Placed
+Ritika Sethi,2300IT1736,IT,7.62,67,74,55,62,59,4,8,1,Placed,3.34,Mu Sigma
+Swati Rawat,2400EC1737,ECE,6.38,33,1,47,35,28,0,6,1,Not Placed,0.0,Not Placed
+Neeraj Singh,2100ME1738,ME,8.53,59,53,59,95,36,1,5,3,Placed,7.18,Capgemini
+Aishwarya Kumar,2300EE1739,EE,5.93,37,34,0,58,45,0,5,0,Not Placed,0.0,Not Placed
+Aparna Agarwal,2400IT1740,IT,8.11,69,59,60,55,48,2,4,3,Placed,6.35,L&T Infotech
+Jyoti Mukherjee,2100EC1741,ECE,8.01,85,29,23,17,65,0,1,1,Placed,9.39,Wipro
+Charu Tiwari,2400CS1742,CSE,8.69,88,70,41,66,69,3,6,0,Placed,5.43,Accenture
+Pooja Thakur,2200IT1743,IT,7.38,76,48,42,53,63,1,4,0,Placed,9.11,L&T Infotech
+Radhika Iyer,2200CS1744,CSE,6.72,56,59,71,29,64,2,8,3,Not Placed,0.0,Not Placed
+Charu Nair,2400CS1745,CSE,9.31,87,76,39,56,70,3,8,1,Placed,32.48,Flipkart
+Navya Bajaj,2200CE1746,CE,6.21,25,51,5,47,62,0,3,2,Not Placed,0.0,Not Placed
+Khushi Mishra,2400IT1747,IT,6.92,69,74,23,39,43,1,8,0,Placed,4.31,Concentrix
+Advik Chauhan,2400IT1748,IT,6.88,81,53,0,57,72,3,8,1,Placed,10.17,Infosys
+Ritika Goel,2200CS1749,CSE,7.1,43,61,52,66,30,1,4,0,Not Placed,0.0,Not Placed
+Manish Singh,2100CS1750,CSE,7.57,63,34,55,53,50,4,7,2,Placed,5.03,Accenture
+Meghna Chauhan,2200CS1751,CSE,5.69,58,46,35,26,53,1,1,1,Not Placed,0.0,Not Placed
+Vihaan Kapoor,2400ME1752,ME,6.68,50,43,49,40,27,0,7,1,Not Placed,0.0,Not Placed
+Rajat Srivastava,2100CS1753,CSE,7.34,55,77,35,35,53,2,5,0,Placed,3.22,Cyient
+Prateek Mehta,2300CE1754,CE,7.8,40,100,60,63,31,0,2,2,Placed,3.16,Sapient
+Aman Khanna,2300EC1755,ECE,7.27,61,29,52,57,48,3,7,0,Placed,3.09,Concentrix
+Neeraj Singh,2400CS1756,CSE,7.85,80,71,71,38,43,4,8,0,Placed,37.61,Samsung R&D
+Reyansh Bajaj,2100EE1757,EE,7.13,41,35,32,69,43,1,5,0,Placed,3.84,Cyient
+Ravi Patel,2200IT1758,IT,5.59,55,37,30,66,63,1,7,0,Placed,3.34,NIIT
+Rahul Chauhan,2300IT1759,IT,7.16,73,57,45,64,63,4,8,0,Placed,9.18,Hexaware
+Preeti Thakur,2400EC1760,ECE,5.78,22,34,0,40,67,1,4,0,Not Placed,0.0,Not Placed
+Ishaan Arora,2300CS1761,CSE,6.95,63,50,29,54,41,2,4,1,Not Placed,0.0,Not Placed
+Ayaan Tiwari,2400CE1762,CE,6.59,48,89,0,44,61,1,3,2,Placed,3.13,Amdocs
+Aryan Joshi,2300CS1763,CSE,8.17,86,92,52,89,57,4,8,2,Placed,38.37,Goldman Sachs
+Sai Rastogi,2300CS1764,CSE,6.67,38,29,58,36,38,1,6,1,Placed,6.36,Hexaware
+Divya Saxena,2200ME1765,ME,8.68,63,56,71,69,65,3,3,1,Placed,7.96,Zoho
+Pooja Jain,2400EE1766,EE,7.03,22,72,15,41,35,3,6,1,Not Placed,0.0,Not Placed
+Pallavi Iyer,2300EC1767,ECE,6.3,63,23,50,44,52,2,4,2,Not Placed,0.0,Not Placed
+Varun Yadav,2100CS1768,CSE,6.89,54,32,28,59,52,2,0,0,Placed,10.79,Hexaware
+Sai Kapoor,2300IT1769,IT,6.83,66,26,21,36,41,0,6,0,Placed,3.76,Amdocs
+Gaurav Singh,2400EC1770,ECE,7.09,45,60,4,76,48,1,3,1,Not Placed,0.0,Not Placed
+Yash Yadav,2100EC1771,ECE,6.33,44,25,22,23,58,1,4,1,Not Placed,0.0,Not Placed
+Pallavi Reddy,2300CS1772,CSE,8.04,63,23,59,79,65,1,3,1,Placed,7.67,Hexaware
+Meghna Sharma,2300CS1773,CSE,9.8,100,76,57,66,31,0,5,0,Placed,10.55,Byju's
+Dev Reddy,2400ME1774,ME,6.81,41,28,51,48,55,1,5,1,Not Placed,0.0,Not Placed
+Akash Bajaj,2400CS1775,CSE,8.72,100,76,46,79,52,1,5,2,Placed,18.76,Flipkart
+Sonam Tiwari,2300CS1776,CSE,6.69,83,71,47,58,14,3,7,3,Placed,11.73,Infosys
+Akash Kapoor,2400CS1777,CSE,8.59,89,46,60,52,66,0,4,0,Placed,8.17,Hexaware
+Suraj Bhatt,2300IT1778,IT,8.69,66,67,41,52,73,3,4,0,Placed,4.22,Genpact
+Ravi Khanna,2300CS1779,CSE,7.9,70,40,55,68,42,4,6,2,Placed,6.25,Mindtree
+Preeti Chauhan,2100CS1780,CSE,8.44,99,58,61,69,82,2,2,4,Placed,9.99,TCS
+Neha Goel,2400EE1781,EE,5.61,43,33,16,45,56,0,5,1,Not Placed,0.0,Not Placed
+Sachin Singh,2300IT1782,IT,10.0,81,70,63,76,14,2,5,3,Placed,5.62,Cognizant
+Anika Singh,2100EC1783,ECE,7.33,64,32,20,53,49,3,1,3,Placed,3.39,Syntel
+Kriti Sharma,2400EC1784,ECE,6.74,63,25,37,51,28,0,2,0,Placed,3.05,Sapient
+Mayank Sethi,2200EC1785,ECE,7.3,45,63,56,81,61,3,5,1,Placed,5.79,Accenture
+Tanvi Chopra,2200ME1786,ME,7.78,63,57,44,40,79,1,3,4,Placed,4.74,Amdocs
+Reyansh Malhotra,2200CS1787,CSE,7.7,58,56,49,74,82,2,8,0,Placed,9.95,Paytm
+Sonal Patel,2200CS1788,CSE,8.4,76,78,45,80,57,4,8,1,Placed,11.01,Hexaware
+Pallavi Mishra,2100IT1789,IT,6.76,58,60,37,32,49,0,5,3,Placed,3.2,Mu Sigma
+Myra Joshi,2200CS1790,CSE,5.18,45,39,19,41,49,2,8,2,Not Placed,0.0,Not Placed
+Aadhya Arora,2400IT1791,IT,7.43,76,27,45,32,56,2,4,1,Not Placed,0.0,Not Placed
+Shruti Sethi,2400ME1792,ME,6.63,42,48,32,58,56,0,1,2,Placed,3.62,Amdocs
+Khushi Rawat,2400EC1793,ECE,6.48,44,43,40,87,36,1,5,3,Placed,4.89,Concentrix
+Ravi Jain,2400IT1794,IT,6.77,80,56,26,41,64,3,5,1,Placed,3.83,Syntel
+Neeraj Thakur,2100CE1795,CE,7.21,33,42,30,59,44,2,4,4,Not Placed,0.0,Not Placed
+Deepak Joshi,2100EC1796,ECE,4.29,21,17,1,39,12,0,5,2,Not Placed,0.0,Not Placed
+Manish Arora,2100CS1797,CSE,8.02,96,25,69,56,41,3,7,1,Placed,5.7,L&T Infotech
+Anika Agarwal,2300CE1798,CE,7.33,52,92,42,47,52,2,7,0,Placed,7.37,L&T Infotech
+Saanvi Rajput,2200CS1799,CSE,7.79,36,60,69,37,55,3,8,3,Placed,9.71,Infosys
+Simran Arora,2300IT1800,IT,7.94,77,48,36,63,84,3,7,2,Placed,4.88,Cognizant
+Diya Yadav,2200EC1801,ECE,7.26,75,79,39,41,42,4,6,0,Placed,6.36,Zoho
+Ananya Goel,2300EE1802,EE,7.84,44,25,35,51,47,2,5,0,Placed,4.67,Genpact
+Mayank Rawat,2100EE1803,EE,5.76,40,33,21,55,1,1,2,1,Not Placed,0.0,Not Placed
+Manish Bhatia,2100CS1804,CSE,5.83,69,39,32,26,50,1,4,1,Placed,3.96,Mu Sigma
+Aparna Chopra,2300IT1805,IT,8.46,65,72,55,49,84,2,5,0,Placed,7.68,L&T Infotech
+Sakshi Nair,2400EE1806,EE,7.54,68,53,58,39,43,3,4,1,Placed,6.76,Paytm
+Himanshu Jain,2400EC1807,ECE,5.29,58,32,28,62,45,2,2,1,Not Placed,0.0,Not Placed
+Trisha Chatterjee,2200CE1808,CE,6.64,28,58,44,28,47,1,3,1,Not Placed,0.0,Not Placed
+Isha Bajaj,2400EC1809,ECE,7.25,38,39,56,57,68,2,3,0,Placed,3.21,Amdocs
+Nikhil Kapoor,2100CS1810,CSE,6.0,45,54,44,35,95,1,5,1,Placed,3.95,Syntel
+Megha Mishra,2200IT1811,IT,10.0,86,66,45,63,72,3,8,2,Placed,7.95,Hexaware
+Ankit Goel,2100ME1812,ME,7.4,45,44,66,49,43,2,6,2,Placed,3.49,Cyient
+Advik Bajaj,2100CS1813,CSE,7.65,85,36,59,55,41,2,6,1,Placed,4.93,Sasken
+Himanshu Joshi,2100IT1814,IT,8.17,50,55,65,41,55,1,5,0,Placed,10.19,Infosys
+Arjun Rastogi,2200CS1815,CSE,6.81,64,62,47,29,34,2,5,1,Placed,5.76,HCL
+Isha Bhatt,2300IT1816,IT,6.29,53,43,32,40,78,1,5,2,Placed,3.95,Amdocs
+Prateek Verma,2300CE1817,CE,7.09,47,22,28,25,69,0,4,1,Not Placed,0.0,Not Placed
+Riya Das,2100EC1818,ECE,8.15,63,35,69,67,90,4,8,1,Placed,14.92,Oracle
+Anjali Mehta,2100EC1819,ECE,8.49,70,67,22,64,51,4,6,0,Placed,4.96,Infosys
+Akash Chauhan,2300EC1820,ECE,7.27,45,51,51,24,56,1,2,3,Not Placed,0.0,Not Placed
+Atharv Mehta,2100EE1821,EE,6.91,53,22,23,62,83,1,3,0,Not Placed,0.0,Not Placed
+Harsh Das,2200EC1822,ECE,6.16,56,25,45,60,32,2,2,1,Not Placed,0.0,Not Placed
+Rajat Malhotra,2200IT1823,IT,6.87,48,66,22,50,26,1,4,1,Not Placed,0.0,Not Placed
+Neeraj Singh,2300CE1824,CE,7.21,56,70,22,67,23,1,2,4,Placed,38.55,Uber
+Rohan Yadav,2400CS1825,CSE,6.21,49,39,51,39,31,1,5,1,Placed,3.71,Sapient
+Anjali Agarwal,2100CS1826,CSE,6.63,67,48,28,30,41,0,2,1,Not Placed,0.0,Not Placed
+Aryan Dhawan,2200CS1827,CSE,8.52,92,81,63,69,71,1,4,4,Placed,5.29,Tech Mahindra
+Anika Rastogi,2100CS1828,CSE,8.09,42,56,66,56,53,0,3,2,Placed,6.65,Accenture
+Aishwarya Das,2100ME1829,ME,7.99,69,38,43,70,43,1,0,1,Not Placed,0.0,Not Placed
+Diya Das,2200CS1830,CSE,8.6,94,67,45,85,44,3,8,2,Placed,4.83,Byju's
+Kabir Khanna,2100EE1831,EE,7.38,64,52,28,45,95,1,3,1,Placed,7.35,HCL
+Harsh Chopra,2400CS1832,CSE,6.64,72,52,23,58,31,0,2,2,Not Placed,0.0,Not Placed
+Isha Thakur,2200EC1833,ECE,5.48,14,48,20,45,29,0,6,0,Not Placed,0.0,Not Placed
+Rahul Bhatt,2200CE1834,CE,7.18,55,59,14,69,29,2,5,1,Placed,4.55,Genpact
+Aishwarya Chatterjee,2100CS1835,CSE,8.09,77,88,57,58,92,0,8,1,Placed,11.75,TCS
+Shivani Bansal,2200CS1836,CSE,6.39,29,50,23,66,57,4,4,0,Placed,4.13,Mu Sigma
+Vishal Rastogi,2300EC1837,ECE,6.3,51,18,43,48,56,2,8,2,Placed,11.99,Paytm
+Meghna Dubey,2300CS1838,CSE,8.24,100,37,61,80,40,2,4,2,Placed,9.14,TCS
+Mayank Bhatt,2100ME1839,ME,6.15,60,65,0,47,36,1,5,3,Placed,4.21,iGate
+Nikhil Agarwal,2200ME1840,ME,6.37,23,60,31,62,35,2,2,5,Not Placed,0.0,Not Placed
+Komal Dubey,2300CS1841,CSE,6.14,41,54,39,47,53,3,8,0,Placed,4.62,Byju's
+Aditi Mehta,2400CS1842,CSE,8.58,61,92,51,100,42,1,7,1,Placed,3.89,iGate
+Yash Malhotra,2300EC1843,ECE,8.26,81,77,64,52,49,0,3,3,Placed,10.96,HCL
+Radhika Kapoor,2100CS1844,CSE,6.9,53,47,31,68,65,3,8,0,Placed,30.31,Amazon
+Abhishek Joshi,2100ME1845,ME,8.66,71,37,65,62,68,2,8,0,Placed,5.21,Byju's
+Kartik Pandey,2400CS1846,CSE,9.1,76,69,58,72,55,1,7,2,Placed,4.61,Mindtree
+Preeti Reddy,2100CS1847,CSE,7.6,82,43,28,44,44,1,3,2,Placed,4.17,NIIT
+Yash Chatterjee,2100CS1848,CSE,6.08,30,53,46,53,66,0,6,1,Not Placed,0.0,Not Placed
+Anjali Dhawan,2300IT1849,IT,7.67,78,63,59,50,72,3,8,1,Placed,11.64,Capgemini
+Aman Sharma,2100ME1850,ME,5.62,20,56,54,39,47,2,7,1,Not Placed,0.0,Not Placed
+Divya Tiwari,2400IT1851,IT,8.49,65,49,35,67,57,0,4,1,Placed,4.16,Mu Sigma
+Mayank Verma,2300EC1852,ECE,6.28,13,42,37,48,60,3,2,0,Placed,4.27,Sapient
+Sai Bajaj,2300EC1853,ECE,7.65,61,36,80,46,67,2,7,2,Not Placed,0.0,Not Placed
+Advaith Rawat,2300CS1854,CSE,6.81,63,61,30,58,61,1,8,3,Placed,4.54,Mu Sigma
+Ritika Dhawan,2200CS1855,CSE,7.08,70,32,45,60,53,1,7,1,Placed,6.97,TCS
+Tushar Reddy,2100CE1856,CE,5.98,38,50,34,66,36,4,5,0,Not Placed,0.0,Not Placed
+Kriti Thakur,2400EC1857,ECE,5.11,47,65,31,32,19,2,2,2,Not Placed,0.0,Not Placed
+Manish Tiwari,2200EE1858,EE,7.41,42,37,37,61,28,0,4,1,Not Placed,0.0,Not Placed
+Saurabh Jain,2100CE1859,CE,6.76,48,69,22,18,49,1,0,1,Placed,4.26,Concentrix
+Kriti Srivastava,2300CS1860,CSE,7.51,51,27,81,86,32,2,2,2,Placed,4.14,Genpact
+Dev Bhatt,2300CS1861,CSE,8.76,90,83,59,67,67,2,8,0,Placed,24.51,Oracle
+Aanya Mukherjee,2100ME1862,ME,7.67,53,49,47,72,56,1,8,1,Placed,9.09,Paytm
+Komal Das,2300CS1863,CSE,7.56,40,64,35,24,52,1,3,2,Placed,7.08,Infosys
+Ritika Arora,2100EC1864,ECE,6.76,71,30,34,50,91,2,4,1,Placed,3.35,Genpact
+Kabir Das,2400CS1865,CSE,7.6,46,34,38,63,55,2,5,0,Placed,4.96,Sapient
+Nikhil Tiwari,2300CS1866,CSE,8.21,95,80,67,36,41,1,8,5,Placed,10.78,Infosys
+Mayank Srivastava,2400CS1867,CSE,8.0,59,27,65,42,50,2,8,1,Placed,4.03,NIIT
+Advik Chauhan,2300ME1868,ME,7.33,53,40,45,63,45,2,5,1,Placed,9.63,Cognizant
+Tushar Patel,2100CS1869,CSE,9.49,82,91,42,64,30,3,6,1,Placed,33.98,Samsung R&D
+Diya Sethi,2300IT1870,IT,6.6,71,19,35,47,62,1,2,1,Not Placed,0.0,Not Placed
+Neha Patel,2400CS1871,CSE,8.73,98,81,74,82,47,4,8,0,Placed,19.91,Adobe
+Ananya Kapoor,2200IT1872,IT,9.42,94,78,48,75,76,4,6,4,Placed,28.32,Microsoft
+Preeti Patel,2400EC1873,ECE,8.5,58,70,49,62,37,2,2,1,Placed,6.07,L&T Infotech
+Sai Singh,2100EE1874,EE,6.25,50,45,31,31,53,1,4,2,Not Placed,0.0,Not Placed
+Nidhi Kumar,2200ME1875,ME,8.39,71,49,70,58,70,2,3,1,Placed,7.07,TCS
+Ananya Goel,2400IT1876,IT,6.04,48,52,25,48,29,1,4,1,Not Placed,0.0,Not Placed
+Reyansh Singh,2100CE1877,CE,5.41,18,1,37,45,49,1,1,0,Not Placed,0.0,Not Placed
+Anjali Reddy,2100IT1878,IT,6.59,34,78,43,69,65,3,6,2,Placed,3.21,Sasken
+Pooja Dhawan,2100EE1879,EE,9.09,81,75,51,74,40,3,1,1,Placed,27.24,Samsung R&D
+Sonal Mukherjee,2100EC1880,ECE,6.33,47,48,18,43,47,2,3,1,Placed,3.66,Sapient
+Deepak Rajput,2300EC1881,ECE,6.94,56,64,13,54,73,3,6,2,Placed,5.13,L&T Infotech
+Reyansh Patel,2100EC1882,ECE,6.64,47,54,48,48,64,1,5,0,Not Placed,0.0,Not Placed
+Saurabh Tiwari,2200CE1883,CE,4.0,0,13,0,21,52,0,0,2,Not Placed,0.0,Not Placed
+Meghna Das,2400CS1884,CSE,8.47,100,65,65,40,48,1,4,1,Placed,9.5,Hexaware
+Riya Saxena,2200EC1885,ECE,10.0,100,53,65,68,57,3,4,2,Placed,11.37,Zoho
+Aditya Jain,2300CE1886,CE,8.81,66,93,23,52,47,3,0,2,Placed,6.35,L&T Infotech
+Bhavna Bhatia,2300CE1887,CE,5.0,46,0,61,20,69,2,5,3,Not Placed,0.0,Not Placed
+Ishaan Joshi,2300IT1888,IT,8.21,82,72,53,73,79,2,5,1,Placed,6.47,L&T Infotech
+Tanvi Arora,2100IT1889,IT,6.27,62,61,36,33,75,1,4,2,Placed,4.66,Cyient
+Aditya Saxena,2100CE1890,CE,4.72,11,19,22,45,54,0,1,1,Not Placed,0.0,Not Placed
+Meghna Tiwari,2200CS1891,CSE,6.63,9,62,17,56,59,2,3,3,Not Placed,0.0,Not Placed
+Vihaan Kapoor,2200CE1892,CE,8.35,27,55,22,60,67,1,2,1,Placed,3.9,Syntel
+Radhika Kapoor,2300EE1893,EE,7.3,40,45,26,54,68,2,2,1,Not Placed,0.0,Not Placed
+Pallavi Kapoor,2200CS1894,CSE,7.0,62,85,40,64,46,3,8,5,Placed,4.55,Infosys
+Saanvi Rawat,2200EC1895,ECE,6.58,36,56,35,37,40,1,6,1,Not Placed,0.0,Not Placed
+Tushar Srivastava,2200CS1896,CSE,7.1,84,34,38,56,41,3,5,2,Placed,5.64,Tech Mahindra
+Aryan Joshi,2300ME1897,ME,8.72,72,46,52,84,76,0,2,2,Placed,7.45,Zoho
+Sneha Reddy,2200CE1898,CE,7.58,77,74,48,57,24,2,2,1,Placed,11.28,Paytm
+Rahul Sharma,2100EC1899,ECE,9.12,60,85,33,80,65,4,6,1,Placed,10.15,Accenture
+Manish Agarwal,2200EC1900,ECE,4.71,54,29,29,10,66,3,4,1,Not Placed,0.0,Not Placed
+Jyoti Tiwari,2300IT1901,IT,8.68,100,84,64,71,74,2,4,0,Placed,4.84,TCS
+Advik Tiwari,2300CS1902,CSE,7.73,100,45,43,46,42,3,8,4,Placed,6.79,Wipro
+Dhruv Pandey,2300EC1903,ECE,6.99,49,60,54,47,71,2,2,1,Placed,3.16,Cyient
+Atharv Tiwari,2100CE1904,CE,5.46,54,5,31,30,63,1,6,1,Placed,4.13,Concentrix
+Pari Verma,2200CE1905,CE,6.98,26,46,35,40,42,2,7,3,Not Placed,0.0,Not Placed
+Megha Agarwal,2300EE1906,EE,7.63,67,51,41,50,60,2,4,3,Placed,7.19,Byju's
+Harsh Iyer,2200EC1907,ECE,10.0,73,61,59,57,43,2,5,2,Placed,31.71,Flipkart
+Trisha Chauhan,2400EC1908,ECE,7.44,51,79,41,46,68,2,2,2,Placed,7.57,Byju's
+Ayaan Yadav,2200CE1909,CE,7.43,58,54,44,71,65,1,0,2,Not Placed,0.0,Not Placed
+Advik Bhatt,2400EC1910,ECE,6.12,47,48,34,39,64,1,1,3,Not Placed,0.0,Not Placed
+Nidhi Dhawan,2400EC1911,ECE,6.83,33,77,58,60,49,3,3,0,Placed,5.94,Mphasis
+Vivaan Bajaj,2200EE1912,EE,8.02,58,43,37,30,67,2,7,1,Placed,8.44,Paytm
+Sara Malhotra,2200EE1913,EE,8.84,85,63,24,66,64,3,5,4,Placed,10.95,TCS
+Myra Thakur,2400EC1914,ECE,8.41,48,41,76,74,66,3,8,1,Placed,11.19,HCL
+Vishal Bajaj,2100EC1915,ECE,5.72,32,24,34,28,50,1,1,1,Not Placed,0.0,Not Placed
+Ravi Nair,2300EC1916,ECE,6.99,60,63,34,42,45,1,6,0,Placed,3.22,Syntel
+Riya Malhotra,2300CE1917,CE,8.27,74,73,46,72,43,2,2,2,Placed,7.06,Mindtree
+Nupur Rawat,2400EE1918,EE,7.29,80,80,59,34,76,1,4,3,Placed,6.15,Cognizant
+Aditi Sethi,2100IT1919,IT,7.19,48,43,37,51,64,1,7,1,Placed,3.95,Genpact
+Advik Chatterjee,2200CS1920,CSE,9.95,100,74,78,73,78,3,3,3,Placed,43.17,Uber
+Harsh Mukherjee,2400CS1921,CSE,7.49,71,64,44,36,49,3,6,2,Placed,3.72,Sasken
+Rahul Mehta,2100EE1922,EE,7.8,56,64,58,15,44,2,6,3,Placed,8.76,Wipro
+Ritvik Chatterjee,2300EC1923,ECE,8.32,52,40,54,82,37,2,4,2,Placed,5.54,HCL
+Deepak Thakur,2300CS1924,CSE,8.99,100,54,20,63,60,2,7,2,Placed,5.4,Capgemini
+Sonal Mukherjee,2400IT1925,IT,9.1,100,82,39,72,76,4,3,1,Placed,11.81,Accenture
+Nidhi Rastogi,2400EC1926,ECE,8.82,65,49,34,72,100,4,4,3,Placed,10.63,TCS
+Varun Srivastava,2300CS1927,CSE,7.59,72,64,64,73,88,3,5,3,Placed,8.32,Mphasis
+Amit Mishra,2300ME1928,ME,6.44,28,65,27,3,0,1,4,3,Not Placed,0.0,Not Placed
+Kabir Srivastava,2100IT1929,IT,6.36,52,88,44,58,62,3,8,3,Placed,3.51,NIIT
+Rahul Gupta,2200CE1930,CE,8.19,67,68,24,48,80,3,0,2,Placed,4.37,Sapient
+Kartik Kapoor,2300IT1931,IT,7.91,39,48,81,50,51,2,6,0,Placed,7.14,Cognizant
+Priya Dhawan,2200CS1932,CSE,6.03,55,20,23,56,53,2,2,0,Not Placed,0.0,Not Placed
+Aanya Goel,2300CS1933,CSE,5.47,50,50,32,50,45,4,6,2,Not Placed,0.0,Not Placed
+Swati Reddy,2100ME1934,ME,6.81,87,44,68,60,55,3,7,1,Placed,7.33,Tech Mahindra
+Nikhil Srivastava,2200IT1935,IT,9.83,80,53,39,45,49,3,3,2,Placed,30.94,Adobe
+Pooja Rajput,2400EE1936,EE,7.08,75,31,23,62,63,2,4,1,Placed,4.91,Syntel
+Isha Malhotra,2200CE1937,CE,6.8,30,65,40,62,47,2,5,0,Placed,10.88,Capgemini
+Sneha Chatterjee,2400IT1938,IT,8.61,66,56,30,67,59,4,4,1,Placed,6.8,Paytm
+Rahul Jain,2200CS1939,CSE,7.26,76,70,55,51,38,3,3,0,Placed,7.42,Cognizant
+Prateek Bhatia,2300CS1940,CSE,4.3,23,7,25,19,35,0,8,1,Not Placed,0.0,Not Placed
+Ankur Mukherjee,2400IT1941,IT,6.56,63,46,1,27,35,2,8,3,Placed,4.04,Cyient
+Nidhi Sethi,2100ME1942,ME,7.33,68,53,27,53,30,0,6,1,Placed,4.18,Sasken
+Krishna Yadav,2300CS1943,CSE,6.05,70,1,45,36,37,1,4,3,Not Placed,0.0,Not Placed
+Anjali Dubey,2400CE1944,CE,4.64,16,35,21,32,37,0,3,2,Not Placed,0.0,Not Placed
+Akash Nair,2200EE1945,EE,5.67,55,51,26,39,12,0,3,1,Not Placed,0.0,Not Placed
+Pari Kapoor,2400IT1946,IT,7.8,59,87,54,66,41,2,4,0,Placed,9.06,Mphasis
+Isha Chauhan,2100EC1947,ECE,9.96,16,67,65,85,33,4,4,1,Placed,7.54,Mphasis
+Vivaan Dhawan,2400CE1948,CE,7.63,56,22,51,71,46,1,8,2,Placed,5.76,TCS
+Advik Kumar,2400CS1949,CSE,8.86,84,61,53,71,52,3,4,4,Placed,26.57,Goldman Sachs
+Advaith Bansal,2100IT1950,IT,6.81,56,37,37,57,66,1,3,1,Not Placed,0.0,Not Placed
+Ananya Arora,2100CS1951,CSE,7.84,78,36,77,60,39,2,7,2,Placed,9.5,Wipro
+Pallavi Reddy,2200IT1952,IT,6.52,64,55,7,12,41,2,5,0,Not Placed,0.0,Not Placed
+Krishna Bhatt,2400IT1953,IT,6.87,58,75,26,60,12,1,2,2,Placed,8.03,Tech Mahindra
+Mohit Dubey,2200ME1954,ME,7.72,53,48,51,57,43,1,6,2,Placed,3.9,Genpact
+Komal Joshi,2200IT1955,IT,8.49,92,47,62,63,34,1,5,1,Placed,7.55,L&T Infotech
+Nikita Tiwari,2400IT1956,IT,7.35,27,82,68,67,58,4,8,1,Placed,7.01,Cognizant
+Aarav Yadav,2400CS1957,CSE,8.3,68,66,75,48,59,2,8,2,Placed,7.15,Infosys
+Radhika Saxena,2300EC1958,ECE,7.46,56,46,48,22,36,1,5,4,Placed,4.45,Sasken
+Sonal Iyer,2100IT1959,IT,6.03,55,19,7,54,59,1,6,0,Not Placed,0.0,Not Placed
+Ritvik Iyer,2300CS1960,CSE,9.03,56,38,71,62,22,2,0,0,Placed,3.04,iGate
+Shivani Pandey,2400CE1961,CE,6.7,47,10,26,52,50,0,2,0,Not Placed,0.0,Not Placed
+Atharv Bajaj,2400EE1962,EE,10.0,89,84,69,94,70,2,6,3,Placed,20.71,Samsung R&D
+Trisha Pandey,2100IT1963,IT,6.97,61,75,17,75,38,2,4,0,Placed,9.43,Capgemini
+Aryan Chauhan,2300EE1964,EE,6.95,72,64,31,60,77,4,6,0,Placed,8.84,Byju's
+Trisha Kumar,2200IT1965,IT,9.36,89,85,49,73,65,2,8,2,Placed,6.11,Byju's
+Pallavi Khanna,2100CE1966,CE,7.55,55,44,26,57,14,2,1,0,Not Placed,0.0,Not Placed
+Aadhya Patel,2300IT1967,IT,5.67,52,30,29,43,48,4,8,0,Not Placed,0.0,Not Placed
+Jyoti Chauhan,2300CE1968,CE,5.32,21,47,45,21,64,1,2,0,Not Placed,0.0,Not Placed
+Ravi Gupta,2400CS1969,CSE,6.7,84,54,61,50,40,2,8,2,Placed,11.56,TCS
+Tushar Iyer,2400EE1970,EE,10.0,83,59,87,83,46,3,6,4,Placed,42.61,Flipkart
+Priya Reddy,2100CS1971,CSE,5.84,68,31,50,24,21,2,2,2,Not Placed,0.0,Not Placed
+Dhruv Agarwal,2200EC1972,ECE,5.25,51,20,31,16,43,1,2,1,Not Placed,0.0,Not Placed
+Trisha Iyer,2400CS1973,CSE,7.79,65,69,55,50,42,1,6,0,Placed,4.4,Syntel
+Sai Khanna,2200CE1974,CE,7.04,72,0,57,63,17,2,4,3,Placed,3.21,Syntel
+Vishal Rastogi,2200CS1975,CSE,8.56,75,39,51,68,70,3,5,1,Placed,5.77,Wipro
+Abhishek Patel,2200CS1976,CSE,7.09,57,74,15,58,76,0,4,0,Placed,4.59,iGate
+Akash Reddy,2200CS1977,CSE,7.41,62,74,22,35,65,2,5,0,Placed,4.56,Infosys
+Kartik Rastogi,2200IT1978,IT,7.37,53,45,53,59,65,0,3,2,Placed,3.92,Syntel
+Riya Dubey,2100CE1979,CE,6.04,32,19,0,38,21,2,3,0,Not Placed,0.0,Not Placed
+Varun Singh,2100CS1980,CSE,7.01,40,59,21,60,58,2,5,1,Placed,4.92,Amdocs
+Jyoti Singh,2100EE1981,EE,5.04,20,57,26,43,41,0,2,2,Not Placed,0.0,Not Placed
+Aman Nair,2200IT1982,IT,5.98,61,15,30,49,40,1,3,1,Placed,3.47,Genpact
+Neha Tiwari,2100ME1983,ME,6.0,57,35,15,32,37,1,5,1,Not Placed,0.0,Not Placed
+Ankur Verma,2100ME1984,ME,5.66,31,11,19,33,35,2,2,3,Not Placed,0.0,Not Placed
+Priya Kumar,2200IT1985,IT,7.79,55,81,31,51,71,3,8,3,Placed,4.68,Byju's
+Yash Chauhan,2200ME1986,ME,7.94,42,21,64,65,75,2,1,0,Placed,6.36,TCS
+Bhavna Patel,2300IT1987,IT,6.5,40,42,58,44,67,2,3,4,Not Placed,0.0,Not Placed
+Aishwarya Tiwari,2200IT1988,IT,9.45,60,61,66,93,54,1,5,1,Placed,14.27,Oracle
+Komal Agarwal,2200IT1989,IT,7.28,43,79,36,44,52,0,1,0,Not Placed,0.0,Not Placed
+Reyansh Bhatia,2300ME1990,ME,6.94,42,48,17,25,88,3,6,0,Not Placed,0.0,Not Placed
+Aarav Reddy,2300CS1991,CSE,6.85,54,22,10,50,51,2,4,0,Placed,4.63,Mu Sigma
+Sneha Iyer,2200CS1992,CSE,6.13,55,16,37,52,37,1,4,3,Not Placed,0.0,Not Placed
+Yash Rastogi,2300ME1993,ME,4.0,3,37,27,6,30,1,2,1,Not Placed,0.0,Not Placed
+Vihaan Dubey,2400ME1994,ME,7.01,34,25,19,60,60,3,8,1,Placed,9.49,Cognizant
+Pari Bhatt,2200CE1995,CE,6.75,22,19,34,40,32,1,2,1,Not Placed,0.0,Not Placed
+Pari Dhawan,2300CS1996,CSE,7.45,82,83,56,71,66,3,7,1,Placed,9.75,Mphasis
+Vidhi Jain,2300EE1997,EE,6.2,49,39,41,39,43,2,5,0,Placed,3.97,Concentrix
+Trisha Joshi,2100CE1998,CE,5.41,44,43,29,47,38,1,5,3,Not Placed,0.0,Not Placed
+Diya Dhawan,2400ME1999,ME,6.09,36,44,5,36,31,1,0,1,Not Placed,0.0,Not Placed
