@@ -7,50 +7,43 @@ import os
 app = Flask(__name__)
 CORS(app)
 
-# 📁 Path setup
+# 📁 Correct path
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MODELS_DIR = os.path.join(BASE_DIR, "models")
 
-print("🔄 Loading ML models from:", MODELS_DIR)
+print("📁 MODELS_DIR:", MODELS_DIR)
 
-# ✅ Default None (IMPORTANT)
-logistic_model = None
-random_forest_model = None
-salary_model = None
-scaler_class = None
-scaler_salary = None
-
-# 🔄 Load models safely
+# ✅ Load models ONCE only
 try:
     logistic_model = joblib.load(os.path.join(MODELS_DIR, 'logistic_regression.pkl'))
     random_forest_model = joblib.load(os.path.join(MODELS_DIR, 'random_forest.pkl'))
     salary_model = joblib.load(os.path.join(MODELS_DIR, 'salary_predictor.pkl'))
     scaler_class = joblib.load(os.path.join(MODELS_DIR, 'scaler_classification.pkl'))
     scaler_salary = joblib.load(os.path.join(MODELS_DIR, 'scaler_salary.pkl'))
+
     print("✅ Models loaded successfully!")
+
 except Exception as e:
     print("❌ Model loading failed:", e)
-    print("⚠️ Running in fallback mode (dummy predictions)")
+    logistic_model = None
+    random_forest_model = None
+    salary_model = None
+    scaler_class = None
+    scaler_salary = None
 
 # ─────────────────────────────────────────────
-# Root route
-# ─────────────────────────────────────────────
-@app.route('/', methods=['GET'])
+@app.route('/')
 def home():
     return jsonify({"message": "ML API is running 🚀"})
 
 # ─────────────────────────────────────────────
-# Health check
-# ─────────────────────────────────────────────
-@app.route('/health', methods=['GET'])
+@app.route('/health')
 def health():
     return jsonify({
-        'status': 'ok',
-        'models_loaded': random_forest_model is not None
+        "status": "ok",
+        "models_loaded": random_forest_model is not None
     })
 
-# ─────────────────────────────────────────────
-# Prediction API
 # ─────────────────────────────────────────────
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -58,11 +51,8 @@ def predict():
         data = request.get_json()
 
         if not data:
-            return jsonify({"error": "No input data provided"}), 400
+            return jsonify({"error": "No input"}), 400
 
-        print("📥 Input:", data)
-
-        # Extract features
         features = np.array([[ 
             float(data.get('cgpa', 0)),
             float(data.get('dsa', 0)),
@@ -75,39 +65,30 @@ def predict():
             int(data.get('hackathons', 0))
         ]])
 
-        # 🚨 If models not loaded → fallback
-        if random_forest_model is None or scaler_class is None:
+        # 🚨 fallback if models fail
+        if random_forest_model is None:
             return jsonify({
-                "placement_probability": 50.0,
-                "placement_status": "Unknown (Model not loaded)",
-                "expected_salary": 4.0,
-                "note": "Fallback mode active"
+                "placement_probability": 50,
+                "placement_status": "Model not loaded",
+                "expected_salary": 4
             })
 
-        # ✅ Scale features
         features_scaled_class = scaler_class.transform(features)
         features_scaled_salary = scaler_salary.transform(features)
 
-        # ✅ Prediction
-        rf_prob = random_forest_model.predict_proba(features_scaled_class)[0][1]
-        placement_prob = round(float(rf_prob) * 100, 2)
-
-        salary = float(salary_model.predict(features_scaled_salary)[0])
-        salary = round(max(salary, 3.0), 2)
+        prob = random_forest_model.predict_proba(features_scaled_class)[0][1]
+        salary = salary_model.predict(features_scaled_salary)[0]
 
         return jsonify({
-            "placement_probability": placement_prob,
-            "placement_status": "Likely Placed" if placement_prob >= 50 else "At Risk",
-            "expected_salary": salary
+            "placement_probability": round(prob * 100, 2),
+            "placement_status": "Likely Placed" if prob > 0.5 else "At Risk",
+            "expected_salary": round(float(salary), 2)
         })
 
     except Exception as e:
-        print("🔥 Prediction error:", e)
         return jsonify({"error": str(e)}), 500
 
-# ─────────────────────────────────────────────
-# Run server
-# ─────────────────────────────────────────────
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
-    app.run(host='0.0.0.0', port=port)
+    app.run(host="0.0.0.0", port=port)
